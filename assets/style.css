@@ -26,3 +26,14 @@ ul.archive{list-style:none;padding:0}
 ul.archive li{padding:10px 0;border-bottom:1px solid var(--line)}
 ul.archive .fn{display:block;color:var(--muted);font-size:.8rem}
 footer.site{border-top:1px solid var(--line);color:var(--muted);font-size:.9rem;padding:14px 0}
+.install-hint{display:flex;gap:10px;align-items:center;background:var(--card);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:6px;padding:10px 12px;margin:0 0 16px;font-size:.95rem}
+.install-hint[hidden]{display:none}
+.install-text{flex:1}
+.install-btn,.signup button{background:var(--accent);color:#fff;border:0;border-radius:5px;padding:7px 14px;font:inherit;font-weight:600;cursor:pointer}
+.install-btn[hidden]{display:none}
+.install-close{background:none;border:0;color:var(--muted);font-size:1.3rem;line-height:1;cursor:pointer;padding:0 4px}
+section.follow{margin-top:2.4em;padding:16px;border:1px solid var(--line);border-radius:8px;background:var(--card)}
+section.follow h2{margin-top:0;padding-top:0;border-top:0}
+.signup form{display:flex;flex-wrap:wrap;gap:8px;margin:.6em 0}
+.signup input[type=email]{flex:1;min-width:200px;padding:8px 10px;border:1px solid var(--line);border-radius:5px;background:var(--bg);color:var(--fg);font:inherit}
+.fine{color:var(--muted);font-size:.85rem}

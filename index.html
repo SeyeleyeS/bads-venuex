@@ -1,21 +1,33 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-root="./">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>BADS: Bay Area Daily Sync</title>
 <meta name="description" content="Your SF Bay Area brief, refreshed every 8 hours.">
+<meta name="theme-color" content="#0b6e99" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121417" media="(prefers-color-scheme: dark)">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32.png">
+<link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="BADS">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<link rel="alternate" type="application/rss+xml" title="BADS: Bay Area Daily Sync" href="https://bads.venuex.net/feed.xml">
 <link rel="stylesheet" href="assets/style.css">
+<script src="assets/app.js" defer></script>
 </head>
 <body>
 <header class="site">
   <div class="wrap">
     <a class="brand" href="index.html">BADS: Bay Area Daily Sync</a>
     <p class="tagline">Your SF Bay Area brief, refreshed every 8 hours.</p>
-    <nav><a class="current" href="index.html">Latest</a> <a class="" href="archive/index.html">Archive</a></nav>
+    <nav><a class="current" href="index.html">Latest</a> <a class="" href="archive/index.html">Archive</a> <a href="index.html#follow">Get updates</a> <a href="feed.xml">RSS</a></nav>
   </div>
 </header>
 <main class="wrap">
+<div class="install-hint" id="install-hint" hidden><span class="install-text"></span><button class="install-btn" type="button" hidden>Install</button><button class="install-close" type="button" aria-label="Dismiss">&times;</button></div>
 <p class="stamp">Latest brief · <a href="archive/bayareadailysync-2026-10-26-0610.html">permalink</a> · <a href="archive/index.html">past briefs</a></p><article class="brief"><h1>Urban Concierge Brief: SF Bay Area</h1>
 <p><strong>Monday Oct 26 – Wednesday Oct 28, 2026</strong> · Snapshot compiled Mon Oct 26, 2026, 6:10 am PT (BayAreaDailySync)</p>
 <p><strong>What changed since the last brief (Sun 10:01 pm):</strong> no major changes. NWS forecast nudged (Tue night low 51, Wed sunny high 65); the Coastal Flood Advisory is unchanged; BART reposted the Millbrae–SFO–Daly City 9 pm delay advisory at 3:36 am; Caltrans and SFMTA posted nothing new. I-80 WB (5th–15th St) and SR-37 reopened this morning as scheduled per Caltrans' notices (live status not confirmed).</p>
@@ -95,6 +107,8 @@ Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel
 <li>Event listings and restaurant details were carried from the Sun 10 pm run, not re-opened this run.</li>
 <li>Halloween (Oct 31) events beyond SFMTA's closure list.</li>
 </ol></article>
+<section class="follow" id="follow"><h2>Get updates</h2><!-- email signup placeholder: set signup.form_action in site.json, then run publish.py --rebuild -->
+<p>Follow new briefs in any reader app with the <a href="feed.xml">RSS feed</a>, or install BADS on your phone (see the tip at the top).</p></section>
 </main>
 <footer class="site"><div class="wrap"><p>Built from public sources. Snapshot, not real-time; check official links before you go.</p></div></footer>
 </body>

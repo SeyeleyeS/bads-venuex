@@ -1,0 +1,9 @@
+{
+  "site_url": "https://bads.venuex.net/",
+  "signup": {
+    "form_action": "",
+    "provider_name": "",
+    "email_field": "email",
+    "hidden_fields": {}
+  }
+}
