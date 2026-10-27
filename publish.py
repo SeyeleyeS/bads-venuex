@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Publish a BayAreaDailySync brief to the BADS static site (bads.venuex.net).
+"""Publish a BayAreaDailySync brief to the BADS static site (bamedia.agency).
 
 Usage:
   python3 publish.py <brief.md> [<brief.md> ...] [--archive-only] [--no-push]
@@ -30,7 +30,7 @@ SITE_TITLE = "BADS: Bay Area Daily Sync"
 TAGLINE = "Your SF Bay Area brief, refreshed every 8 hours."
 FOOTER = "Built from public sources. Snapshot, not real-time; check official links before you go."
 CONFIG = json.load(open(os.path.join(ROOT, "site.json"), encoding="utf-8"))
-SITE_URL = CONFIG.get("site_url", "https://bads.venuex.net/").rstrip("/") + "/"
+SITE_URL = CONFIG.get("site_url", "https://bamedia.agency/").rstrip("/") + "/"
 FEED_ITEMS = 20
 TZ = ZoneInfo("America/Los_Angeles")
 
