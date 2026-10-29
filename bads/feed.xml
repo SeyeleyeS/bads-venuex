@@ -1,0 +1,1147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>BADS: Bay Area Daily Sync</title>
+  <link>https://bamedia.agency/bads/</link>
+  <atom:link href="https://bamedia.agency/bads/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>Your SF Bay Area brief, refreshed every 8 hours.</description>
+  <language>en-us</language>
+  <lastBuildDate>Thu, 29 Oct 2026 06:08:00 -0700</lastBuildDate>
+  <ttl>60</ttl>
+  <image><url>https://bamedia.agency/bads/assets/icons/icon-192.png</url><title>BADS: Bay Area Daily Sync</title><link>https://bamedia.agency/bads/</link></image>
+  <item>
+    <title>Urban Concierge Brief: SF Bay Area · Thursday Oct 29 – Saturday Oct 31, 2026 · Snapshot compiled Thu Oct 29, 2026, 6:08 am PT (BayAreaDailySync)</title>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-29-0608.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-29-0608.html</guid>
+    <pubDate>Thu, 29 Oct 2026 06:08:00 -0700</pubDate>
+    <description>Thursday Oct 29 – Saturday Oct 31, 2026 · Snapshot compiled Thu Oct 29, 2026, 6:08 am PT (BayAreaDailySync)</description>
+    <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
+<p><strong>Thursday Oct 29 – Saturday Oct 31, 2026</strong> · Snapshot compiled Thu Oct 29, 2026, 6:08 am PT (BayAreaDailySync)</p>
+<p><strong>What changed since the last brief (Wed 10:09 pm):</strong> no major changes. NWS dropped the Saturday-evening rain chance (now 12%, mostly cloudy, high near 64). BART had a 20-minute systemwide delay early this morning after a disabled train near Daly City; service has resumed. The Exploratorium's Creepatorium tonight is now confirmed on its own page.</p>
+<hr />
+<h2>Weather and alerts</h2>
+<p><strong>NWS (SF, forecast updated 1:26 am Thu):</strong> Thursday mostly cloudy, high near 68, falling to around 65 in the afternoon; Thursday night mostly cloudy, low around 55. Friday mostly sunny, high near 65, west wind up to 12 mph; Friday night partly cloudy, low around 53. Saturday mostly cloudy, high near 64 (12% chance of rain); Saturday night partly cloudy, low around 51, so Halloween evening looks dry.<br />
+Source: <a href="https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1" target="_blank" rel="noopener">https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1</a></p>
+<p><strong>Coastal Flood Advisory (reissued 4:23 am Oct 29; until Sat Oct 31, 6 pm PDT):</strong> up to 1.9 ft of inundation in low-lying areas along San Pablo Bay, SF Bay and Monterey Bay, worst along the Marin bayshore. SF high tides: 7.7 ft at 1:43 pm Thu, 7.4 ft at 2:39 pm Fri, 6.9 ft at 3:44 pm Sat. Expect flooding of low-lying roads and isolated road closures.<br />
+Source: <a href="https://api.weather.gov/alerts/active?point=37.7749,-122.4194" target="_blank" rel="noopener">https://api.weather.gov/alerts/active?point=37.7749,-122.4194</a></p>
+<h2>Road closures (Caltrans District 4)</h2>
+<ul>
+<li><strong>SR-82 (El Camino Real), Burlingame, Carmelita Ave to Floribunda Ave: northbound lanes fully closed through Fri Oct 30, 9 am–6 pm,</strong> for tree removal. Detour via California Drive; SamTrans buses detoured. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-sr82-short-term-closure-ecr-tree-work" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-sr82-short-term-closure-ecr-tree-work</a></li>
+<li><strong>SR-84, La Honda to Woodside (Foxhill Rd to Memory Ln): one-way traffic control through Fri Oct 30, 7 am–5 pm,</strong> for striping. Weather dependent. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-sr84-traffic-control-striping-work" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-sr84-traffic-control-striping-work</a></li>
+<li><strong>SR-29 (Sonoma Blvd), Vallejo: two lanes closed (one open) through Nov 6,</strong> Mon–Thu 9 am–6 pm, Fri 9 am–7 pm. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr29-daytime-two-lane-closure" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr29-daytime-two-lane-closure</a></li>
+<li><strong>SR-92/US-101, San Mateo: nightly ramp closures through Fri Oct 30</strong> (Thu night the WB 92 to SB 101 loop ramp closes 9 pm–5 am). <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures</a></li>
+<li><strong>SF street closure: 18th St between Noe and Diamond closed Sat Oct 31, 11 am – 1 am Sun</strong> for Castro Halloween (cross streets stay open). <a href="https://www.sfmta.com/travel-updates/castro-halloween-saturday-october-31-2026" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates/castro-halloween-saturday-october-31-2026</a></li>
+<li>Looking ahead: SB US-101 Hospital Curve in SF closes Fri Nov 6, 11 pm – Mon Nov 9, 6 am (use SB I-280) <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-hospital-curve-closure" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-hospital-curve-closure</a> · <strong>New:</strong> WB I-80 Bay Bridge down to one lane and the YBI on-ramp fully closed Thu Nov 12, 11:30 pm – Fri Nov 13, 4 am, to hang the holiday wreath <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-28-ybi-ramp-closure" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-28-ybi-ramp-closure</a> · SR-1 Devil's Slide tunnels close Thu Nov 5, 8 pm – Fri Nov 6, 4 am (carried).</li>
+<li>Live conditions: <a href="https://quickmap.dot.ca.gov" target="_blank" rel="noopener">https://quickmap.dot.ca.gov</a> and 511.org.</li>
+</ul>
+<hr />
+<h2>What's on (each confirmed on an official, venue or league page)</h2>
+<p><strong>1) Exploratorium After Dark, "Creepatorium": Thu Oct 29, 6–10 pm.</strong> Pier 15, SF. Annual Halloween party with Gothicumbia and a science-themed costume contest. Tickets listed as in stock; price not shown on the event page.<br />
+<a href="https://www.exploratorium.edu/visit/calendar/after-dark-creepatorium" target="_blank" rel="noopener">https://www.exploratorium.edu/visit/calendar/after-dark-creepatorium</a></p>
+<p><strong>2) Sharks vs. Vancouver Canucks: Thu Oct 29, 7 pm.</strong> SAP Center, San Jose. Ticket prices not checked.<br />
+<a href="https://www.nhl.com/sharks/schedule" target="_blank" rel="noopener">https://www.nhl.com/sharks/schedule</a></p>
+<p><strong>3) SF Opera, Massenet's <em>Manon</em>: Fri Oct 30, 7:30 pm.</strong> War Memorial Opera House, 301 Van Ness. Tickets "starting at $30". Last performance Sun Nov 1.<br />
+<a href="https://www.sfopera.com/operas/manon/" target="_blank" rel="noopener">https://www.sfopera.com/operas/manon/</a></p>
+<p><strong>4) Warriors vs. Los Angeles Lakers: Fri Oct 30, 7 pm.</strong> Chase Center, Mission Bay. Ticket prices not checked.<br />
+<a href="https://www.nba.com/warriors/schedule" target="_blank" rel="noopener">https://www.nba.com/warriors/schedule</a></p>
+<p><strong>5) Boo at the Zoo: Sat Oct 31, 10 am–3 pm.</strong> SF Zoo, Sloat Blvd at the Great Highway. Costume parade at 11 am, contest at noon, animal pumpkin smashing, trick-or-treat booth, DJ. Free with paid zoo admission; no full-face masks.<br />
+<a href="https://www.sfzoo.org/event/boo-at-the-zoo/" target="_blank" rel="noopener">https://www.sfzoo.org/event/boo-at-the-zoo/</a></p>
+<p><strong>6) SFMOMAween: Sat Oct 31, 11 am–4 pm.</strong> SFMOMA, Floors 1, 2 and 4. Costume contest hosted by drag king Luismi Monstruo Rude at 1:30 pm (sign-up from 12:30), SCRAP art making 11 am–1 pm, shadow-puppet <em>Lysistrata</em> at 11 am and 2:30 pm. Free with museum admission.<br />
+<a href="https://www.sfmoma.org/event/sfmomaween/" target="_blank" rel="noopener">https://www.sfmoma.org/event/sfmomaween/</a></p>
+<p><strong>7) Halloween Hoopla: Sat Oct 31, noon–3 pm.</strong> Children's Garden, Yerba Buena Gardens (799 Howard St). For kids under 10: Circus Bella, pumpkin patch, crafts and a costume parade. Free with RSVP.<br />
+<a href="https://ybgfestival.org/event/halloween-hoopla-2026/" target="_blank" rel="noopener">https://ybgfestival.org/event/halloween-hoopla-2026/</a></p>
+<p><strong>Also listed:</strong> Sharks vs. Ottawa, Sat Oct 31, 1 pm, SAP Center (NHL schedule). Castro Halloween along 18th St from 11 am Sat (SFMTA page above). Crawloween pub crawl Fri 6–11 pm and Sat 2–10 pm, from $12 (organizer page) <a href="https://crawloween.com/tickets/" target="_blank" rel="noopener">https://crawloween.com/tickets/</a></p>
+<hr />
+<h2>Where to eat</h2>
+<p>No Yelp ratings (Yelp blocks automated loads). Descriptions are Michelin's. Mostly new picks this run; hours not re-checked.</p>
+<p><strong>Nari, Japantown, SF (Hotel Kabuki, 1625 Post St) · Thai · Michelin One Star.</strong> Chef Pim Techamuanvivit's sleek room with a dramatic setting and accomplished cooking. <a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/nari" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/nari</a></p>
+<p><strong>Sorrel, Pacific Heights, SF (3228 Sacramento St) · Contemporary · Michelin One Star.</strong> Quince-trained chef Alexander Hong has a gift for pasta; a rooftop garden supplies herbs, flowers and vegetables. <a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/sorrel" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/sorrel</a></p>
+<p><strong>Kokkari Estiatorio, Jackson Square, SF (200 Jackson St) · Greek.</strong> A Greek favorite pairing San Francisco chic with old-world taverna hospitality. <a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/kokkari-estiatorio" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/kokkari-estiatorio</a></p>
+<p><strong>Zuni Café, Market St, SF (1658 Market St) · Californian/French (carried).</strong> Copper bar and wood-fired brick oven; Michelin says get the oysters and roast chicken for two. Close to the opera house for Friday's <em>Manon</em>. <a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/zuni-cafe" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/zuni-cafe</a></p>
+<hr />
+<h2>Getting around</h2>
+<p><strong>Muni and cable cars (carried):</strong> $2.85 single ride with Clipper, MuniMobile or tap-to-pay ($3.00 cash), good 120 minutes. Day pass $5.70. Cable car $9.00. Visitor Passports 1-day $15, 3-day $35, 7-day $47. Youth 18 and under ride Muni free. <a href="https://www.sfmta.com/getting-around/muni/fares" target="_blank" rel="noopener">https://www.sfmta.com/getting-around/muni/fares</a><br />
+<strong>Muni reroutes:</strong> Sat Oct 31 from 11 am, the 33 Ashbury/18th St reroutes around the Castro event, and the 24 and 35 may run late (confirmed this run). Other Halloween closures (Cortland, River of Life, Further Send Off), the Golden Gate Half Marathon Sun Nov 1 and Día de los Muertos Mon Nov 2 are carried. <a href="https://www.sfmta.com/travel-updates" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates</a></p>
+<p><strong>BART:</strong></p>
+<ul>
+<li><strong>This morning (posted 5:49 am Thu): about a 20-minute systemwide delay</strong> while BART recovers from an earlier disabled vehicle between Daly City and Balboa Park. All lines have resumed normal service.</li>
+<li><strong>Sun–Thu from 9 pm, expect 30-minute delays between Millbrae, SFO and Daly City</strong> for train control work (reposted 5:49 am Oct 29). Leave extra time for Thursday-night flights.</li>
+<li>Through Fri Oct 30: late-night single tracking on the Yellow Line in Contra Costa County (carried).</li>
+<li>Coming up: reduced BART-to-OAK service the night of Nov 4, and a 24th St–Daly City bus bridge Nov 14–15 (carried).<br />
+Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel="noopener">https://www.bart.gov/schedules/advisories</a> · <a href="https://www.bart.gov/guide/airport" target="_blank" rel="noopener">https://www.bart.gov/guide/airport</a></li>
+</ul>
+<p><strong>Bikes and scooters (from the Oct 23 brief):</strong> Lyft Bike is $1 to unlock plus $0.19/min classic or $0.49/min ebike, or a $15 day pass. Lime and Spin hold SF permits. No sidewalk riding. <a href="https://www.lyft.com/bikes/bay-wheels" target="_blank" rel="noopener">https://www.lyft.com/bikes/bay-wheels</a></p>
+<p><strong>SFO cars and rides (from the Oct 23 brief):</strong> Rental Car Center via AirTrain Blue Line (24 hours). Lyft and Uber pick up on Level 5 of the Domestic Garage. Taxis at the Arrivals center islands. <a href="https://www.flysfo.com/passengers/ground-transportation" target="_blank" rel="noopener">https://www.flysfo.com/passengers/ground-transportation</a></p>
+<h2>Where to stay</h2>
+<p>Per SF Travel, Union Square has most major hotels and the best transit links, and is a short walk to SFMOMA and Yerba Buena Gardens for Saturday; Hayes Valley and Civic Center put you by the opera and Zuni; Mission Bay is closest to Chase Center for Friday's Warriors game; Japantown's Hotel Kabuki houses Nari. <a href="https://www.sftravel.com/neighborhoods" target="_blank" rel="noopener">https://www.sftravel.com/neighborhoods</a></p>
+<hr />
+<h2>Assumptions and refresh</h2>
+<ul>
+<li>Public data only, from pages opened Thu Oct 29, 2026, around 6:08 am PT (NWS forecast and alerts, Caltrans District 4 news, BART advisories and the Exploratorium event page re-checked; other events, restaurants and fares carried from the 10:09 pm Wed brief, where they were confirmed). Nobody was contacted and nothing was signed up for.</li>
+<li>This is a snapshot. BayAreaDailySync refreshes it every 8 hours (6 am, 2 pm, 10 pm PT).</li>
+<li>Times are Pacific. Prices only where a cited page lists them.</li>
+</ul>
+<h2>Not verified</h2>
+<ol>
+<li>Yelp ratings (blocked).</li>
+<li>Ticket prices for the Sharks, Warriors and Creepatorium; SF Zoo and SFMOMA admission prices.</li>
+<li>Event pages other than the Exploratorium were not re-opened this run (all confirmed about 8 hours earlier).</li>
+<li>BART Yellow Line, OAK and bus-bridge items carried; only live BART advisories were re-checked. SFMTA's main travel-updates page wouldn't load by script; only the Castro page was confirmed.</li>
+<li>Fares, Lyft Bike, Lime and Spin pricing not re-checked.</li>
+<li>Restaurant hours not checked this run; Nari and Kokkari reservation needs unknown.</li>
+<li>The Warriors tip-off time comes from ESPN's schedule feed; Sharks times from the NHL schedule API.</li>
+<li>Other Halloween-night parties and SF Symphony or SFJAZZ listings not checked.</li>
+</ol>]]></content:encoded>
+  </item>
+  <item>
+    <title>Urban Concierge Brief: SF Bay Area · Thursday Oct 29 – Saturday Oct 31, 2026 · Snapshot compiled Wed Oct 28, 2026, 10:09 pm PT (BayAreaDailySync)</title>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-28-2209.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-28-2209.html</guid>
+    <pubDate>Wed, 28 Oct 2026 22:09:00 -0700</pubDate>
+    <description>Thursday Oct 29 – Saturday Oct 31, 2026 · Snapshot compiled Wed Oct 28, 2026, 10:09 pm PT (BayAreaDailySync)</description>
+    <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
+<p><strong>Thursday Oct 29 – Saturday Oct 31, 2026</strong> · Snapshot compiled Wed Oct 28, 2026, 10:09 pm PT (BayAreaDailySync)</p>
+<p><strong>What changed since the last brief (Wed 6:00 am):</strong> the window now reaches Halloween Saturday, so four new Saturday events are in (Boo at the Zoo, SFMOMAween, Halloween Hoopla and a 1 pm Sharks game), plus the Castro street closure. NWS now has a 20% chance of rain Saturday evening. Caltrans posted a new Bay Bridge overnight closure for Nov 12–13. Wednesday's events dropped off.</p>
+<hr />
+<h2>Weather and alerts</h2>
+<p><strong>NWS (SF, forecast updated 1:36 pm Wed):</strong> Thursday mostly cloudy, high near 67, falling to around 64 in the afternoon; Thursday night mostly cloudy, low around 54. Friday sunny, high near 65; Friday night partly cloudy, low around 54. <strong>Saturday mostly cloudy, high near 63, slight chance of rain after 5 pm (20%)</strong>, which matters for trick-or-treating; Saturday night partly cloudy, low around 52.<br />
+Source: <a href="https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1" target="_blank" rel="noopener">https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1</a></p>
+<p><strong>Coastal Flood Advisory (reissued 1:46 pm Oct 28; until Sat Oct 31, 6 pm PDT):</strong> up to 1.9 ft of inundation in low-lying areas along San Pablo Bay, SF Bay and Monterey Bay, worst along the Marin bayshore. SF high tides: 7.7 ft at 1:43 pm Thu, 7.4 ft at 2:39 pm Fri, 6.9 ft at 3:44 pm Sat. Expect flooding of low-lying roads and isolated road closures.<br />
+Source: <a href="https://api.weather.gov/alerts/active?point=37.7749,-122.4194" target="_blank" rel="noopener">https://api.weather.gov/alerts/active?point=37.7749,-122.4194</a></p>
+<h2>Road closures (Caltrans District 4)</h2>
+<ul>
+<li><strong>SR-82 (El Camino Real), Burlingame, Carmelita Ave to Floribunda Ave: northbound lanes fully closed through Fri Oct 30, 9 am–6 pm,</strong> for tree removal. Detour via California Drive; SamTrans buses detoured. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-sr82-short-term-closure-ecr-tree-work" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-sr82-short-term-closure-ecr-tree-work</a></li>
+<li><strong>SR-84, La Honda to Woodside (Foxhill Rd to Memory Ln): one-way traffic control through Fri Oct 30, 7 am–5 pm,</strong> for striping. Weather dependent. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-sr84-traffic-control-striping-work" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-sr84-traffic-control-striping-work</a></li>
+<li><strong>SR-29 (Sonoma Blvd), Vallejo: two lanes closed (one open) through Nov 6,</strong> Mon–Thu 9 am–6 pm, Fri 9 am–7 pm. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr29-daytime-two-lane-closure" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr29-daytime-two-lane-closure</a></li>
+<li><strong>SR-92/US-101, San Mateo: nightly ramp closures through Fri Oct 30</strong> (Thu night the WB 92 to SB 101 loop ramp closes 9 pm–5 am). <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures</a></li>
+<li><strong>SF street closure: 18th St between Noe and Diamond closed Sat Oct 31, 11 am – 1 am Sun</strong> for Castro Halloween (cross streets stay open). <a href="https://www.sfmta.com/travel-updates/castro-halloween-saturday-october-31-2026" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates/castro-halloween-saturday-october-31-2026</a></li>
+<li>Looking ahead: SB US-101 Hospital Curve in SF closes Fri Nov 6, 11 pm – Mon Nov 9, 6 am (use SB I-280) <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-hospital-curve-closure" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-hospital-curve-closure</a> · <strong>New:</strong> WB I-80 Bay Bridge down to one lane and the YBI on-ramp fully closed Thu Nov 12, 11:30 pm – Fri Nov 13, 4 am, to hang the holiday wreath <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-28-ybi-ramp-closure" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-28-ybi-ramp-closure</a> · SR-1 Devil's Slide tunnels close Thu Nov 5, 8 pm – Fri Nov 6, 4 am (carried).</li>
+<li>Live conditions: <a href="https://quickmap.dot.ca.gov" target="_blank" rel="noopener">https://quickmap.dot.ca.gov</a> and 511.org.</li>
+</ul>
+<hr />
+<h2>What's on (each confirmed on an official, venue or league page)</h2>
+<p><strong>1) Exploratorium After Dark, "Creepatorium": Thu Oct 29, 6–10 pm.</strong> Pier 15, SF. Halloween party with Gothicumbia and a science-themed costume contest. Price not checked. (Carried; the page blocked this run.)<br />
+<a href="https://www.exploratorium.edu/visit/calendar" target="_blank" rel="noopener">https://www.exploratorium.edu/visit/calendar</a></p>
+<p><strong>2) Sharks vs. Vancouver Canucks: Thu Oct 29, 7 pm.</strong> SAP Center, San Jose. Ticket prices not checked.<br />
+<a href="https://www.nhl.com/sharks/schedule" target="_blank" rel="noopener">https://www.nhl.com/sharks/schedule</a></p>
+<p><strong>3) SF Opera, Massenet's <em>Manon</em>: Fri Oct 30, 7:30 pm.</strong> War Memorial Opera House, 301 Van Ness. Tickets "starting at $30". Last performance Sun Nov 1.<br />
+<a href="https://www.sfopera.com/operas/manon/" target="_blank" rel="noopener">https://www.sfopera.com/operas/manon/</a></p>
+<p><strong>4) Warriors vs. Los Angeles Lakers: Fri Oct 30, 7 pm.</strong> Chase Center, Mission Bay. Ticket prices not checked.<br />
+<a href="https://www.nba.com/warriors/schedule" target="_blank" rel="noopener">https://www.nba.com/warriors/schedule</a></p>
+<p><strong>5) Boo at the Zoo: Sat Oct 31, 10 am–3 pm.</strong> SF Zoo, Sloat Blvd at the Great Highway. Costume parade at 11 am, contest at noon, animal pumpkin smashing, trick-or-treat booth, DJ. Free with paid zoo admission; no full-face masks.<br />
+<a href="https://www.sfzoo.org/event/boo-at-the-zoo/" target="_blank" rel="noopener">https://www.sfzoo.org/event/boo-at-the-zoo/</a></p>
+<p><strong>6) SFMOMAween: Sat Oct 31, 11 am–4 pm.</strong> SFMOMA, Floors 1, 2 and 4. Costume contest hosted by drag king Luismi Monstruo Rude at 1:30 pm (sign-up from 12:30), SCRAP art making 11 am–1 pm, shadow-puppet <em>Lysistrata</em> at 11 am and 2:30 pm. Free with museum admission.<br />
+<a href="https://www.sfmoma.org/event/sfmomaween/" target="_blank" rel="noopener">https://www.sfmoma.org/event/sfmomaween/</a></p>
+<p><strong>7) Halloween Hoopla: Sat Oct 31, noon–3 pm.</strong> Children's Garden, Yerba Buena Gardens (799 Howard St). For kids under 10: Circus Bella, pumpkin patch, crafts and a costume parade. Free with RSVP.<br />
+<a href="https://ybgfestival.org/event/halloween-hoopla-2026/" target="_blank" rel="noopener">https://ybgfestival.org/event/halloween-hoopla-2026/</a></p>
+<p><strong>Also listed:</strong> Sharks vs. Ottawa, Sat Oct 31, 1 pm, SAP Center (NHL schedule). Castro Halloween along 18th St from 11 am Sat (SFMTA page above). Crawloween pub crawl Fri 6–11 pm and Sat 2–10 pm, from $12 (organizer page) <a href="https://crawloween.com/tickets/" target="_blank" rel="noopener">https://crawloween.com/tickets/</a></p>
+<hr />
+<h2>Where to eat</h2>
+<p>No Yelp ratings (Yelp blocks automated loads). Descriptions are Michelin's. Mostly new picks this run; hours not re-checked.</p>
+<p><strong>Nari, Japantown, SF (Hotel Kabuki, 1625 Post St) · Thai · Michelin One Star.</strong> Chef Pim Techamuanvivit's sleek room with a dramatic setting and accomplished cooking. <a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/nari" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/nari</a></p>
+<p><strong>Sorrel, Pacific Heights, SF (3228 Sacramento St) · Contemporary · Michelin One Star.</strong> Quince-trained chef Alexander Hong has a gift for pasta; a rooftop garden supplies herbs, flowers and vegetables. <a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/sorrel" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/sorrel</a></p>
+<p><strong>Kokkari Estiatorio, Jackson Square, SF (200 Jackson St) · Greek.</strong> A Greek favorite pairing San Francisco chic with old-world taverna hospitality. <a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/kokkari-estiatorio" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/kokkari-estiatorio</a></p>
+<p><strong>Zuni Café, Market St, SF (1658 Market St) · Californian/French (carried).</strong> Copper bar and wood-fired brick oven; Michelin says get the oysters and roast chicken for two. Close to the opera house for Friday's <em>Manon</em>. <a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/zuni-cafe" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/zuni-cafe</a></p>
+<hr />
+<h2>Getting around</h2>
+<p><strong>Muni and cable cars (carried):</strong> $2.85 single ride with Clipper, MuniMobile or tap-to-pay ($3.00 cash), good 120 minutes. Day pass $5.70. Cable car $9.00. Visitor Passports 1-day $15, 3-day $35, 7-day $47. Youth 18 and under ride Muni free. <a href="https://www.sfmta.com/getting-around/muni/fares" target="_blank" rel="noopener">https://www.sfmta.com/getting-around/muni/fares</a><br />
+<strong>Muni reroutes:</strong> Sat Oct 31 from 11 am, the 33 Ashbury/18th St reroutes around the Castro event, and the 24 and 35 may run late (confirmed this run). Other Halloween closures (Cortland, River of Life, Further Send Off), the Golden Gate Half Marathon Sun Nov 1 and Día de los Muertos Mon Nov 2 are carried. <a href="https://www.sfmta.com/travel-updates" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates</a></p>
+<p><strong>BART:</strong></p>
+<ul>
+<li><strong>Sun–Thu from 9 pm, expect 30-minute delays between Millbrae, SFO and Daly City</strong> for train control work (reposted 10:03 pm Oct 28). Leave extra time for Thursday-night flights.</li>
+<li>Through Fri Oct 30: late-night single tracking on the Yellow Line in Contra Costa County (carried).</li>
+<li>Coming up: reduced BART-to-OAK service the night of Nov 4, and a 24th St–Daly City bus bridge Nov 14–15 (carried).<br />
+Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel="noopener">https://www.bart.gov/schedules/advisories</a> · <a href="https://www.bart.gov/guide/airport" target="_blank" rel="noopener">https://www.bart.gov/guide/airport</a></li>
+</ul>
+<p><strong>Bikes and scooters (from the Oct 23 brief):</strong> Lyft Bike is $1 to unlock plus $0.19/min classic or $0.49/min ebike, or a $15 day pass. Lime and Spin hold SF permits. No sidewalk riding. <a href="https://www.lyft.com/bikes/bay-wheels" target="_blank" rel="noopener">https://www.lyft.com/bikes/bay-wheels</a></p>
+<p><strong>SFO cars and rides (from the Oct 23 brief):</strong> Rental Car Center via AirTrain Blue Line (24 hours). Lyft and Uber pick up on Level 5 of the Domestic Garage. Taxis at the Arrivals center islands. <a href="https://www.flysfo.com/passengers/ground-transportation" target="_blank" rel="noopener">https://www.flysfo.com/passengers/ground-transportation</a></p>
+<h2>Where to stay</h2>
+<p>Per SF Travel, Union Square has most major hotels and the best transit links, and is a short walk to SFMOMA and Yerba Buena Gardens for Saturday; Hayes Valley and Civic Center put you by the opera and Zuni; Mission Bay is closest to Chase Center for Friday's Warriors game; Japantown's Hotel Kabuki houses Nari. <a href="https://www.sftravel.com/neighborhoods" target="_blank" rel="noopener">https://www.sftravel.com/neighborhoods</a></p>
+<hr />
+<h2>Assumptions and refresh</h2>
+<ul>
+<li>Public data only, from pages opened Wed Oct 28, 2026, around 10:09 pm PT (NWS forecast and alerts, Caltrans District 4 news, BART advisories, NHL and ESPN schedules, SF Opera, SF Zoo, SFMOMA, YBG Festival, SFMTA Castro page, Crawloween and Michelin re-checked). Nobody was contacted and nothing was signed up for.</li>
+<li>This is a snapshot. BayAreaDailySync refreshes it every 8 hours (6 am, 2 pm, 10 pm PT).</li>
+<li>Times are Pacific. Prices only where a cited page lists them.</li>
+</ul>
+<h2>Not verified</h2>
+<ol>
+<li>Yelp ratings (blocked).</li>
+<li>Ticket prices for the Sharks, Warriors and Creepatorium; SF Zoo and SFMOMA admission prices.</li>
+<li>Exploratorium page blocked this run, so Creepatorium is carried from earlier runs.</li>
+<li>BART Yellow Line, OAK and bus-bridge items carried; only the SFO/Millbrae advisory was re-checked. SFMTA's main travel-updates page wouldn't load by script; only the Castro page was confirmed.</li>
+<li>Fares, Lyft Bike, Lime and Spin pricing not re-checked.</li>
+<li>Restaurant hours not checked this run; Nari and Kokkari reservation needs unknown.</li>
+<li>The Warriors tip-off time comes from ESPN's schedule feed; Sharks times from the NHL schedule API.</li>
+<li>Other Halloween-night parties and SF Symphony or SFJAZZ listings not checked.</li>
+</ol>]]></content:encoded>
+  </item>
+  <item>
+    <title>Urban Concierge Brief: SF Bay Area · Wednesday Oct 28 – Friday Oct 30, 2026 · Snapshot compiled Wed Oct 28, 2026, 6:00 am PT (BayAreaDailySync)</title>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-28-0600.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-28-0600.html</guid>
+    <pubDate>Wed, 28 Oct 2026 06:00:00 -0700</pubDate>
+    <description>Wednesday Oct 28 – Friday Oct 30, 2026 · Snapshot compiled Wed Oct 28, 2026, 6:00 am PT (BayAreaDailySync)</description>
+    <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
+<p><strong>Wednesday Oct 28 – Friday Oct 30, 2026</strong> · Snapshot compiled Wed Oct 28, 2026, 6:00 am PT (BayAreaDailySync)</p>
+<p><strong>What changed since the last brief (Tue 10:03 pm):</strong> only small changes. NWS reissued the Coastal Flood Advisory at 12:20 am and extended it through Sat Oct 31, 6 pm, with up to 1.9 ft of inundation; Thursday's SF high tide is now 7.7 ft. Highs tick up a degree (67 Wed, 66 Thu, 65 Fri). No new Caltrans closures, BART alerts or Muni reroutes.</p>
+<hr />
+<h2>Weather and alerts</h2>
+<p><strong>NWS (SF, forecast updated 2:16 am Wed):</strong> Wednesday sunny, high near 67, falling to around 64 in the afternoon; Wednesday night mostly cloudy, low around 53. Thursday partly sunny, high near 66; Thursday night mostly cloudy, low around 54. Friday mostly sunny, high near 65; Friday night partly cloudy, low around 52.<br />
+Source: <a href="https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1" target="_blank" rel="noopener">https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1</a></p>
+<p><strong>Coastal Flood Advisory (reissued 12:20 am Oct 28; now until Sat Oct 31, 6 pm PDT):</strong> up to 1.9 ft of inundation possible in low-lying areas along San Pablo Bay, SF Bay and Monterey Bay, worst along the Marin bayshore. SF high tides: 7.7 ft at 12:56 pm Wed, 7.7 ft at 1:43 pm Thu, 7.4 ft at 2:39 pm Fri. Expect flooding of low-lying roads and infrastructure, isolated road closures, and waves farther up the beach.<br />
+Source: <a href="https://api.weather.gov/alerts/active?point=37.7749,-122.4194" target="_blank" rel="noopener">https://api.weather.gov/alerts/active?point=37.7749,-122.4194</a></p>
+<h2>Road closures (Caltrans District 4)</h2>
+<ul>
+<li><strong>SR-82 (El Camino Real), Burlingame, Carmelita Ave to Floribunda Ave: northbound lanes fully closed Wed Oct 28 – Fri Oct 30, 9 am–6 pm,</strong> for eucalyptus tree removal. Detour via California Drive; SamTrans buses are detoured. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-sr82-short-term-closure-ecr-tree-work" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-sr82-short-term-closure-ecr-tree-work</a></li>
+<li><strong>SR-84, La Honda to Woodside (Foxhill Rd to Memory Ln): one-way traffic control Wed Oct 28 – Fri Oct 30, 7 am–5 pm,</strong> for final striping. Weather dependent. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-sr84-traffic-control-striping-work" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-sr84-traffic-control-striping-work</a></li>
+<li><strong>SR-29 (Sonoma Blvd), Vallejo, Sequoia Ave to the Solano/Napa line: two lanes closed (one open) through Nov 6,</strong> Mon–Thu 9 am–6 pm, Fri 9 am–7 pm. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr29-daytime-two-lane-closure" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr29-daytime-two-lane-closure</a></li>
+<li><strong>SR-92/US-101, San Mateo: nightly ramp closures through Fri Oct 30.</strong> Wed–Thu nights the WB 92 to SB 101 loop ramp closes 9 pm–5 am. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures</a></li>
+<li>Looking ahead: all southbound US-101 Hospital Curve lanes in SF (17th St to Cesar Chavez) close Fri Nov 6, 11 pm – Mon Nov 9, 6 am; use SB I-280. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-hospital-curve-closure" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-hospital-curve-closure</a> · SR-1 Devil's Slide tunnels close Thu Nov 5, 8 pm – Fri Nov 6, 4 am (carried).</li>
+<li>Live conditions: <a href="https://quickmap.dot.ca.gov" target="_blank" rel="noopener">https://quickmap.dot.ca.gov</a> and 511.org.</li>
+</ul>
+<hr />
+<h2>What's on (each confirmed on an official, venue or ticketing page)</h2>
+<p>All listings carried from the Tue 10 pm run (re-checked then); club listings carried from Monday.</p>
+<p><strong>1) Slow Pulp: Wed Oct 28, 8 pm.</strong> The Fillmore, 1805 Geary Blvd. Prices not listed on the venue feed.<br />
+<a href="https://www.thefillmore.com/shows" target="_blank" rel="noopener">https://www.thefillmore.com/shows</a> · <a href="https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-27-2026/event/1C0064A49383A7BE" target="_blank" rel="noopener">https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-27-2026/event/1C0064A49383A7BE</a></p>
+<p><strong>2) Protocols with Andrew Huberman: Wed Oct 28, 7 pm.</strong> The Masonic (Nob Hill). Prices not checked.<br />
+<a href="https://www.sfmasonic.com/shows" target="_blank" rel="noopener">https://www.sfmasonic.com/shows</a> · <a href="https://www.ticketmaster.com/protocols-with-andrew-huberman-san-francisco-california-10-28-2026/event/1C006507D03F9240" target="_blank" rel="noopener">https://www.ticketmaster.com/protocols-with-andrew-huberman-san-francisco-california-10-28-2026/event/1C006507D03F9240</a></p>
+<p><strong>3) Mo Welch (comedy): Wed Oct 28, 8 pm.</strong> Punch Line Comedy Club, SF. Prices not checked.<br />
+<a href="https://www.punchlinecomedyclub.com/shows" target="_blank" rel="noopener">https://www.punchlinecomedyclub.com/shows</a></p>
+<p><strong>4) Exploratorium After Dark, "Creepatorium": Thu Oct 29, 6–10 pm.</strong> Pier 15, SF. The museum's annual Halloween party with Gothicumbia and a science-themed costume contest. Price not checked.<br />
+<a href="https://www.exploratorium.edu/visit/calendar" target="_blank" rel="noopener">https://www.exploratorium.edu/visit/calendar</a></p>
+<p><strong>5) Sharks vs. Vancouver Canucks: Thu Oct 29, 7 pm.</strong> SAP Center, San Jose. Ticket prices not checked.<br />
+<a href="https://www.nhl.com/sharks/schedule" target="_blank" rel="noopener">https://www.nhl.com/sharks/schedule</a></p>
+<p><strong>6) SF Opera, Massenet's <em>Manon</em>: Fri Oct 30, 7:30 pm.</strong> War Memorial Opera House, 301 Van Ness. Tickets "starting at $30"; 3 hr 25 min with two intermissions. Last performance Sun Nov 1, 2 pm.<br />
+<a href="https://www.sfopera.com/operas/manon/" target="_blank" rel="noopener">https://www.sfopera.com/operas/manon/</a></p>
+<p><strong>7) Warriors vs. Los Angeles Lakers: Fri Oct 30, 7 pm.</strong> Chase Center, Mission Bay. Ticket prices not checked.<br />
+<a href="https://www.nba.com/warriors/schedule" target="_blank" rel="noopener">https://www.nba.com/warriors/schedule</a></p>
+<p><strong>Also listed:</strong> Cobb's Comedy Club has Poly Díaz (en español) Wed 7:30 pm (carried). <a href="https://www.cobbscomedy.com/shows" target="_blank" rel="noopener">https://www.cobbscomedy.com/shows</a></p>
+<hr />
+<h2>Where to eat</h2>
+<p>No Yelp ratings (Yelp blocks automated loads). Descriptions and hours are Michelin's unless noted; price signs are Michelin's. All carried from earlier runs.</p>
+<p><strong>State Bird Provisions, Fillmore, SF (1529 Fillmore St) · Californian · $$$ · Michelin One Star.</strong> Dim sum-style carts of seasonal California small plates; the menu changes often. Dinner daily 5:30–10 pm (10:30 Fri–Sat). Four blocks from the Fillmore for Slow Pulp on Wednesday.<br />
+<a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/state-bird-provisions" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/state-bird-provisions</a></p>
+<p><strong>Zuni Café, Hayes Valley/Market St, SF (1658 Market St) · Californian/French · $$$.</strong> A San Francisco institution with a copper bar and wood-fired brick oven; Michelin says order oysters, the roast chicken for two and the gâteau Victoire. Near the opera house for Friday's <em>Manon</em>.<br />
+<a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/zuni-cafe" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/zuni-cafe</a></p>
+<p><strong>Kin Khao, Union Square, SF (55 Cyril Magnin St) · Thai/Californian · $$$.</strong> Layered, produce-driven Thai cooking; some dishes are very spicy. Its own site: lunch daily 11:30 am–2 pm, dinner Sun–Thu 5:30–9 pm. <a href="https://www.kinkhao.com/" target="_blank" rel="noopener">https://www.kinkhao.com/</a></p>
+<p><strong>Nopalito, NoPa, SF (306 Broderick St) · Mexican · $$.</strong> Blue-corn fish tacos, chilaquiles verdes, no reservations. Michelin lists 11:30 am–9 pm, except Wednesday 4:30–9 pm. <a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/nopalito" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/nopalito</a></p>
+<p><strong>Burdell, Oakland (4640 Telegraph Ave) · $$$.</strong> Chef Geoff Davis's take on soul food. Open Wed–Fri in this window (closed Mon–Tue). <a href="https://guide.michelin.com/us/en/california/oakland/restaurant/burdell" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/oakland/restaurant/burdell</a></p>
+<hr />
+<h2>Getting around</h2>
+<p><strong>Muni and cable cars (carried):</strong> $2.85 single ride with Clipper, MuniMobile or tap-to-pay ($3.00 cash), good 120 minutes. Day pass $5.70. Cable car $9.00. Visitor Passports 1-day $15, 3-day $35, 7-day $47. Youth 18 and under ride Muni free. <a href="https://www.sfmta.com/getting-around/muni/fares" target="_blank" rel="noopener">https://www.sfmta.com/getting-around/muni/fares</a><br />
+<strong>Muni reroutes:</strong> coming up are Oct 31 Halloween closures (Castro, Cortland, River of Life, Further Send Off), the Golden Gate Half Marathon Sun Nov 1 and the Día de los Muertos procession Mon Nov 2. Hayes Valley Farmers Market street space is in effect Fridays and Saturdays in October. <a href="https://www.sfmta.com/travel-updates" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates</a></p>
+<p><strong>BART:</strong></p>
+<ul>
+<li><strong>Sun–Thu from 9 pm, expect 30-minute delays between Millbrae, SFO and Daly City</strong> for train control work (advisory reposted 12:05 am Oct 28). Leave extra time for late flights Wed and Thu.</li>
+<li>Through Fri Oct 30: late-night single tracking on the Yellow Line in Contra Costa County (carried).</li>
+<li>Coming up: reduced BART-to-OAK service the night of Nov 4, and a bus bridge between 24th St Mission and Daly City Nov 14–15 (carried).</li>
+<li>SFO: tap a contactless card or Clipper at the gate.<br />
+Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel="noopener">https://www.bart.gov/schedules/advisories</a> · <a href="https://www.bart.gov/guide/airport" target="_blank" rel="noopener">https://www.bart.gov/guide/airport</a></li>
+</ul>
+<p><strong>Bikes and scooters (from the Oct 23 brief, not re-checked):</strong> Lyft Bike is $1 to unlock plus $0.19/min classic or $0.49/min ebike, or a $15 day pass. Lime and Spin hold SF permits. No sidewalk riding. <a href="https://www.lyft.com/bikes/bay-wheels" target="_blank" rel="noopener">https://www.lyft.com/bikes/bay-wheels</a></p>
+<p><strong>SFO cars and rides (from the Oct 23 brief):</strong> Rental Car Center via AirTrain Blue Line (24 hours). Lyft and Uber pick up on Level 5 of the Domestic Garage. Taxis at the Arrivals center islands. <a href="https://www.flysfo.com/passengers/ground-transportation" target="_blank" rel="noopener">https://www.flysfo.com/passengers/ground-transportation</a></p>
+<h2>Where to stay</h2>
+<p>Per SF Travel, Union Square has most major hotels and the best transit links; Nob Hill is the upscale pick and close to the Masonic; Hayes Valley and Civic Center put you by the opera and Zuni; Mission Bay is closest to Chase Center for Friday's Warriors game. <a href="https://www.sftravel.com/neighborhoods" target="_blank" rel="noopener">https://www.sftravel.com/neighborhoods</a></p>
+<hr />
+<h2>Assumptions and refresh</h2>
+<ul>
+<li>Public data only, from pages opened Wed Oct 28, 2026, around 6:00 am PT (NWS forecast and alerts, Caltrans District 4 news, BART advisory feed and SFMTA travel updates re-checked; events carried from the Tue 10 pm run; club listings, restaurants, fares, bikes and SFO notes carried from earlier runs). Nobody was contacted and nothing was signed up for.</li>
+<li>This is a snapshot. BayAreaDailySync refreshes it every 8 hours (6 am, 2 pm, 10 pm PT).</li>
+<li>Times are Pacific. Prices only where a cited page lists them.</li>
+</ul>
+<h2>Not verified</h2>
+<ol>
+<li>Yelp ratings (blocked).</li>
+<li>Ticket prices for Slow Pulp, Huberman, Mo Welch, Poly Díaz, Sharks, Warriors and Creepatorium.</li>
+<li>Fillmore, Masonic, Punch Line and Cobb's pages load by script and couldn't be re-read this run, so those listings are carried from Monday.</li>
+<li>Event listings weren't re-opened this run (carried from Tue 10 pm). BART Yellow Line, OAK and bus-bridge items are carried; only the SFO/Millbrae advisory was re-checked.</li>
+<li>Live Muni alerts; fares, Lyft Bike, Lime and Spin pricing not re-checked.</li>
+<li>All restaurant hours and details carried from earlier runs; Zuni's Friday hours not checked.</li>
+<li>Other Friday events (SF Symphony, SFJAZZ, Halloween-eve parties) not checked.</li>
+<li>The Warriors tip-off time comes from ESPN's schedule feed; nba.com wasn't readable by script.</li>
+</ol>]]></content:encoded>
+  </item>
+  <item>
+    <title>Urban Concierge Brief: SF Bay Area · Wednesday Oct 28 – Friday Oct 30, 2026 · Snapshot compiled Tue Oct 27, 2026, 10:03 pm PT (BayAreaDailySync)</title>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-27-2203.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-27-2203.html</guid>
+    <pubDate>Tue, 27 Oct 2026 22:03:00 -0700</pubDate>
+    <description>Wednesday Oct 28 – Friday Oct 30, 2026 · Snapshot compiled Tue Oct 27, 2026, 10:03 pm PT (BayAreaDailySync)</description>
+    <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
+<p><strong>Wednesday Oct 28 – Friday Oct 30, 2026</strong> · Snapshot compiled Tue Oct 27, 2026, 10:03 pm PT (BayAreaDailySync)</p>
+<p><strong>What changed since the last brief (Tue 2:05 pm):</strong> the window now runs Wed–Fri, so Friday's Warriors vs. Lakers game and SF Opera's <em>Manon</em> are added and Tuesday's items are gone. Caltrans posted new daytime one-way traffic control on SR-84 between La Honda and Woodside, Wed–Fri. NWS reissued the Coastal Flood Advisory at 3:11 pm with no change, and Friday looks sunny, high near 64.</p>
+<hr />
+<h2>Weather and alerts</h2>
+<p><strong>NWS (SF, forecast updated 3:07 pm Tue):</strong> Tonight mostly clear, low around 52. Wednesday sunny, high near 66; Wednesday night mostly cloudy, low around 54. Thursday partly sunny, high near 65; Thursday night mostly cloudy, low around 54. Friday sunny, high near 64; Friday night partly cloudy, low around 53.<br />
+Source: <a href="https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1" target="_blank" rel="noopener">https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1</a></p>
+<p><strong>Coastal Flood Advisory (reissued 3:11 pm Oct 27; until Fri Oct 30, 5 pm PDT):</strong> up to 2.1 ft of inundation possible in low-lying areas along San Pablo Bay, SF Bay and Monterey Bay, worst along the Marin bayshore. SF high tides: 7.7 ft at 12:56 pm Wed, 7.5 ft at 1:43 pm Thu, 7.4 ft at 2:39 pm Fri. Expect flooding of low-lying roads and paths, isolated road closures, and waves farther up the beach.<br />
+Source: <a href="https://api.weather.gov/alerts/active?point=37.7749,-122.4194" target="_blank" rel="noopener">https://api.weather.gov/alerts/active?point=37.7749,-122.4194</a></p>
+<h2>Road closures (Caltrans District 4)</h2>
+<ul>
+<li><strong>SR-82 (El Camino Real), Burlingame, Carmelita Ave to Floribunda Ave: northbound lanes fully closed Wed Oct 28 – Fri Oct 30, 9 am–6 pm,</strong> for eucalyptus tree removal. Detour via California Drive; SamTrans buses are detoured. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-sr82-short-term-closure-ecr-tree-work" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-sr82-short-term-closure-ecr-tree-work</a></li>
+<li><strong>New: SR-84, La Honda to Woodside (Foxhill Rd to Memory Ln): one-way traffic control Wed Oct 28 – Fri Oct 30, 7 am–5 pm,</strong> for final striping. Weather dependent. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-sr84-traffic-control-striping-work" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-sr84-traffic-control-striping-work</a></li>
+<li><strong>SR-29 (Sonoma Blvd), Vallejo, Sequoia Ave to the Solano/Napa line: two lanes closed (one open) through Nov 6,</strong> Mon–Thu 9 am–6 pm, Fri 9 am–7 pm. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr29-daytime-two-lane-closure" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr29-daytime-two-lane-closure</a></li>
+<li><strong>SR-92/US-101, San Mateo: nightly ramp closures through Fri Oct 30.</strong> Wed–Thu nights the WB 92 to SB 101 loop ramp closes 9 pm–5 am. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures</a></li>
+<li>Looking ahead: all southbound US-101 Hospital Curve lanes in SF (17th St to Cesar Chavez) close Fri Nov 6, 11 pm – Mon Nov 9, 6 am; use SB I-280. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-hospital-curve-closure" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-hospital-curve-closure</a> · SR-1 Devil's Slide tunnels close Thu Nov 5, 8 pm – Fri Nov 6, 4 am (carried).</li>
+<li>Live conditions: <a href="https://quickmap.dot.ca.gov" target="_blank" rel="noopener">https://quickmap.dot.ca.gov</a> and 511.org.</li>
+</ul>
+<hr />
+<h2>What's on (each confirmed on an official, venue or ticketing page)</h2>
+<p>SF Opera, Exploratorium, NHL and Warriors schedules re-checked this run; club listings carried from Monday.</p>
+<p><strong>1) Slow Pulp: Wed Oct 28, 8 pm.</strong> The Fillmore, 1805 Geary Blvd. Prices not listed on the venue feed.<br />
+<a href="https://www.thefillmore.com/shows" target="_blank" rel="noopener">https://www.thefillmore.com/shows</a> · <a href="https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-27-2026/event/1C0064A49383A7BE" target="_blank" rel="noopener">https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-27-2026/event/1C0064A49383A7BE</a></p>
+<p><strong>2) Protocols with Andrew Huberman: Wed Oct 28, 7 pm.</strong> The Masonic (Nob Hill). Prices not checked.<br />
+<a href="https://www.sfmasonic.com/shows" target="_blank" rel="noopener">https://www.sfmasonic.com/shows</a> · <a href="https://www.ticketmaster.com/protocols-with-andrew-huberman-san-francisco-california-10-28-2026/event/1C006507D03F9240" target="_blank" rel="noopener">https://www.ticketmaster.com/protocols-with-andrew-huberman-san-francisco-california-10-28-2026/event/1C006507D03F9240</a></p>
+<p><strong>3) Mo Welch (comedy): Wed Oct 28, 8 pm.</strong> Punch Line Comedy Club, SF. Prices not checked.<br />
+<a href="https://www.punchlinecomedyclub.com/shows" target="_blank" rel="noopener">https://www.punchlinecomedyclub.com/shows</a></p>
+<p><strong>4) Exploratorium After Dark, "Creepatorium": Thu Oct 29, 6–10 pm.</strong> Pier 15, SF. The museum's annual Halloween party with Gothicumbia and a science-themed costume contest. Price not checked.<br />
+<a href="https://www.exploratorium.edu/visit/calendar" target="_blank" rel="noopener">https://www.exploratorium.edu/visit/calendar</a></p>
+<p><strong>5) Sharks vs. Vancouver Canucks: Thu Oct 29, 7 pm.</strong> SAP Center, San Jose. Ticket prices not checked.<br />
+<a href="https://www.nhl.com/sharks/schedule" target="_blank" rel="noopener">https://www.nhl.com/sharks/schedule</a></p>
+<p><strong>6) SF Opera, Massenet's <em>Manon</em>: Fri Oct 30, 7:30 pm.</strong> War Memorial Opera House, 301 Van Ness. Tickets "starting at $30"; 3 hr 25 min with two intermissions. Last performance Sun Nov 1, 2 pm.<br />
+<a href="https://www.sfopera.com/operas/manon/" target="_blank" rel="noopener">https://www.sfopera.com/operas/manon/</a></p>
+<p><strong>7) Warriors vs. Los Angeles Lakers: Fri Oct 30, 7 pm.</strong> Chase Center, Mission Bay. Ticket prices not checked.<br />
+<a href="https://www.nba.com/warriors/schedule" target="_blank" rel="noopener">https://www.nba.com/warriors/schedule</a></p>
+<p><strong>Also listed:</strong> Cobb's Comedy Club has Poly Díaz (en español) Wed 7:30 pm (carried). <a href="https://www.cobbscomedy.com/shows" target="_blank" rel="noopener">https://www.cobbscomedy.com/shows</a></p>
+<hr />
+<h2>Where to eat</h2>
+<p>No Yelp ratings (Yelp blocks automated loads). Descriptions and hours are Michelin's unless noted; price signs are Michelin's. All carried from earlier runs.</p>
+<p><strong>State Bird Provisions, Fillmore, SF (1529 Fillmore St) · Californian · $$$ · Michelin One Star.</strong> Dim sum-style carts of seasonal California small plates; the menu changes often. Dinner daily 5:30–10 pm (10:30 Fri–Sat). Four blocks from the Fillmore for Slow Pulp on Wednesday.<br />
+<a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/state-bird-provisions" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/state-bird-provisions</a></p>
+<p><strong>Zuni Café, Hayes Valley/Market St, SF (1658 Market St) · Californian/French · $$$.</strong> A San Francisco institution with a copper bar and wood-fired brick oven; Michelin says order oysters, the roast chicken for two and the gâteau Victoire. Near the opera house for Friday's <em>Manon</em>.<br />
+<a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/zuni-cafe" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/zuni-cafe</a></p>
+<p><strong>Kin Khao, Union Square, SF (55 Cyril Magnin St) · Thai/Californian · $$$.</strong> Layered, produce-driven Thai cooking; some dishes are very spicy. Its own site: lunch daily 11:30 am–2 pm, dinner Sun–Thu 5:30–9 pm. <a href="https://www.kinkhao.com/" target="_blank" rel="noopener">https://www.kinkhao.com/</a></p>
+<p><strong>Nopalito, NoPa, SF (306 Broderick St) · Mexican · $$.</strong> Blue-corn fish tacos, chilaquiles verdes, no reservations. Michelin lists 11:30 am–9 pm, except Wednesday 4:30–9 pm. <a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/nopalito" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/nopalito</a></p>
+<p><strong>Burdell, Oakland (4640 Telegraph Ave) · $$$.</strong> Chef Geoff Davis's take on soul food. Open Wed–Fri in this window (closed Mon–Tue). <a href="https://guide.michelin.com/us/en/california/oakland/restaurant/burdell" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/oakland/restaurant/burdell</a></p>
+<hr />
+<h2>Getting around</h2>
+<p><strong>Muni and cable cars (carried):</strong> $2.85 single ride with Clipper, MuniMobile or tap-to-pay ($3.00 cash), good 120 minutes. Day pass $5.70. Cable car $9.00. Visitor Passports 1-day $15, 3-day $35, 7-day $47. Youth 18 and under ride Muni free. <a href="https://www.sfmta.com/getting-around/muni/fares" target="_blank" rel="noopener">https://www.sfmta.com/getting-around/muni/fares</a><br />
+<strong>Muni reroutes:</strong> coming up are Oct 31 Halloween closures (Castro, Cortland, River of Life, Further Send Off), the Golden Gate Half Marathon Sun Nov 1 and the Día de los Muertos procession Mon Nov 2. Hayes Valley Farmers Market street space is in effect Fridays and Saturdays in October. <a href="https://www.sfmta.com/travel-updates" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates</a></p>
+<p><strong>BART:</strong></p>
+<ul>
+<li><strong>Sun–Thu from 9 pm, expect 30-minute delays between Millbrae, SFO and Daly City</strong> for train control work (advisory reposted 9:41 pm Oct 27). Leave extra time for late flights Wed and Thu.</li>
+<li>Through Fri Oct 30: late-night single tracking on the Yellow Line in Contra Costa County (carried).</li>
+<li>Coming up: reduced BART-to-OAK service the night of Nov 4, and a bus bridge between 24th St Mission and Daly City Nov 14–15 (carried).</li>
+<li>SFO: tap a contactless card or Clipper at the gate.<br />
+Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel="noopener">https://www.bart.gov/schedules/advisories</a> · <a href="https://www.bart.gov/guide/airport" target="_blank" rel="noopener">https://www.bart.gov/guide/airport</a></li>
+</ul>
+<p><strong>Bikes and scooters (from the Oct 23 brief, not re-checked):</strong> Lyft Bike is $1 to unlock plus $0.19/min classic or $0.49/min ebike, or a $15 day pass. Lime and Spin hold SF permits. No sidewalk riding. <a href="https://www.lyft.com/bikes/bay-wheels" target="_blank" rel="noopener">https://www.lyft.com/bikes/bay-wheels</a></p>
+<p><strong>SFO cars and rides (from the Oct 23 brief):</strong> Rental Car Center via AirTrain Blue Line (24 hours). Lyft and Uber pick up on Level 5 of the Domestic Garage. Taxis at the Arrivals center islands. <a href="https://www.flysfo.com/passengers/ground-transportation" target="_blank" rel="noopener">https://www.flysfo.com/passengers/ground-transportation</a></p>
+<h2>Where to stay</h2>
+<p>Per SF Travel, Union Square has most major hotels and the best transit links; Nob Hill is the upscale pick and close to the Masonic; Hayes Valley and Civic Center put you by the opera and Zuni; Mission Bay is closest to Chase Center for Friday's Warriors game. <a href="https://www.sftravel.com/neighborhoods" target="_blank" rel="noopener">https://www.sftravel.com/neighborhoods</a></p>
+<hr />
+<h2>Assumptions and refresh</h2>
+<ul>
+<li>Public data only, from pages opened Tue Oct 27, 2026, around 10:03 pm PT (NWS forecast and alerts, Caltrans District 4 news, BART advisory feed, SFMTA travel updates, SF Opera, Exploratorium, NHL and NBA schedules re-checked; club listings, restaurants, fares, bikes and SFO notes carried from earlier runs). Nobody was contacted and nothing was signed up for.</li>
+<li>This is a snapshot. BayAreaDailySync refreshes it every 8 hours (6 am, 2 pm, 10 pm PT).</li>
+<li>Times are Pacific. Prices only where a cited page lists them.</li>
+</ul>
+<h2>Not verified</h2>
+<ol>
+<li>Yelp ratings (blocked).</li>
+<li>Ticket prices for Slow Pulp, Huberman, Mo Welch, Poly Díaz, Sharks, Warriors and Creepatorium.</li>
+<li>Fillmore, Masonic, Punch Line and Cobb's pages load by script and couldn't be re-read this run, so those listings are carried from Monday.</li>
+<li>BART Yellow Line, OAK and bus-bridge items are carried; only the SFO/Millbrae advisory was re-checked.</li>
+<li>Live Muni alerts; fares, Lyft Bike, Lime and Spin pricing not re-checked.</li>
+<li>All restaurant hours and details carried from earlier runs; Zuni's Friday hours not checked.</li>
+<li>Other Friday events (SF Symphony, SFJAZZ, Halloween-eve parties) not checked.</li>
+<li>The Warriors tip-off time comes from ESPN's schedule feed; nba.com wasn't readable by script.</li>
+</ol>]]></content:encoded>
+  </item>
+  <item>
+    <title>Urban Concierge Brief: SF Bay Area · Tuesday Oct 27 – Thursday Oct 29, 2026 · Snapshot compiled Tue Oct 27, 2026, 2:05 pm PT (BayAreaDailySync)</title>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-27-1405.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-27-1405.html</guid>
+    <pubDate>Tue, 27 Oct 2026 14:05:00 -0700</pubDate>
+    <description>Tuesday Oct 27 – Thursday Oct 29, 2026 · Snapshot compiled Tue Oct 27, 2026, 2:05 pm PT (BayAreaDailySync)</description>
+    <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
+<p><strong>Tuesday Oct 27 – Thursday Oct 29, 2026</strong> · Snapshot compiled Tue Oct 27, 2026, 2:05 pm PT (BayAreaDailySync)</p>
+<p><strong>What changed since the last brief (Tue 6:07 am):</strong> no major changes. Caltrans posted two new items: SR-82 (El Camino Real) northbound closes in Burlingame Wed–Fri 9 am–6 pm for tree work, and all southbound US-101 Hospital Curve lanes in SF close Nov 6–9. Wednesday's forecast is now sunny, high near 66. The Coastal Flood Advisory is unchanged.</p>
+<hr />
+<h2>Weather and alerts</h2>
+<p><strong>NWS (SF, forecast updated 1:26 pm Tue):</strong> This afternoon sunny, high near 64, gusts to 18 mph. Tonight mostly clear, low around 52. Wednesday sunny, high near 66; Wednesday night mostly cloudy, low around 54. Thursday partly sunny, high near 65; Thursday night mostly cloudy, low around 54.<br />
+Source: <a href="https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1" target="_blank" rel="noopener">https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1</a></p>
+<p><strong>Coastal Flood Advisory (reissued 5:41 am Oct 27; until Fri Oct 30, 5 pm PDT):</strong> up to 2.1 ft of inundation possible in low-lying areas along San Pablo Bay, SF Bay and Monterey Bay, worst along the Marin bayshore. SF high tides still to come: 7.7 ft at 12:56 pm Wed, 7.5 ft at 1:43 pm Thu, 7.4 ft at 2:39 pm Fri. Expect flooding of low-lying roads and paths, isolated road closures, and waves farther up the beach.<br />
+Source: <a href="https://api.weather.gov/alerts/active?point=37.7749,-122.4194" target="_blank" rel="noopener">https://api.weather.gov/alerts/active?point=37.7749,-122.4194</a></p>
+<h2>Road closures (Caltrans District 4)</h2>
+<ul>
+<li><strong>Reopened:</strong> WB I-80 Bayshore Freeway (5th–15th St, SF) reopened Monday. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-26-i80-wb-bayshore-re-opened" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-26-i80-wb-bayshore-re-opened</a> · SR-37 between Vallejo and Sonoma reopened at 2:15 am Monday, about 3 hours early. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-26-sr37-reopen" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-26-sr37-reopen</a></li>
+<li><strong>New: SR-82 (El Camino Real), Burlingame, Carmelita Ave to Floribunda Ave: northbound lanes fully closed Wed Oct 28 – Fri Oct 30, 9 am–6 pm,</strong> for eucalyptus tree removal. Detour via California Drive; SamTrans buses are detoured. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-sr82-short-term-closure-ecr-tree-work" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-sr82-short-term-closure-ecr-tree-work</a></li>
+<li><strong>SR-29 (Sonoma Blvd), Vallejo, Sequoia Ave to the Solano/Napa line: two lanes closed (one open), Oct 26 – Nov 6,</strong> Mon–Thu 9 am–6 pm, Fri 9 am–7 pm. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr29-daytime-two-lane-closure" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr29-daytime-two-lane-closure</a></li>
+<li><strong>SR-92/US-101, San Mateo: nightly ramp closures through Fri Oct 30.</strong> Tue–Thu nights the WB 92 to SB 101 loop ramp closes 9 pm–5 am. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures</a></li>
+<li>Also posted: overnight WB SR-237 lane closures at Abel St in Milpitas, overnight SR-12 closures in Santa Rosa, SR-37 Petaluma River Bridge lane reductions this week, and nightly US-101 lane and ramp closures in Marin. Looking ahead (new): all southbound US-101 Hospital Curve lanes in SF, 17th St to Cesar Chavez, close Fri Nov 6, 11 pm – Mon Nov 9, 6 am, along with the 4th, 7th and 10th St on-ramps and the WB 80 to NB 101 Central Freeway connector; use SB I-280. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-hospital-curve-closure" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-27-hospital-curve-closure</a> · Also SR-1 Devil's Slide tunnels fully closed Thu Nov 5, 8 pm – Fri Nov 6, 4 am (detour via Sharp Park Rd, I-280 and SR-92). <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news</a></li>
+<li>Live conditions: <a href="https://quickmap.dot.ca.gov" target="_blank" rel="noopener">https://quickmap.dot.ca.gov</a> and 511.org.</li>
+</ul>
+<hr />
+<h2>What's on (each confirmed on an official, venue or ticketing page)</h2>
+<p>Exploratorium calendar re-checked this run; other listings carried from Monday's runs.</p>
+<p><strong>1) Noe Valley Night Market: Tue Oct 27, 4:30–8:30 pm.</strong> Noe Valley Town Square and 24th St (Vicksburg–Sanchez). Halloween-themed: 40+ food, drink and artist booths, face painting, live music. Free. 24th St closes 2–10 pm; the 48 Muni is rerouted 1:30–10 pm.<br />
+<a href="https://noemerchants.com/nightmarket-vendors/" target="_blank" rel="noopener">https://noemerchants.com/nightmarket-vendors/</a> · <a href="https://www.sfmta.com/travel-updates/noe-valley-night-market-tuesday-october-27-2026" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates/noe-valley-night-market-tuesday-october-27-2026</a></p>
+<p><strong>2) SF Opera, Massenet's <em>Manon</em>: Tue Oct 27, 7:30 pm.</strong> War Memorial Opera House, 301 Van Ness. Tickets "starting at $30"; 3 hr 25 min with two intermissions; French with English supertitles. Remaining dates Oct 30 and Nov 1.<br />
+<a href="https://www.sfopera.com/operas/manon/" target="_blank" rel="noopener">https://www.sfopera.com/operas/manon/</a></p>
+<p><strong>3) Sharks vs. Buffalo Sabres: Tue Oct 27, 7:30 pm.</strong> SAP Center, San Jose. Ticket prices not checked.<br />
+<a href="https://www.nhl.com/sharks/schedule" target="_blank" rel="noopener">https://www.nhl.com/sharks/schedule</a></p>
+<p><strong>4) Slow Pulp: Tue Oct 27 and Wed Oct 28, 8 pm.</strong> The Fillmore, 1805 Geary Blvd. Prices not listed on the venue feed.<br />
+<a href="https://www.thefillmore.com/shows" target="_blank" rel="noopener">https://www.thefillmore.com/shows</a> · <a href="https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-27-2026/event/1C0064A49383A7BE" target="_blank" rel="noopener">https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-27-2026/event/1C0064A49383A7BE</a></p>
+<p><strong>5) Protocols with Andrew Huberman: Wed Oct 28, 7 pm.</strong> The Masonic (Nob Hill). Prices not checked.<br />
+<a href="https://www.sfmasonic.com/shows" target="_blank" rel="noopener">https://www.sfmasonic.com/shows</a> · <a href="https://www.ticketmaster.com/protocols-with-andrew-huberman-san-francisco-california-10-28-2026/event/1C006507D03F9240" target="_blank" rel="noopener">https://www.ticketmaster.com/protocols-with-andrew-huberman-san-francisco-california-10-28-2026/event/1C006507D03F9240</a></p>
+<p><strong>6) Mo Welch (comedy): Wed Oct 28, 8 pm.</strong> Punch Line Comedy Club, SF. Prices not checked.<br />
+<a href="https://www.punchlinecomedyclub.com/shows" target="_blank" rel="noopener">https://www.punchlinecomedyclub.com/shows</a></p>
+<p><strong>7) Sharks vs. Vancouver Canucks: Thu Oct 29, 7 pm.</strong> SAP Center, San Jose. Ticket prices not checked.<br />
+<a href="https://www.nhl.com/sharks/schedule" target="_blank" rel="noopener">https://www.nhl.com/sharks/schedule</a></p>
+<p><strong>8) Exploratorium After Dark, "Creepatorium": Thu Oct 29, 6–10 pm.</strong> Pier 15, SF. The museum's annual Halloween party with Gothicumbia and a science-themed costume contest. Price not checked.<br />
+<a href="https://www.exploratorium.edu/visit/calendar" target="_blank" rel="noopener">https://www.exploratorium.edu/visit/calendar</a></p>
+<p><strong>Also listed:</strong> Cobb's Comedy Club has Tokyo Kanpai Boys (in Japanese) Tue 7:30 pm and Poly Díaz (en español) Wed 7:30 pm. <a href="https://www.cobbscomedy.com/shows" target="_blank" rel="noopener">https://www.cobbscomedy.com/shows</a><br />
+<strong>No Warriors home games in this window;</strong> next is Fri Oct 30 vs. Lakers. <a href="https://www.nba.com/warriors/schedule" target="_blank" rel="noopener">https://www.nba.com/warriors/schedule</a></p>
+<hr />
+<h2>Where to eat</h2>
+<p>No Yelp ratings (Yelp blocks automated loads). Descriptions and hours are Michelin's unless noted; price signs are Michelin's.</p>
+<p><strong>State Bird Provisions, Fillmore, SF (1529 Fillmore St) · Californian · $$$ · Michelin One Star.</strong> Dim sum-style carts of seasonal California small plates, like dumplings, savory pancakes and liver mousse; the menu changes often. Reservations can be hard to get. Dinner daily 5:30–10 pm (10:30 Fri–Sat). Four blocks from the Fillmore for the Slow Pulp shows.<br />
+<a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/state-bird-provisions" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/state-bird-provisions</a></p>
+<p><strong>Zuni Café, Hayes Valley/Market St, SF (1658 Market St) · Californian/French · $$$.</strong> A San Francisco institution with a copper bar and wood-fired brick oven; Michelin says order oysters, the roast chicken for two and the gâteau Victoire. Tue–Thu dinner 5–9:30 pm (carried). Near the opera house for <em>Manon</em>.<br />
+<a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/zuni-cafe" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/zuni-cafe</a></p>
+<p><strong>Kin Khao, Union Square, SF (55 Cyril Magnin St) · Thai/Californian · $$$.</strong> Michelin praises its layered, produce-driven Thai cooking and warns some dishes are very spicy. Its own site: lunch daily 11:30 am–2 pm, dinner Sun–Thu 5:30–9 pm (carried from the last brief). <a href="https://www.kinkhao.com/" target="_blank" rel="noopener">https://www.kinkhao.com/</a></p>
+<p><strong>Nopalito, NoPa, SF (306 Broderick St) · Mexican · $$.</strong> Blue-corn fish tacos, chilaquiles verdes, no reservations. Michelin lists 11:30 am–9 pm, except Wednesday 4:30–9 pm (carried). <a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/nopalito" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/nopalito</a></p>
+<p><strong>Burdell, Oakland (4640 Telegraph Ave) · $$$.</strong> Chef Geoff Davis's take on soul food. Closed Mon and Tue, so Wednesday and Thursday only in this window (carried). <a href="https://guide.michelin.com/us/en/california/oakland/restaurant/burdell" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/oakland/restaurant/burdell</a></p>
+<hr />
+<h2>Getting around</h2>
+<p><strong>Muni and cable cars (carried from the last brief):</strong> $2.85 single ride with Clipper, MuniMobile or tap-to-pay ($3.00 cash), good 120 minutes. Day pass $5.70. Cable car $9.00. Visitor Passports 1-day $15, 3-day $35, 7-day $47. Youth 18 and under ride Muni free. <a href="https://www.sfmta.com/getting-around/muni/fares" target="_blank" rel="noopener">https://www.sfmta.com/getting-around/muni/fares</a><br />
+<strong>Muni reroutes (SFMTA travel updates re-checked):</strong> Tue Oct 27, the 48 skips 24th &amp; Sanchez, Church and Dolores 1:30–10 pm for the Noe Valley Night Market. Coming up: Oct 31 Halloween closures (Castro, Cortland, River of Life, Further Send Off), the Golden Gate Half Marathon Sun Nov 1 and the Día de los Muertos procession Mon Nov 2. <a href="https://www.sfmta.com/travel-updates" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates</a></p>
+<p><strong>BART:</strong></p>
+<ul>
+<li><strong>Sun–Thu from 9 pm, expect 30-minute delays between Millbrae, SFO and Daly City</strong> for train control work. Leave extra time for late flights. (BART service advisory, reposted 1:44 pm Oct 27.)</li>
+<li>Tue Oct 27 – Fri Oct 30: late-night single tracking on the Yellow Line in Contra Costa County (carried).</li>
+<li>Coming up: reduced BART-to-OAK service the night of Nov 4, and a bus bridge between 24th St Mission and Daly City Nov 14–15 (carried).</li>
+<li>SFO: tap a contactless card or Clipper at the gate.<br />
+Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel="noopener">https://www.bart.gov/schedules/advisories</a> · <a href="https://www.bart.gov/guide/airport" target="_blank" rel="noopener">https://www.bart.gov/guide/airport</a></li>
+</ul>
+<p><strong>Bikes and scooters (from the Oct 23 brief, not re-checked):</strong> Lyft Bike is $1 to unlock plus $0.19/min classic or $0.49/min ebike, or a $15 day pass. Lime and Spin hold SF permits. No sidewalk riding. <a href="https://www.lyft.com/bikes/bay-wheels" target="_blank" rel="noopener">https://www.lyft.com/bikes/bay-wheels</a></p>
+<p><strong>SFO cars and rides (from the Oct 23 brief):</strong> Rental Car Center via AirTrain Blue Line (24 hours). Lyft and Uber pick up on Level 5 of the Domestic Garage. Taxis at the Arrivals center islands. <a href="https://www.flysfo.com/passengers/ground-transportation" target="_blank" rel="noopener">https://www.flysfo.com/passengers/ground-transportation</a></p>
+<h2>Where to stay</h2>
+<p>Per SF Travel, Union Square has most major hotels and the best transit links; Nob Hill is the upscale pick and close to the Masonic; Hayes Valley and Civic Center put you by the opera and Zuni. <a href="https://www.sftravel.com/neighborhoods" target="_blank" rel="noopener">https://www.sftravel.com/neighborhoods</a></p>
+<hr />
+<h2>Assumptions and refresh</h2>
+<ul>
+<li>Public data only, from pages opened Tue Oct 27, 2026, around 2:05 pm PT (NWS forecast and alerts, Caltrans District 4 news, BART advisory feed, SFMTA travel updates and the Exploratorium calendar re-checked; other events, restaurants, fares, bikes and SFO notes carried from Monday's runs). Nobody was contacted and nothing was signed up for.</li>
+<li>This is a snapshot. BayAreaDailySync refreshes it every 8 hours (6 am, 2 pm, 10 pm PT).</li>
+<li>Times are Pacific. Prices only where a cited page lists them.</li>
+</ul>
+<h2>Not verified</h2>
+<ol>
+<li>Yelp ratings (blocked).</li>
+<li>Ticket prices for Slow Pulp, Huberman, Mo Welch, Cobb's shows, both Sharks games and Creepatorium.</li>
+<li>BART's planned-work list beyond tonight's advisory feed; Yellow Line, OAK and bus-bridge items are carried.</li>
+<li>Live Muni alerts; fares, Lyft Bike, Lime and Spin pricing not re-checked this run.</li>
+<li>All restaurant hours and details carried from earlier runs.</li>
+<li>Fillmore, Masonic, Cobb's, Punch Line, NHL and SF Opera pages weren't re-opened this run, so those listings are carried from Monday.</li>
+<li>Thursday events at other venues (SF Symphony, Chase Center, SFJAZZ not checked).</li>
+<li>Halloween (Oct 31) events beyond SFMTA's closure list.</li>
+</ol>]]></content:encoded>
+  </item>
+  <item>
+    <title>Urban Concierge Brief: SF Bay Area · Tuesday Oct 27 – Thursday Oct 29, 2026 · Snapshot compiled Tue Oct 27, 2026, 6:07 am PT (BayAreaDailySync)</title>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-27-0607.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-27-0607.html</guid>
+    <pubDate>Tue, 27 Oct 2026 06:07:00 -0700</pubDate>
+    <description>Tuesday Oct 27 – Thursday Oct 29, 2026 · Snapshot compiled Tue Oct 27, 2026, 6:07 am PT (BayAreaDailySync)</description>
+    <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
+<p><strong>Tuesday Oct 27 – Thursday Oct 29, 2026</strong> · Snapshot compiled Tue Oct 27, 2026, 6:07 am PT (BayAreaDailySync)</p>
+<p><strong>What changed since the last brief (Mon 10:01 pm):</strong> no major changes. NWS reissued the Coastal Flood Advisory at 5:41 am Tue with the same tides and end time (Fri Oct 30, 5 pm), Tuesday night's fog was dropped from the forecast, and Thursday is now mostly cloudy, high near 65. No new Caltrans, BART or Muni items.</p>
+<hr />
+<h2>Weather and alerts</h2>
+<p><strong>NWS (SF, forecast updated 2:47 am Tue):</strong> Tuesday mostly sunny, high near 64, gusts to 18 mph. Tuesday night mostly clear, low around 51. Wednesday mostly sunny, high near 65; Wednesday night partly cloudy, low around 52. Thursday mostly cloudy, high near 65; Thursday night partly cloudy, low around 52.<br />
+Source: <a href="https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1" target="_blank" rel="noopener">https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1</a></p>
+<p><strong>Coastal Flood Advisory (reissued 5:41 am Oct 27; until Fri Oct 30, 5 pm PDT):</strong> up to 2.1 ft of inundation possible in low-lying areas along San Pablo Bay, SF Bay and Monterey Bay, worst along the Marin bayshore. SF high tides: 7.9 ft at 12:15 pm Tue, 7.7 ft at 12:56 pm Wed, 7.5 ft at 1:43 pm Thu, 7.4 ft at 2:39 pm Fri. Expect flooding of low-lying roads and paths, isolated road closures, and waves farther up the beach.<br />
+Source: <a href="https://api.weather.gov/alerts/active?point=37.7749,-122.4194" target="_blank" rel="noopener">https://api.weather.gov/alerts/active?point=37.7749,-122.4194</a></p>
+<h2>Road closures (Caltrans District 4)</h2>
+<ul>
+<li><strong>Reopened:</strong> WB I-80 Bayshore Freeway (5th–15th St, SF) reopened Monday. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-26-i80-wb-bayshore-re-opened" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-26-i80-wb-bayshore-re-opened</a> · SR-37 between Vallejo and Sonoma reopened at 2:15 am Monday, about 3 hours early. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-26-sr37-reopen" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-26-sr37-reopen</a></li>
+<li><strong>SR-29 (Sonoma Blvd), Vallejo, Sequoia Ave to the Solano/Napa line: two lanes closed (one open), Oct 26 – Nov 6,</strong> Mon–Thu 9 am–6 pm, Fri 9 am–7 pm. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr29-daytime-two-lane-closure" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr29-daytime-two-lane-closure</a></li>
+<li><strong>SR-92/US-101, San Mateo: nightly ramp closures through Fri Oct 30.</strong> Tue–Thu nights the WB 92 to SB 101 loop ramp closes 9 pm–5 am. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures</a></li>
+<li>Also posted: overnight WB SR-237 lane closures at Abel St in Milpitas, overnight SR-12 closures in Santa Rosa, SR-37 Petaluma River Bridge lane reductions this week, and nightly US-101 lane and ramp closures in Marin. Looking ahead: SR-1 Devil's Slide tunnels fully closed Thu Nov 5, 8 pm – Fri Nov 6, 4 am (detour via Sharp Park Rd, I-280 and SR-92). <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news</a></li>
+<li>Live conditions: <a href="https://quickmap.dot.ca.gov" target="_blank" rel="noopener">https://quickmap.dot.ca.gov</a> and 511.org.</li>
+</ul>
+<hr />
+<h2>What's on (each confirmed on an official, venue or ticketing page)</h2>
+<p>Listings carried from the Mon 10 pm run (not re-opened this run).</p>
+<p><strong>1) Noe Valley Night Market: Tue Oct 27, 4:30–8:30 pm.</strong> Noe Valley Town Square and 24th St (Vicksburg–Sanchez). Halloween-themed: 40+ food, drink and artist booths, face painting, live music. Free. 24th St closes 2–10 pm; the 48 Muni is rerouted 1:30–10 pm.<br />
+<a href="https://noemerchants.com/nightmarket-vendors/" target="_blank" rel="noopener">https://noemerchants.com/nightmarket-vendors/</a> · <a href="https://www.sfmta.com/travel-updates/noe-valley-night-market-tuesday-october-27-2026" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates/noe-valley-night-market-tuesday-october-27-2026</a></p>
+<p><strong>2) SF Opera, Massenet's <em>Manon</em>: Tue Oct 27, 7:30 pm.</strong> War Memorial Opera House, 301 Van Ness. Tickets "starting at $30"; 3 hr 25 min with two intermissions; French with English supertitles. Remaining dates Oct 30 and Nov 1.<br />
+<a href="https://www.sfopera.com/operas/manon/" target="_blank" rel="noopener">https://www.sfopera.com/operas/manon/</a></p>
+<p><strong>3) Sharks vs. Buffalo Sabres: Tue Oct 27, 7:30 pm.</strong> SAP Center, San Jose. Ticket prices not checked.<br />
+<a href="https://www.nhl.com/sharks/schedule" target="_blank" rel="noopener">https://www.nhl.com/sharks/schedule</a></p>
+<p><strong>4) Slow Pulp: Tue Oct 27 and Wed Oct 28, 8 pm.</strong> The Fillmore, 1805 Geary Blvd. Prices not listed on the venue feed.<br />
+<a href="https://www.thefillmore.com/shows" target="_blank" rel="noopener">https://www.thefillmore.com/shows</a> · <a href="https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-27-2026/event/1C0064A49383A7BE" target="_blank" rel="noopener">https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-27-2026/event/1C0064A49383A7BE</a></p>
+<p><strong>5) Protocols with Andrew Huberman: Wed Oct 28, 7 pm.</strong> The Masonic (Nob Hill). Prices not checked.<br />
+<a href="https://www.sfmasonic.com/shows" target="_blank" rel="noopener">https://www.sfmasonic.com/shows</a> · <a href="https://www.ticketmaster.com/protocols-with-andrew-huberman-san-francisco-california-10-28-2026/event/1C006507D03F9240" target="_blank" rel="noopener">https://www.ticketmaster.com/protocols-with-andrew-huberman-san-francisco-california-10-28-2026/event/1C006507D03F9240</a></p>
+<p><strong>6) Mo Welch (comedy): Wed Oct 28, 8 pm.</strong> Punch Line Comedy Club, SF. Prices not checked.<br />
+<a href="https://www.punchlinecomedyclub.com/shows" target="_blank" rel="noopener">https://www.punchlinecomedyclub.com/shows</a></p>
+<p><strong>7) Sharks vs. Vancouver Canucks: Thu Oct 29, 7 pm.</strong> SAP Center, San Jose. Ticket prices not checked.<br />
+<a href="https://www.nhl.com/sharks/schedule" target="_blank" rel="noopener">https://www.nhl.com/sharks/schedule</a></p>
+<p><strong>8) Exploratorium After Dark, "Creepatorium": Thu Oct 29, 6–10 pm.</strong> Pier 15, SF. The museum's annual Halloween party with Gothicumbia and a science-themed costume contest. Price not checked.<br />
+<a href="https://www.exploratorium.edu/visit/calendar" target="_blank" rel="noopener">https://www.exploratorium.edu/visit/calendar</a></p>
+<p><strong>Also listed:</strong> Cobb's Comedy Club has Tokyo Kanpai Boys (in Japanese) Tue 7:30 pm and Poly Díaz (en español) Wed 7:30 pm. <a href="https://www.cobbscomedy.com/shows" target="_blank" rel="noopener">https://www.cobbscomedy.com/shows</a><br />
+<strong>No Warriors home games in this window;</strong> next is Fri Oct 30 vs. Lakers. <a href="https://www.nba.com/warriors/schedule" target="_blank" rel="noopener">https://www.nba.com/warriors/schedule</a></p>
+<hr />
+<h2>Where to eat</h2>
+<p>No Yelp ratings (Yelp blocks automated loads). Descriptions and hours are Michelin's unless noted; price signs are Michelin's.</p>
+<p><strong>State Bird Provisions, Fillmore, SF (1529 Fillmore St) · Californian · $$$ · Michelin One Star.</strong> Dim sum-style carts of seasonal California small plates, like dumplings, savory pancakes and liver mousse; the menu changes often. Reservations can be hard to get. Dinner daily 5:30–10 pm (10:30 Fri–Sat). Four blocks from the Fillmore for the Slow Pulp shows.<br />
+<a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/state-bird-provisions" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/state-bird-provisions</a></p>
+<p><strong>Zuni Café, Hayes Valley/Market St, SF (1658 Market St) · Californian/French · $$$.</strong> A San Francisco institution with a copper bar and wood-fired brick oven; Michelin says order oysters, the roast chicken for two and the gâteau Victoire. Tue–Thu dinner 5–9:30 pm (carried). Near the opera house for <em>Manon</em>.<br />
+<a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/zuni-cafe" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/zuni-cafe</a></p>
+<p><strong>Kin Khao, Union Square, SF (55 Cyril Magnin St) · Thai/Californian · $$$.</strong> Michelin praises its layered, produce-driven Thai cooking and warns some dishes are very spicy. Its own site: lunch daily 11:30 am–2 pm, dinner Sun–Thu 5:30–9 pm (carried from the last brief). <a href="https://www.kinkhao.com/" target="_blank" rel="noopener">https://www.kinkhao.com/</a></p>
+<p><strong>Nopalito, NoPa, SF (306 Broderick St) · Mexican · $$.</strong> Blue-corn fish tacos, chilaquiles verdes, no reservations. Michelin lists 11:30 am–9 pm, except Wednesday 4:30–9 pm (carried). <a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/nopalito" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/nopalito</a></p>
+<p><strong>Burdell, Oakland (4640 Telegraph Ave) · $$$.</strong> Chef Geoff Davis's take on soul food. Closed Mon and Tue, so Wednesday and Thursday only in this window (carried). <a href="https://guide.michelin.com/us/en/california/oakland/restaurant/burdell" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/oakland/restaurant/burdell</a></p>
+<hr />
+<h2>Getting around</h2>
+<p><strong>Muni and cable cars (carried from the last brief):</strong> $2.85 single ride with Clipper, MuniMobile or tap-to-pay ($3.00 cash), good 120 minutes. Day pass $5.70. Cable car $9.00. Visitor Passports 1-day $15, 3-day $35, 7-day $47. Youth 18 and under ride Muni free. <a href="https://www.sfmta.com/getting-around/muni/fares" target="_blank" rel="noopener">https://www.sfmta.com/getting-around/muni/fares</a><br />
+<strong>Muni reroutes:</strong> Tue Oct 27, the 48 skips 24th &amp; Sanchez, Church and Dolores 1:30–10 pm for the Noe Valley Night Market. Coming up: Oct 31 Halloween closures and the Golden Gate Half Marathon Sun Nov 1. <a href="https://www.sfmta.com/travel-updates" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates</a></p>
+<p><strong>BART:</strong></p>
+<ul>
+<li><strong>Sun–Thu from 9 pm, expect 30-minute delays between Millbrae, SFO and Daly City</strong> for train control work. Leave extra time for late flights. (BART service advisory, reposted 6:05 am Oct 27.)</li>
+<li>Tue Oct 27 – Fri Oct 30: late-night single tracking on the Yellow Line in Contra Costa County (carried).</li>
+<li>Coming up: reduced BART-to-OAK service the night of Nov 4, and a bus bridge between 24th St Mission and Daly City Nov 14–15 (carried).</li>
+<li>SFO: tap a contactless card or Clipper at the gate.<br />
+Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel="noopener">https://www.bart.gov/schedules/advisories</a> · <a href="https://www.bart.gov/guide/airport" target="_blank" rel="noopener">https://www.bart.gov/guide/airport</a></li>
+</ul>
+<p><strong>Bikes and scooters (from the Oct 23 brief, not re-checked):</strong> Lyft Bike is $1 to unlock plus $0.19/min classic or $0.49/min ebike, or a $15 day pass. Lime and Spin hold SF permits. No sidewalk riding. <a href="https://www.lyft.com/bikes/bay-wheels" target="_blank" rel="noopener">https://www.lyft.com/bikes/bay-wheels</a></p>
+<p><strong>SFO cars and rides (from the Oct 23 brief):</strong> Rental Car Center via AirTrain Blue Line (24 hours). Lyft and Uber pick up on Level 5 of the Domestic Garage. Taxis at the Arrivals center islands. <a href="https://www.flysfo.com/passengers/ground-transportation" target="_blank" rel="noopener">https://www.flysfo.com/passengers/ground-transportation</a></p>
+<h2>Where to stay</h2>
+<p>Per SF Travel, Union Square has most major hotels and the best transit links; Nob Hill is the upscale pick and close to the Masonic; Hayes Valley and Civic Center put you by the opera and Zuni. <a href="https://www.sftravel.com/neighborhoods" target="_blank" rel="noopener">https://www.sftravel.com/neighborhoods</a></p>
+<hr />
+<h2>Assumptions and refresh</h2>
+<ul>
+<li>Public data only, from pages opened Tue Oct 27, 2026, around 6:07 am PT (NWS forecast and alerts, Caltrans District 4 news, BART advisory feed and SFMTA travel updates re-checked; events, restaurants, fares, bikes and SFO notes carried from Monday's runs). Nobody was contacted and nothing was signed up for.</li>
+<li>This is a snapshot. BayAreaDailySync refreshes it every 8 hours (6 am, 2 pm, 10 pm PT).</li>
+<li>Times are Pacific. Prices only where a cited page lists them.</li>
+</ul>
+<h2>Not verified</h2>
+<ol>
+<li>Yelp ratings (blocked).</li>
+<li>Ticket prices for Slow Pulp, Huberman, Mo Welch, Cobb's shows, both Sharks games and Creepatorium.</li>
+<li>BART's planned-work list beyond tonight's advisory feed; Yellow Line, OAK and bus-bridge items are carried.</li>
+<li>Live Muni alerts; fares, Lyft Bike, Lime and Spin pricing not re-checked this run.</li>
+<li>All restaurant hours and details carried from earlier runs.</li>
+<li>Fillmore, Masonic, Cobb's, Punch Line and SF Opera pages weren't re-opened this run, so those listings are carried from Monday.</li>
+<li>Thursday events at other venues (SF Symphony, Chase Center, SFJAZZ not checked).</li>
+<li>Halloween (Oct 31) events beyond SFMTA's closure list.</li>
+</ol>]]></content:encoded>
+  </item>
+  <item>
+    <title>Urban Concierge Brief: SF Bay Area · Tuesday Oct 27 – Thursday Oct 29, 2026 · Snapshot compiled Mon Oct 26, 2026, 10:01 pm PT (BayAreaDailySync)</title>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-26-2201.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-26-2201.html</guid>
+    <pubDate>Mon, 26 Oct 2026 22:01:00 -0700</pubDate>
+    <description>Tuesday Oct 27 – Thursday Oct 29, 2026 · Snapshot compiled Mon Oct 26, 2026, 10:01 pm PT (BayAreaDailySync)</description>
+    <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
+<p><strong>Tuesday Oct 27 – Thursday Oct 29, 2026</strong> · Snapshot compiled Mon Oct 26, 2026, 10:01 pm PT (BayAreaDailySync)</p>
+<p><strong>What changed since the last brief (Mon 2:04 pm):</strong> no major changes. The window now runs Tue–Thu. NWS reissued the Coastal Flood Advisory at 8:59 pm and extended it to Fri Oct 30, 5 pm. Caltrans confirmed SR-37 (Vallejo–Sonoma) reopened at 2:15 am Monday, about 3 hours early. Added for Thursday: Sharks vs. Canucks and the Exploratorium's Creepatorium.</p>
+<hr />
+<h2>Weather and alerts</h2>
+<p><strong>NWS (SF, forecast updated 9:06 pm Mon):</strong> Tonight mostly clear, low around 54, gusts to 22 mph. Tuesday mostly sunny, high near 64, gusts to 18 mph. Tuesday night patchy fog 4–5 am, low around 51. Wednesday sunny, high near 65; Wednesday night partly cloudy, low around 53. Thursday partly sunny, high near 64; Thursday night mostly cloudy, low around 53.<br />
+Source: <a href="https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1" target="_blank" rel="noopener">https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1</a></p>
+<p><strong>Coastal Flood Advisory (reissued 8:59 pm Oct 26; now until Fri Oct 30, 5 pm PDT):</strong> up to 2.1 ft of inundation possible in low-lying areas along San Pablo Bay, SF Bay and Monterey Bay, worst along the Marin bayshore. SF high tides: 7.9 ft at 12:15 pm Tue, 7.7 ft at 12:56 pm Wed, 7.5 ft at 1:43 pm Thu, 7.4 ft at 2:39 pm Fri. Expect flooding of low-lying roads and paths, isolated road closures, and waves farther up the beach.<br />
+Source: <a href="https://api.weather.gov/alerts/active?point=37.7749,-122.4194" target="_blank" rel="noopener">https://api.weather.gov/alerts/active?point=37.7749,-122.4194</a></p>
+<h2>Road closures (Caltrans District 4)</h2>
+<ul>
+<li><strong>Reopened:</strong> WB I-80 Bayshore Freeway (5th–15th St, SF) reopened Monday. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-26-i80-wb-bayshore-re-opened" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-26-i80-wb-bayshore-re-opened</a> · SR-37 between Vallejo and Sonoma reopened at 2:15 am Monday, about 3 hours early. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-26-sr37-reopen" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-26-sr37-reopen</a></li>
+<li><strong>SR-29 (Sonoma Blvd), Vallejo, Sequoia Ave to the Solano/Napa line: two lanes closed (one open), Oct 26 – Nov 6,</strong> Mon–Thu 9 am–6 pm, Fri 9 am–7 pm. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr29-daytime-two-lane-closure" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr29-daytime-two-lane-closure</a></li>
+<li><strong>SR-92/US-101, San Mateo: nightly ramp closures through Fri Oct 30.</strong> Tue–Thu nights the WB 92 to SB 101 loop ramp closes 9 pm–5 am. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures</a></li>
+<li>Also posted: overnight WB SR-237 lane closures at Abel St in Milpitas, overnight SR-12 closures in Santa Rosa, SR-37 Petaluma River Bridge lane reductions this week, and nightly US-101 lane and ramp closures in Marin. Looking ahead: SR-1 Devil's Slide tunnels fully closed Thu Nov 5, 8 pm – Fri Nov 6, 4 am (detour via Sharp Park Rd, I-280 and SR-92). <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news</a></li>
+<li>Live conditions: <a href="https://quickmap.dot.ca.gov" target="_blank" rel="noopener">https://quickmap.dot.ca.gov</a> and 511.org.</li>
+</ul>
+<hr />
+<h2>What's on (each confirmed on an official, venue or ticketing page)</h2>
+<p>Exploratorium calendar and the Sharks schedule re-checked this run; other listings carried from the 2 pm run.</p>
+<p><strong>1) Noe Valley Night Market: Tue Oct 27, 4:30–8:30 pm.</strong> Noe Valley Town Square and 24th St (Vicksburg–Sanchez). Halloween-themed: 40+ food, drink and artist booths, face painting, live music. Free. 24th St closes 2–10 pm; the 48 Muni is rerouted 1:30–10 pm.<br />
+<a href="https://noemerchants.com/nightmarket-vendors/" target="_blank" rel="noopener">https://noemerchants.com/nightmarket-vendors/</a> · <a href="https://www.sfmta.com/travel-updates/noe-valley-night-market-tuesday-october-27-2026" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates/noe-valley-night-market-tuesday-october-27-2026</a></p>
+<p><strong>2) SF Opera, Massenet's <em>Manon</em>: Tue Oct 27, 7:30 pm.</strong> War Memorial Opera House, 301 Van Ness. Tickets "starting at $30"; 3 hr 25 min with two intermissions; French with English supertitles. Remaining dates Oct 30 and Nov 1.<br />
+<a href="https://www.sfopera.com/operas/manon/" target="_blank" rel="noopener">https://www.sfopera.com/operas/manon/</a></p>
+<p><strong>3) Sharks vs. Buffalo Sabres: Tue Oct 27, 7:30 pm.</strong> SAP Center, San Jose. Ticket prices not checked.<br />
+<a href="https://www.nhl.com/sharks/schedule" target="_blank" rel="noopener">https://www.nhl.com/sharks/schedule</a></p>
+<p><strong>4) Slow Pulp: Tue Oct 27 and Wed Oct 28, 8 pm.</strong> The Fillmore, 1805 Geary Blvd. Prices not listed on the venue feed.<br />
+<a href="https://www.thefillmore.com/shows" target="_blank" rel="noopener">https://www.thefillmore.com/shows</a> · <a href="https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-27-2026/event/1C0064A49383A7BE" target="_blank" rel="noopener">https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-27-2026/event/1C0064A49383A7BE</a></p>
+<p><strong>5) Protocols with Andrew Huberman: Wed Oct 28, 7 pm.</strong> The Masonic (Nob Hill). Prices not checked.<br />
+<a href="https://www.sfmasonic.com/shows" target="_blank" rel="noopener">https://www.sfmasonic.com/shows</a> · <a href="https://www.ticketmaster.com/protocols-with-andrew-huberman-san-francisco-california-10-28-2026/event/1C006507D03F9240" target="_blank" rel="noopener">https://www.ticketmaster.com/protocols-with-andrew-huberman-san-francisco-california-10-28-2026/event/1C006507D03F9240</a></p>
+<p><strong>6) Mo Welch (comedy): Wed Oct 28, 8 pm.</strong> Punch Line Comedy Club, SF. Prices not checked.<br />
+<a href="https://www.punchlinecomedyclub.com/shows" target="_blank" rel="noopener">https://www.punchlinecomedyclub.com/shows</a></p>
+<p><strong>7) Sharks vs. Vancouver Canucks: Thu Oct 29, 7 pm.</strong> SAP Center, San Jose. Ticket prices not checked.<br />
+<a href="https://www.nhl.com/sharks/schedule" target="_blank" rel="noopener">https://www.nhl.com/sharks/schedule</a></p>
+<p><strong>8) Exploratorium After Dark, "Creepatorium": Thu Oct 29, 6–10 pm.</strong> Pier 15, SF. The museum's annual Halloween party with Gothicumbia and a science-themed costume contest. Price not checked.<br />
+<a href="https://www.exploratorium.edu/visit/calendar" target="_blank" rel="noopener">https://www.exploratorium.edu/visit/calendar</a></p>
+<p><strong>Also listed:</strong> Cobb's Comedy Club has Tokyo Kanpai Boys (in Japanese) Tue 7:30 pm and Poly Díaz (en español) Wed 7:30 pm. <a href="https://www.cobbscomedy.com/shows" target="_blank" rel="noopener">https://www.cobbscomedy.com/shows</a><br />
+<strong>No Warriors home games in this window;</strong> next is Fri Oct 30 vs. Lakers. <a href="https://www.nba.com/warriors/schedule" target="_blank" rel="noopener">https://www.nba.com/warriors/schedule</a></p>
+<hr />
+<h2>Where to eat</h2>
+<p>No Yelp ratings (Yelp blocks automated loads). Descriptions and hours are Michelin's unless noted; price signs are Michelin's.</p>
+<p><strong>State Bird Provisions, Fillmore, SF (1529 Fillmore St) · Californian · $$$ · Michelin One Star.</strong> Dim sum-style carts of seasonal California small plates, like dumplings, savory pancakes and liver mousse; the menu changes often. Reservations can be hard to get. Dinner daily 5:30–10 pm (10:30 Fri–Sat). Four blocks from the Fillmore for the Slow Pulp shows.<br />
+<a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/state-bird-provisions" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/state-bird-provisions</a></p>
+<p><strong>Zuni Café, Hayes Valley/Market St, SF (1658 Market St) · Californian/French · $$$.</strong> A San Francisco institution with a copper bar and wood-fired brick oven; Michelin says order oysters, the roast chicken for two and the gâteau Victoire. Tue–Thu dinner 5–9:30 pm (carried). Near the opera house for <em>Manon</em>.<br />
+<a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/zuni-cafe" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/zuni-cafe</a></p>
+<p><strong>Kin Khao, Union Square, SF (55 Cyril Magnin St) · Thai/Californian · $$$.</strong> Michelin praises its layered, produce-driven Thai cooking and warns some dishes are very spicy. Its own site: lunch daily 11:30 am–2 pm, dinner Sun–Thu 5:30–9 pm (carried from the last brief). <a href="https://www.kinkhao.com/" target="_blank" rel="noopener">https://www.kinkhao.com/</a></p>
+<p><strong>Nopalito, NoPa, SF (306 Broderick St) · Mexican · $$.</strong> Blue-corn fish tacos, chilaquiles verdes, no reservations. Michelin lists 11:30 am–9 pm, except Wednesday 4:30–9 pm (carried). <a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/nopalito" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/nopalito</a></p>
+<p><strong>Burdell, Oakland (4640 Telegraph Ave) · $$$.</strong> Chef Geoff Davis's take on soul food. Closed Mon and Tue, so Wednesday and Thursday only in this window (carried). <a href="https://guide.michelin.com/us/en/california/oakland/restaurant/burdell" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/oakland/restaurant/burdell</a></p>
+<hr />
+<h2>Getting around</h2>
+<p><strong>Muni and cable cars (carried from the last brief):</strong> $2.85 single ride with Clipper, MuniMobile or tap-to-pay ($3.00 cash), good 120 minutes. Day pass $5.70. Cable car $9.00. Visitor Passports 1-day $15, 3-day $35, 7-day $47. Youth 18 and under ride Muni free. <a href="https://www.sfmta.com/getting-around/muni/fares" target="_blank" rel="noopener">https://www.sfmta.com/getting-around/muni/fares</a><br />
+<strong>Muni reroutes:</strong> Tue Oct 27, the 48 skips 24th &amp; Sanchez, Church and Dolores 1:30–10 pm for the Noe Valley Night Market. Coming up: Oct 31 Halloween closures and the Golden Gate Half Marathon Sun Nov 1. <a href="https://www.sfmta.com/travel-updates" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates</a></p>
+<p><strong>BART:</strong></p>
+<ul>
+<li><strong>Sun–Thu from 9 pm, expect 30-minute delays between Millbrae, SFO and Daly City</strong> for train control work. Leave extra time for late flights. (BART service advisory, reposted 9:41 pm Oct 26.)</li>
+<li>Tue Oct 27 – Fri Oct 30: late-night single tracking on the Yellow Line in Contra Costa County (carried).</li>
+<li>Coming up: reduced BART-to-OAK service the night of Nov 4, and a bus bridge between 24th St Mission and Daly City Nov 14–15 (carried).</li>
+<li>SFO: tap a contactless card or Clipper at the gate.<br />
+Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel="noopener">https://www.bart.gov/schedules/advisories</a> · <a href="https://www.bart.gov/guide/airport" target="_blank" rel="noopener">https://www.bart.gov/guide/airport</a></li>
+</ul>
+<p><strong>Bikes and scooters (from the Oct 23 brief, not re-checked):</strong> Lyft Bike is $1 to unlock plus $0.19/min classic or $0.49/min ebike, or a $15 day pass. Lime and Spin hold SF permits. No sidewalk riding. <a href="https://www.lyft.com/bikes/bay-wheels" target="_blank" rel="noopener">https://www.lyft.com/bikes/bay-wheels</a></p>
+<p><strong>SFO cars and rides (from the Oct 23 brief):</strong> Rental Car Center via AirTrain Blue Line (24 hours). Lyft and Uber pick up on Level 5 of the Domestic Garage. Taxis at the Arrivals center islands. <a href="https://www.flysfo.com/passengers/ground-transportation" target="_blank" rel="noopener">https://www.flysfo.com/passengers/ground-transportation</a></p>
+<h2>Where to stay</h2>
+<p>Per SF Travel, Union Square has most major hotels and the best transit links; Nob Hill is the upscale pick and close to the Masonic; Hayes Valley and Civic Center put you by the opera and Zuni. <a href="https://www.sftravel.com/neighborhoods" target="_blank" rel="noopener">https://www.sftravel.com/neighborhoods</a></p>
+<hr />
+<h2>Assumptions and refresh</h2>
+<ul>
+<li>Public data only, from pages opened Mon Oct 26, 2026, around 10:01 pm PT (NWS forecast and alerts, Caltrans District 4 news, BART advisory feed, SFMTA travel updates, Exploratorium calendar and the NHL Sharks schedule re-checked; other events, restaurants, fares, bikes and SFO notes carried from the 2 pm run). Nobody was contacted and nothing was signed up for.</li>
+<li>This is a snapshot. BayAreaDailySync refreshes it every 8 hours (6 am, 2 pm, 10 pm PT).</li>
+<li>Times are Pacific. Prices only where a cited page lists them.</li>
+</ul>
+<h2>Not verified</h2>
+<ol>
+<li>Yelp ratings (blocked).</li>
+<li>Ticket prices for Slow Pulp, Huberman, Mo Welch, Cobb's shows, both Sharks games and Creepatorium.</li>
+<li>BART's planned-work list beyond tonight's advisory feed; Yellow Line, OAK and bus-bridge items are carried.</li>
+<li>Live Muni alerts; fares, Lyft Bike, Lime and Spin pricing not re-checked this run.</li>
+<li>All restaurant hours and details carried from earlier runs.</li>
+<li>Fillmore, Masonic, Cobb's, Punch Line and SF Opera pages didn't render this run, so those listings are carried from the 2 pm run.</li>
+<li>Thursday events at other venues (SF Symphony, Chase Center, SFJAZZ not checked).</li>
+<li>Halloween (Oct 31) events beyond SFMTA's closure list.</li>
+</ol>]]></content:encoded>
+  </item>
+  <item>
+    <title>Urban Concierge Brief: SF Bay Area · Monday Oct 26 – Wednesday Oct 28, 2026 · Snapshot compiled Mon Oct 26, 2026, 2:04 pm PT (BayAreaDailySync)</title>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-26-1404.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-26-1404.html</guid>
+    <pubDate>Mon, 26 Oct 2026 14:04:00 -0700</pubDate>
+    <description>Monday Oct 26 – Wednesday Oct 28, 2026 · Snapshot compiled Mon Oct 26, 2026, 2:04 pm PT (BayAreaDailySync)</description>
+    <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
+<p><strong>Monday Oct 26 – Wednesday Oct 28, 2026</strong> · Snapshot compiled Mon Oct 26, 2026, 2:04 pm PT (BayAreaDailySync)</p>
+<p><strong>What changed since the last brief (Mon 6:10 am):</strong> no major changes. The NWS raised the Coastal Flood Advisory to up to 2.1 ft of inundation (reissued 11:04 am), with Tuesday's 12:15 pm tide now the highest at 7.9 ft; Caltrans confirmed WB I-80 Bayshore (5th–15th St) has reopened; BART reposted the Millbrae–SFO–Daly City 9 pm delay advisory at 1:45 pm.</p>
+<hr />
+<h2>Weather and alerts</h2>
+<p><strong>NWS (SF, forecast updated 11:27 am Mon):</strong> This afternoon sunny, high near 65, falling to about 63, west wind gusting to 22 mph. Tonight mostly clear, low around 54. Tuesday mostly sunny, high near 64, gusts to 21 mph. Tuesday night mostly clear with patchy fog around 4–5 am, low around 51. Wednesday sunny, high near 65; Wednesday night partly cloudy, low around 53.<br />
+Source: <a href="https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1" target="_blank" rel="noopener">https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1</a></p>
+<p><strong>Coastal Flood Advisory (reissued 11:04 am Oct 26; until Thu Oct 29, 3 pm PDT):</strong> up to 2.1 ft of inundation possible in low-lying areas along San Pablo Bay, SF Bay and Monterey Bay, with the worst impacts expected along the Marin bayshore. SF high tides: 7.8 ft at 11:39 am Mon, 7.9 ft at 12:15 pm Tue, 7.7 ft at 12:56 pm Wed. Expect flooding of low-lying roads and paths, isolated road closures, and waves farther up the beach.<br />
+Source: <a href="https://api.weather.gov/alerts/active?point=37.7749,-122.4194" target="_blank" rel="noopener">https://api.weather.gov/alerts/active?point=37.7749,-122.4194</a></p>
+<h2>Road closures (Caltrans District 4)</h2>
+<ul>
+<li><strong>Reopened:</strong> Caltrans posted Mon Oct 26 that WB I-80 Bayshore Freeway (5th–15th St, SF) has reopened. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-26-i80-wb-bayshore-re-opened" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-26-i80-wb-bayshore-re-opened</a> · SR-37 Mare Island–Sears Point was scheduled to reopen Mon 5 am (no reopening notice posted). <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-21-sr37-closure-update" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-21-sr37-closure-update</a></li>
+<li><strong>SR-29 (Sonoma Blvd), Vallejo, Sequoia Ave to the Solano/Napa line: two lanes closed (one open), Oct 26 – Nov 6,</strong> Mon–Thu 9 am–6 pm, Fri 9 am–7 pm. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr29-daytime-two-lane-closure" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr29-daytime-two-lane-closure</a></li>
+<li><strong>SR-92/US-101, San Mateo: nightly ramp closures through Fri Oct 30.</strong> Mon–Thu the WB 92 to SB 101 loop ramp closes 9 pm–5 am. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures</a></li>
+<li>Also posted: overnight WB SR-237 lane closures at Abel St in Milpitas, overnight SR-12 closures in Santa Rosa, SR-37 Petaluma River Bridge lane reductions this week, and nightly US-101 lane and ramp closures in Marin. Looking ahead: SR-1 Devil's Slide tunnels fully closed Thu Nov 5, 8 pm – Fri Nov 6, 4 am (detour via Sharp Park Rd, I-280 and SR-92). <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news</a></li>
+<li>Live conditions: <a href="https://quickmap.dot.ca.gov" target="_blank" rel="noopener">https://quickmap.dot.ca.gov</a> and 511.org.</li>
+</ul>
+<hr />
+<h2>What's on (each confirmed on an official, venue or ticketing page)</h2>
+<p>Monday evening is quiet: none of the venues checked list a show Mon Oct 26. Noe Valley Night Market and SF Opera pages re-checked this run.</p>
+<p><strong>1) Noe Valley Night Market: Tue Oct 27, 4:30–8:30 pm.</strong> Noe Valley Town Square and 24th St (Vicksburg–Sanchez). Halloween-themed: 40+ food, drink and artist booths, face painting, live music. Free. 24th St closes 2–10 pm; the 48 Muni is rerouted 1:30–10 pm.<br />
+<a href="https://noemerchants.com/nightmarket-vendors/" target="_blank" rel="noopener">https://noemerchants.com/nightmarket-vendors/</a> · <a href="https://www.sfmta.com/travel-updates/noe-valley-night-market-tuesday-october-27-2026" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates/noe-valley-night-market-tuesday-october-27-2026</a></p>
+<p><strong>2) SF Opera, Massenet's <em>Manon</em>: Tue Oct 27, 7:30 pm.</strong> War Memorial Opera House, 301 Van Ness. Tickets "starting at $30"; 3 hr 25 min with two intermissions; French with English supertitles. Remaining dates Oct 30 and Nov 1.<br />
+<a href="https://www.sfopera.com/operas/manon/" target="_blank" rel="noopener">https://www.sfopera.com/operas/manon/</a></p>
+<p><strong>3) Sharks vs. Buffalo Sabres: Tue Oct 27, 7:30 pm.</strong> SAP Center, San Jose. Ticket prices not checked.<br />
+<a href="https://www.nhl.com/sharks/schedule" target="_blank" rel="noopener">https://www.nhl.com/sharks/schedule</a></p>
+<p><strong>4) Slow Pulp: Tue Oct 27 and Wed Oct 28, 8 pm.</strong> The Fillmore, 1805 Geary Blvd. Prices not listed on the venue feed.<br />
+<a href="https://www.thefillmore.com/shows" target="_blank" rel="noopener">https://www.thefillmore.com/shows</a> · <a href="https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-27-2026/event/1C0064A49383A7BE" target="_blank" rel="noopener">https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-27-2026/event/1C0064A49383A7BE</a></p>
+<p><strong>5) Protocols with Andrew Huberman: Wed Oct 28, 7 pm.</strong> The Masonic (Nob Hill). Prices not checked.<br />
+<a href="https://www.sfmasonic.com/shows" target="_blank" rel="noopener">https://www.sfmasonic.com/shows</a> · <a href="https://www.ticketmaster.com/protocols-with-andrew-huberman-san-francisco-california-10-28-2026/event/1C006507D03F9240" target="_blank" rel="noopener">https://www.ticketmaster.com/protocols-with-andrew-huberman-san-francisco-california-10-28-2026/event/1C006507D03F9240</a></p>
+<p><strong>6) Mo Welch (comedy): Wed Oct 28, 8 pm.</strong> Punch Line Comedy Club, SF. Prices not checked.<br />
+<a href="https://www.punchlinecomedyclub.com/shows" target="_blank" rel="noopener">https://www.punchlinecomedyclub.com/shows</a></p>
+<p><strong>Also listed:</strong> Cobb's Comedy Club has Tokyo Kanpai Boys (in Japanese) Tue 7:30 pm and Poly Díaz (en español) Wed 7:30 pm. <a href="https://www.cobbscomedy.com/shows" target="_blank" rel="noopener">https://www.cobbscomedy.com/shows</a><br />
+<strong>Coming Thu Oct 29:</strong> Exploratorium After Dark "Creepatorium" Halloween party, 6–10 pm. <a href="https://www.exploratorium.edu/visit/calendar" target="_blank" rel="noopener">https://www.exploratorium.edu/visit/calendar</a><br />
+<strong>No Warriors home games in this window;</strong> next is Fri Oct 30 vs. Lakers. <a href="https://www.nba.com/warriors/schedule" target="_blank" rel="noopener">https://www.nba.com/warriors/schedule</a></p>
+<hr />
+<h2>Where to eat</h2>
+<p>No Yelp ratings (Yelp blocks automated loads). Descriptions and hours are Michelin's unless noted; price signs are Michelin's.</p>
+<p><strong>State Bird Provisions, Fillmore, SF (1529 Fillmore St) · Californian · $$$ · Michelin One Star.</strong> Dim sum-style carts of seasonal California small plates, like dumplings, savory pancakes and liver mousse; the menu changes often. Reservations can be hard to get. Dinner daily 5:30–10 pm (10:30 Fri–Sat). Four blocks from the Fillmore for the Slow Pulp shows.<br />
+<a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/state-bird-provisions" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/state-bird-provisions</a></p>
+<p><strong>Zuni Café, Hayes Valley/Market St, SF (1658 Market St) · Californian/French · $$$.</strong> A San Francisco institution with a copper bar and wood-fired brick oven; Michelin says order oysters, the roast chicken for two and the gâteau Victoire. Closed Monday; Tue–Wed dinner 5–9:30 pm. Near the opera house for <em>Manon</em>.<br />
+<a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/zuni-cafe" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/zuni-cafe</a></p>
+<p><strong>Kin Khao, Union Square, SF (55 Cyril Magnin St) · Thai/Californian · $$$.</strong> Michelin praises its layered, produce-driven Thai cooking and warns some dishes are very spicy. Its own site: lunch daily 11:30 am–2 pm, dinner Sun–Thu 5:30–9 pm (carried from the last brief). <a href="https://www.kinkhao.com/" target="_blank" rel="noopener">https://www.kinkhao.com/</a></p>
+<p><strong>Nopalito, NoPa, SF (306 Broderick St) · Mexican · $$.</strong> Blue-corn fish tacos, chilaquiles verdes, no reservations. Michelin lists 11:30 am–9 pm, except Wednesday 4:30–9 pm (carried). <a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/nopalito" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/nopalito</a></p>
+<p><strong>Burdell, Oakland (4640 Telegraph Ave) · $$$.</strong> Chef Geoff Davis's take on soul food. Closed Mon and Tue, so Wednesday only in this window (carried). <a href="https://guide.michelin.com/us/en/california/oakland/restaurant/burdell" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/oakland/restaurant/burdell</a></p>
+<hr />
+<h2>Getting around</h2>
+<p><strong>Muni and cable cars (carried from the last brief):</strong> $2.85 single ride with Clipper, MuniMobile or tap-to-pay ($3.00 cash), good 120 minutes. Day pass $5.70. Cable car $9.00. Visitor Passports 1-day $15, 3-day $35, 7-day $47. Youth 18 and under ride Muni free. <a href="https://www.sfmta.com/getting-around/muni/fares" target="_blank" rel="noopener">https://www.sfmta.com/getting-around/muni/fares</a><br />
+<strong>Muni reroutes:</strong> Tue Oct 27, the 48 skips 24th &amp; Sanchez, Church and Dolores 1:30–10 pm for the Noe Valley Night Market. Coming up: Oct 31 Halloween closures and the Golden Gate Half Marathon Sun Nov 1. <a href="https://www.sfmta.com/travel-updates" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates</a></p>
+<p><strong>BART:</strong></p>
+<ul>
+<li><strong>New: Sun–Thu from 9 pm, expect 30-minute delays between Millbrae, SFO and Daly City</strong> for train control work. Leave extra time for late flights. (BART service advisory, reposted 1:45 pm Oct 26.)</li>
+<li>Tue Oct 27 – Fri Oct 30: late-night single tracking on the Yellow Line in Contra Costa County (carried).</li>
+<li>Coming up: reduced BART-to-OAK service the night of Nov 4, and a bus bridge between 24th St Mission and Daly City Nov 14–15 (carried).</li>
+<li>SFO: tap a contactless card or Clipper at the gate.<br />
+Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel="noopener">https://www.bart.gov/schedules/advisories</a> · <a href="https://www.bart.gov/guide/airport" target="_blank" rel="noopener">https://www.bart.gov/guide/airport</a></li>
+</ul>
+<p><strong>Bikes and scooters (from the Oct 23 brief, not re-checked):</strong> Lyft Bike is $1 to unlock plus $0.19/min classic or $0.49/min ebike, or a $15 day pass. Lime and Spin hold SF permits. No sidewalk riding. <a href="https://www.lyft.com/bikes/bay-wheels" target="_blank" rel="noopener">https://www.lyft.com/bikes/bay-wheels</a></p>
+<p><strong>SFO cars and rides (from the Oct 23 brief):</strong> Rental Car Center via AirTrain Blue Line (24 hours). Lyft and Uber pick up on Level 5 of the Domestic Garage. Taxis at the Arrivals center islands. <a href="https://www.flysfo.com/passengers/ground-transportation" target="_blank" rel="noopener">https://www.flysfo.com/passengers/ground-transportation</a></p>
+<h2>Where to stay</h2>
+<p>Per SF Travel, Union Square has most major hotels and the best transit links; Nob Hill is the upscale pick and close to the Masonic; Hayes Valley and Civic Center put you by the opera and Zuni. <a href="https://www.sftravel.com/neighborhoods" target="_blank" rel="noopener">https://www.sftravel.com/neighborhoods</a></p>
+<hr />
+<h2>Assumptions and refresh</h2>
+<ul>
+<li>Public data only, from pages opened Mon Oct 26, 2026, around 2:04 pm PT (NWS forecast and alerts, Caltrans District 4 news, BART advisory feed, SFMTA travel updates, SF Opera and Noe Valley Night Market pages re-checked; other events, restaurants, fares, bikes and SFO notes carried from the Mon 6 am run). Nobody was contacted and nothing was signed up for.</li>
+<li>This is a snapshot. BayAreaDailySync refreshes it every 8 hours (6 am, 2 pm, 10 pm PT).</li>
+<li>Times are Pacific. Prices only where a cited page lists them.</li>
+</ul>
+<h2>Not verified</h2>
+<ol>
+<li>Yelp ratings (blocked).</li>
+<li>Ticket prices for Slow Pulp, Huberman, Mo Welch, Cobb's shows and the Sharks.</li>
+<li>BART's planned-work list beyond tonight's advisory feed (the advisories page didn't render); Yellow Line, OAK and bus-bridge items are carried.</li>
+<li>Live Muni alerts; fares, Lyft Bike, Lime and Spin pricing not re-checked this run.</li>
+<li>Kin Khao, Nopalito and Burdell hours carried from earlier runs.</li>
+<li>Monday events at venues not checked (SF Symphony and Chase Center calendars didn't render; SFJAZZ blocked).</li>
+<li>Sharks, Slow Pulp, Huberman, Mo Welch and Cobb's listings and all restaurant details carried, not re-opened this run (Punch Line's page renders by script).</li>
+<li>Whether SR-37 actually reopened on time (no Caltrans reopening notice).</li>
+<li>Halloween (Oct 31) events beyond SFMTA's closure list.</li>
+</ol>]]></content:encoded>
+  </item>
+  <item>
+    <title>Urban Concierge Brief: SF Bay Area · Monday Oct 26 – Wednesday Oct 28, 2026 · Snapshot compiled Mon Oct 26, 2026, 6:10 am PT (BayAreaDailySync)</title>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-26-0610.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-26-0610.html</guid>
+    <pubDate>Mon, 26 Oct 2026 06:10:00 -0700</pubDate>
+    <description>Monday Oct 26 – Wednesday Oct 28, 2026 · Snapshot compiled Mon Oct 26, 2026, 6:10 am PT (BayAreaDailySync)</description>
+    <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
+<p><strong>Monday Oct 26 – Wednesday Oct 28, 2026</strong> · Snapshot compiled Mon Oct 26, 2026, 6:10 am PT (BayAreaDailySync)</p>
+<p><strong>What changed since the last brief (Sun 10:01 pm):</strong> no major changes. NWS forecast nudged (Tue night low 51, Wed sunny high 65); the Coastal Flood Advisory is unchanged; BART reposted the Millbrae–SFO–Daly City 9 pm delay advisory at 3:36 am; Caltrans and SFMTA posted nothing new. I-80 WB (5th–15th St) and SR-37 reopened this morning as scheduled per Caltrans' notices (live status not confirmed).</p>
+<hr />
+<h2>Weather and alerts</h2>
+<p><strong>NWS (SF, fetched 6:10 am Mon):</strong> Monday sunny, high near 65, falling to about 63 in the afternoon, west wind gusting to 22 mph. Monday night mostly clear, low around 53. Tuesday mostly sunny, high near 64, gusts to 18 mph. Tuesday night mostly clear, low around 51. Wednesday sunny, high near 65; Wednesday night partly cloudy, low around 53.<br />
+Source: <a href="https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1" target="_blank" rel="noopener">https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1</a></p>
+<p><strong>Coastal Flood Advisory (reissued 8:36 pm Oct 25; until Thu Oct 29, 3 pm PDT):</strong> up to 1.9 ft of inundation possible in low-lying areas along San Pablo Bay, SF Bay and Monterey Bay. SF high tides: 7.4 ft at 11:39 am Mon, 7.6 ft at 12:15 pm Tue, 7.7 ft at 12:56 pm Wed, 7.5 ft at 1:43 pm Thu (up to 90 minutes earlier or later around the Bay). Expect flooding of low-lying roads and paths, isolated road closures, and waves farther up the beach.<br />
+Source: <a href="https://api.weather.gov/alerts/active?point=37.7749,-122.4194" target="_blank" rel="noopener">https://api.weather.gov/alerts/active?point=37.7749,-122.4194</a></p>
+<h2>Road closures (Caltrans District 4)</h2>
+<ul>
+<li><strong>WB I-80 Bayshore Freeway (5th–15th St, SF) reopens Mon Oct 26, 6 am</strong>, and <strong>SR-37 Mare Island–Sears Point reopens Mon Oct 26, 5 am.</strong> Allow extra time on the first Monday commute. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-21-sr37-closure-update" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-21-sr37-closure-update</a></li>
+<li><strong>SR-29 (Sonoma Blvd), Vallejo, Sequoia Ave to the Solano/Napa line: two lanes closed (one open), Oct 26 – Nov 6,</strong> Mon–Thu 9 am–6 pm, Fri 9 am–7 pm. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr29-daytime-two-lane-closure" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr29-daytime-two-lane-closure</a></li>
+<li><strong>SR-92/US-101, San Mateo: nightly ramp closures through Fri Oct 30.</strong> Mon–Thu the WB 92 to SB 101 loop ramp closes 9 pm–5 am. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures</a></li>
+<li>Also posted: SR-37 Petaluma River Bridge lane reductions this week, and nightly US-101 lane and ramp closures in Marin. Looking ahead: SR-1 Devil's Slide tunnels fully closed Thu Nov 5, 8 pm – Fri Nov 6, 4 am (detour via Sharp Park Rd, I-280 and SR-92). <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news</a></li>
+<li>Live conditions: <a href="https://quickmap.dot.ca.gov" target="_blank" rel="noopener">https://quickmap.dot.ca.gov</a> and 511.org.</li>
+</ul>
+<hr />
+<h2>What's on (each confirmed on an official, venue or ticketing page)</h2>
+<p>Monday is quiet: none of the venues checked list a show Mon Oct 26.</p>
+<p><strong>1) Noe Valley Night Market: Tue Oct 27, 4:30–8:30 pm.</strong> Noe Valley Town Square and 24th St (Vicksburg–Sanchez). Halloween-themed: 40+ food, drink and artist booths, face painting, live music. Free. 24th St closes 2–10 pm; the 48 Muni is rerouted 1:30–10 pm.<br />
+<a href="https://noemerchants.com/nightmarket-vendors/" target="_blank" rel="noopener">https://noemerchants.com/nightmarket-vendors/</a> · <a href="https://www.sfmta.com/travel-updates/noe-valley-night-market-tuesday-october-27-2026" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates/noe-valley-night-market-tuesday-october-27-2026</a></p>
+<p><strong>2) SF Opera, Massenet's <em>Manon</em>: Tue Oct 27, 7:30 pm.</strong> War Memorial Opera House, 301 Van Ness. Tickets "starting at $30"; 3 hr 25 min with two intermissions; French with English supertitles. Remaining dates Oct 30 and Nov 1.<br />
+<a href="https://www.sfopera.com/operas/manon/" target="_blank" rel="noopener">https://www.sfopera.com/operas/manon/</a></p>
+<p><strong>3) Sharks vs. Buffalo Sabres: Tue Oct 27, 7:30 pm.</strong> SAP Center, San Jose. Ticket prices not checked.<br />
+<a href="https://www.nhl.com/sharks/schedule" target="_blank" rel="noopener">https://www.nhl.com/sharks/schedule</a></p>
+<p><strong>4) Slow Pulp: Tue Oct 27 and Wed Oct 28, 8 pm.</strong> The Fillmore, 1805 Geary Blvd. Prices not listed on the venue feed.<br />
+<a href="https://www.thefillmore.com/shows" target="_blank" rel="noopener">https://www.thefillmore.com/shows</a> · <a href="https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-27-2026/event/1C0064A49383A7BE" target="_blank" rel="noopener">https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-27-2026/event/1C0064A49383A7BE</a></p>
+<p><strong>5) Protocols with Andrew Huberman: Wed Oct 28, 7 pm.</strong> The Masonic (Nob Hill). Prices not checked.<br />
+<a href="https://www.sfmasonic.com/shows" target="_blank" rel="noopener">https://www.sfmasonic.com/shows</a> · <a href="https://www.ticketmaster.com/protocols-with-andrew-huberman-san-francisco-california-10-28-2026/event/1C006507D03F9240" target="_blank" rel="noopener">https://www.ticketmaster.com/protocols-with-andrew-huberman-san-francisco-california-10-28-2026/event/1C006507D03F9240</a></p>
+<p><strong>6) Mo Welch (comedy): Wed Oct 28, 8 pm.</strong> Punch Line Comedy Club, SF. Prices not checked.<br />
+<a href="https://www.punchlinecomedyclub.com/shows" target="_blank" rel="noopener">https://www.punchlinecomedyclub.com/shows</a></p>
+<p><strong>Also listed:</strong> Cobb's Comedy Club has Tokyo Kanpai Boys (in Japanese) Tue 7:30 pm and Poly Díaz (en español) Wed 7:30 pm. <a href="https://www.cobbscomedy.com/shows" target="_blank" rel="noopener">https://www.cobbscomedy.com/shows</a><br />
+<strong>Coming Thu Oct 29:</strong> Exploratorium After Dark "Creepatorium" Halloween party, 6–10 pm. <a href="https://www.exploratorium.edu/visit/calendar" target="_blank" rel="noopener">https://www.exploratorium.edu/visit/calendar</a><br />
+<strong>No Warriors home games in this window;</strong> next is Fri Oct 30 vs. Lakers. <a href="https://www.nba.com/warriors/schedule" target="_blank" rel="noopener">https://www.nba.com/warriors/schedule</a></p>
+<hr />
+<h2>Where to eat</h2>
+<p>No Yelp ratings (Yelp blocks automated loads). Descriptions and hours are Michelin's unless noted; price signs are Michelin's.</p>
+<p><strong>State Bird Provisions, Fillmore, SF (1529 Fillmore St) · Californian · $$$ · Michelin One Star.</strong> Dim sum-style carts of seasonal California small plates, like dumplings, savory pancakes and liver mousse; the menu changes often. Reservations can be hard to get. Dinner daily 5:30–10 pm (10:30 Fri–Sat). Four blocks from the Fillmore for the Slow Pulp shows.<br />
+<a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/state-bird-provisions" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/state-bird-provisions</a></p>
+<p><strong>Zuni Café, Hayes Valley/Market St, SF (1658 Market St) · Californian/French · $$$.</strong> A San Francisco institution with a copper bar and wood-fired brick oven; Michelin says order oysters, the roast chicken for two and the gâteau Victoire. Closed Monday; Tue–Wed dinner 5–9:30 pm. Near the opera house for <em>Manon</em>.<br />
+<a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/zuni-cafe" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/zuni-cafe</a></p>
+<p><strong>Kin Khao, Union Square, SF (55 Cyril Magnin St) · Thai/Californian · $$$.</strong> Michelin praises its layered, produce-driven Thai cooking and warns some dishes are very spicy. Its own site: lunch daily 11:30 am–2 pm, dinner Sun–Thu 5:30–9 pm (carried from the last brief). <a href="https://www.kinkhao.com/" target="_blank" rel="noopener">https://www.kinkhao.com/</a></p>
+<p><strong>Nopalito, NoPa, SF (306 Broderick St) · Mexican · $$.</strong> Blue-corn fish tacos, chilaquiles verdes, no reservations. Michelin lists 11:30 am–9 pm, except Wednesday 4:30–9 pm (carried). <a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/nopalito" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/nopalito</a></p>
+<p><strong>Burdell, Oakland (4640 Telegraph Ave) · $$$.</strong> Chef Geoff Davis's take on soul food. Closed Mon and Tue, so Wednesday only in this window (carried). <a href="https://guide.michelin.com/us/en/california/oakland/restaurant/burdell" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/oakland/restaurant/burdell</a></p>
+<hr />
+<h2>Getting around</h2>
+<p><strong>Muni and cable cars (carried from the last brief):</strong> $2.85 single ride with Clipper, MuniMobile or tap-to-pay ($3.00 cash), good 120 minutes. Day pass $5.70. Cable car $9.00. Visitor Passports 1-day $15, 3-day $35, 7-day $47. Youth 18 and under ride Muni free. <a href="https://www.sfmta.com/getting-around/muni/fares" target="_blank" rel="noopener">https://www.sfmta.com/getting-around/muni/fares</a><br />
+<strong>Muni reroutes:</strong> Tue Oct 27, the 48 skips 24th &amp; Sanchez, Church and Dolores 1:30–10 pm for the Noe Valley Night Market. Coming up: Oct 31 Halloween closures and the Golden Gate Half Marathon Sun Nov 1. <a href="https://www.sfmta.com/travel-updates" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates</a></p>
+<p><strong>BART:</strong></p>
+<ul>
+<li><strong>New: Sun–Thu from 9 pm, expect 30-minute delays between Millbrae, SFO and Daly City</strong> for train control work. Leave extra time for late flights. (BART service advisory, reposted 3:36 am Oct 26.)</li>
+<li>Tue Oct 27 – Fri Oct 30: late-night single tracking on the Yellow Line in Contra Costa County (carried).</li>
+<li>Coming up: reduced BART-to-OAK service the night of Nov 4, and a bus bridge between 24th St Mission and Daly City Nov 14–15 (carried).</li>
+<li>SFO: tap a contactless card or Clipper at the gate.<br />
+Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel="noopener">https://www.bart.gov/schedules/advisories</a> · <a href="https://www.bart.gov/guide/airport" target="_blank" rel="noopener">https://www.bart.gov/guide/airport</a></li>
+</ul>
+<p><strong>Bikes and scooters (from the Oct 23 brief, not re-checked):</strong> Lyft Bike is $1 to unlock plus $0.19/min classic or $0.49/min ebike, or a $15 day pass. Lime and Spin hold SF permits. No sidewalk riding. <a href="https://www.lyft.com/bikes/bay-wheels" target="_blank" rel="noopener">https://www.lyft.com/bikes/bay-wheels</a></p>
+<p><strong>SFO cars and rides (from the Oct 23 brief):</strong> Rental Car Center via AirTrain Blue Line (24 hours). Lyft and Uber pick up on Level 5 of the Domestic Garage. Taxis at the Arrivals center islands. <a href="https://www.flysfo.com/passengers/ground-transportation" target="_blank" rel="noopener">https://www.flysfo.com/passengers/ground-transportation</a></p>
+<h2>Where to stay</h2>
+<p>Per SF Travel, Union Square has most major hotels and the best transit links; Nob Hill is the upscale pick and close to the Masonic; Hayes Valley and Civic Center put you by the opera and Zuni. <a href="https://www.sftravel.com/neighborhoods" target="_blank" rel="noopener">https://www.sftravel.com/neighborhoods</a></p>
+<hr />
+<h2>Assumptions and refresh</h2>
+<ul>
+<li>Public data only, from pages opened Mon Oct 26, 2026, around 6:10 am PT (NWS forecast and alerts, Caltrans District 4 news, BART advisory feed and SFMTA travel updates re-checked; events, restaurants, fares, bikes and SFO notes carried from the Sun 10 pm run). Nobody was contacted and nothing was signed up for.</li>
+<li>This is a snapshot. BayAreaDailySync refreshes it every 8 hours (6 am, 2 pm, 10 pm PT).</li>
+<li>Times are Pacific. Prices only where a cited page lists them.</li>
+</ul>
+<h2>Not verified</h2>
+<ol>
+<li>Yelp ratings (blocked).</li>
+<li>Ticket prices for Slow Pulp, Huberman, Mo Welch, Cobb's shows and the Sharks.</li>
+<li>BART's planned-work list beyond tonight's advisory feed (the advisories page didn't render); Yellow Line, OAK and bus-bridge items are carried.</li>
+<li>Live Muni alerts; fares, Lyft Bike, Lime and Spin pricing not re-checked this run.</li>
+<li>Kin Khao, Nopalito and Burdell hours carried from earlier runs.</li>
+<li>Monday events at venues not checked (SF Symphony and Chase Center calendars didn't render; SFJAZZ blocked).</li>
+<li>Event listings and restaurant details were carried from the Sun 10 pm run, not re-opened this run.</li>
+<li>Halloween (Oct 31) events beyond SFMTA's closure list.</li>
+</ol>]]></content:encoded>
+  </item>
+  <item>
+    <title>Urban Concierge Brief: SF Bay Area · Monday Oct 26 – Wednesday Oct 28, 2026 · Snapshot compiled Sun Oct 25, 2026, 10:01 pm PT (BayAreaDailySync)</title>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-25-2201.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-25-2201.html</guid>
+    <pubDate>Sun, 25 Oct 2026 22:01:00 -0700</pubDate>
+    <description>Monday Oct 26 – Wednesday Oct 28, 2026 · Snapshot compiled Sun Oct 25, 2026, 10:01 pm PT (BayAreaDailySync)</description>
+    <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
+<p><strong>Monday Oct 26 – Wednesday Oct 28, 2026</strong> · Snapshot compiled Sun Oct 25, 2026, 10:01 pm PT (BayAreaDailySync)</p>
+<p><strong>What changed since the last brief (Sun 2:10 pm):</strong> the window now runs Mon–Wed. BART posted new nightly 30-minute delays from 9 pm between Millbrae, SFO and Daly City (Sun–Thu). I-80 into SF and SR-37 reopen early Monday. New events: Slow Pulp at the Fillmore (Tue and Wed), Andrew Huberman at the Masonic and Mo Welch at Punch Line (Wed). New restaurant picks: State Bird Provisions and Zuni Café. NWS reissued the Coastal Flood Advisory at 8:36 pm with the same terms.</p>
+<hr />
+<h2>Weather and alerts</h2>
+<p><strong>NWS (SF, fetched 10:01 pm):</strong> Tonight partly cloudy, low around 55. Monday sunny, high near 65, west wind gusting to 22 mph. Monday night mostly clear, low around 52. Tuesday mostly sunny, high near 63, gusts to 21 mph. Tuesday night low around 52. Wednesday mostly sunny, high near 64; Wednesday night mostly cloudy, low around 54.<br />
+Source: <a href="https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1" target="_blank" rel="noopener">https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1</a></p>
+<p><strong>Coastal Flood Advisory (reissued 8:36 pm Oct 25; until Thu Oct 29, 3 pm PDT):</strong> up to 1.9 ft of inundation possible in low-lying areas along San Pablo Bay, SF Bay and Monterey Bay. SF high tides: 7.4 ft at 11:39 am Mon, 7.6 ft at 12:15 pm Tue, 7.7 ft at 12:56 pm Wed, 7.5 ft at 1:43 pm Thu (up to 90 minutes earlier or later around the Bay). Expect flooding of low-lying roads and paths, isolated road closures, and waves farther up the beach.<br />
+Source: <a href="https://api.weather.gov/alerts/active?point=37.7749,-122.4194" target="_blank" rel="noopener">https://api.weather.gov/alerts/active?point=37.7749,-122.4194</a></p>
+<h2>Road closures (Caltrans District 4)</h2>
+<ul>
+<li><strong>WB I-80 Bayshore Freeway (5th–15th St, SF) reopens Mon Oct 26, 6 am</strong>, and <strong>SR-37 Mare Island–Sears Point reopens Mon Oct 26, 5 am.</strong> Allow extra time on the first Monday commute. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-21-sr37-closure-update" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-21-sr37-closure-update</a></li>
+<li><strong>SR-29 (Sonoma Blvd), Vallejo, Sequoia Ave to the Solano/Napa line: two lanes closed (one open), Oct 26 – Nov 6,</strong> Mon–Thu 9 am–6 pm, Fri 9 am–7 pm. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr29-daytime-two-lane-closure" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr29-daytime-two-lane-closure</a></li>
+<li><strong>SR-92/US-101, San Mateo: nightly ramp closures through Fri Oct 30.</strong> Mon–Thu the WB 92 to SB 101 loop ramp closes 9 pm–5 am. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures</a></li>
+<li>Also posted: SR-37 Petaluma River Bridge lane reductions this week, and nightly US-101 lane and ramp closures in Marin. Looking ahead: SR-1 Devil's Slide tunnels fully closed Thu Nov 5, 8 pm – Fri Nov 6, 4 am (detour via Sharp Park Rd, I-280 and SR-92). <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news</a></li>
+<li>Live conditions: <a href="https://quickmap.dot.ca.gov" target="_blank" rel="noopener">https://quickmap.dot.ca.gov</a> and 511.org.</li>
+</ul>
+<hr />
+<h2>What's on (each confirmed on an official, venue or ticketing page)</h2>
+<p>Monday is quiet: none of the venues checked list a show Mon Oct 26.</p>
+<p><strong>1) Noe Valley Night Market: Tue Oct 27, 4:30–8:30 pm.</strong> Noe Valley Town Square and 24th St (Vicksburg–Sanchez). Halloween-themed: 40+ food, drink and artist booths, face painting, live music. Free. 24th St closes 2–10 pm; the 48 Muni is rerouted 1:30–10 pm.<br />
+<a href="https://noemerchants.com/nightmarket-vendors/" target="_blank" rel="noopener">https://noemerchants.com/nightmarket-vendors/</a> · <a href="https://www.sfmta.com/travel-updates/noe-valley-night-market-tuesday-october-27-2026" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates/noe-valley-night-market-tuesday-october-27-2026</a></p>
+<p><strong>2) SF Opera, Massenet's <em>Manon</em>: Tue Oct 27, 7:30 pm.</strong> War Memorial Opera House, 301 Van Ness. Tickets "starting at $30"; 3 hr 25 min with two intermissions; French with English supertitles. Remaining dates Oct 30 and Nov 1.<br />
+<a href="https://www.sfopera.com/operas/manon/" target="_blank" rel="noopener">https://www.sfopera.com/operas/manon/</a></p>
+<p><strong>3) Sharks vs. Buffalo Sabres: Tue Oct 27, 7:30 pm.</strong> SAP Center, San Jose. Ticket prices not checked.<br />
+<a href="https://www.nhl.com/sharks/schedule" target="_blank" rel="noopener">https://www.nhl.com/sharks/schedule</a></p>
+<p><strong>4) Slow Pulp: Tue Oct 27 and Wed Oct 28, 8 pm.</strong> The Fillmore, 1805 Geary Blvd. Prices not listed on the venue feed.<br />
+<a href="https://www.thefillmore.com/shows" target="_blank" rel="noopener">https://www.thefillmore.com/shows</a> · <a href="https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-27-2026/event/1C0064A49383A7BE" target="_blank" rel="noopener">https://www.ticketmaster.com/slow-pulp-san-francisco-california-10-27-2026/event/1C0064A49383A7BE</a></p>
+<p><strong>5) Protocols with Andrew Huberman: Wed Oct 28, 7 pm.</strong> The Masonic (Nob Hill). Prices not checked.<br />
+<a href="https://www.sfmasonic.com/shows" target="_blank" rel="noopener">https://www.sfmasonic.com/shows</a> · <a href="https://www.ticketmaster.com/protocols-with-andrew-huberman-san-francisco-california-10-28-2026/event/1C006507D03F9240" target="_blank" rel="noopener">https://www.ticketmaster.com/protocols-with-andrew-huberman-san-francisco-california-10-28-2026/event/1C006507D03F9240</a></p>
+<p><strong>6) Mo Welch (comedy): Wed Oct 28, 8 pm.</strong> Punch Line Comedy Club, SF. Prices not checked.<br />
+<a href="https://www.punchlinecomedyclub.com/shows" target="_blank" rel="noopener">https://www.punchlinecomedyclub.com/shows</a></p>
+<p><strong>Also listed:</strong> Cobb's Comedy Club has Tokyo Kanpai Boys (in Japanese) Tue 7:30 pm and Poly Díaz (en español) Wed 7:30 pm. <a href="https://www.cobbscomedy.com/shows" target="_blank" rel="noopener">https://www.cobbscomedy.com/shows</a><br />
+<strong>Coming Thu Oct 29:</strong> Exploratorium After Dark "Creepatorium" Halloween party, 6–10 pm. <a href="https://www.exploratorium.edu/visit/calendar" target="_blank" rel="noopener">https://www.exploratorium.edu/visit/calendar</a><br />
+<strong>No Warriors home games in this window;</strong> next is Fri Oct 30 vs. Lakers. <a href="https://www.nba.com/warriors/schedule" target="_blank" rel="noopener">https://www.nba.com/warriors/schedule</a></p>
+<hr />
+<h2>Where to eat</h2>
+<p>No Yelp ratings (Yelp blocks automated loads). Descriptions and hours are Michelin's unless noted; price signs are Michelin's.</p>
+<p><strong>State Bird Provisions, Fillmore, SF (1529 Fillmore St) · Californian · $$$ · Michelin One Star.</strong> Dim sum-style carts of seasonal California small plates, like dumplings, savory pancakes and liver mousse; the menu changes often. Reservations can be hard to get. Dinner daily 5:30–10 pm (10:30 Fri–Sat). Four blocks from the Fillmore for the Slow Pulp shows.<br />
+<a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/state-bird-provisions" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/state-bird-provisions</a></p>
+<p><strong>Zuni Café, Hayes Valley/Market St, SF (1658 Market St) · Californian/French · $$$.</strong> A San Francisco institution with a copper bar and wood-fired brick oven; Michelin says order oysters, the roast chicken for two and the gâteau Victoire. Closed Monday; Tue–Wed dinner 5–9:30 pm. Near the opera house for <em>Manon</em>.<br />
+<a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/zuni-cafe" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/zuni-cafe</a></p>
+<p><strong>Kin Khao, Union Square, SF (55 Cyril Magnin St) · Thai/Californian · $$$.</strong> Michelin praises its layered, produce-driven Thai cooking and warns some dishes are very spicy. Its own site: lunch daily 11:30 am–2 pm, dinner Sun–Thu 5:30–9 pm (carried from the last brief). <a href="https://www.kinkhao.com/" target="_blank" rel="noopener">https://www.kinkhao.com/</a></p>
+<p><strong>Nopalito, NoPa, SF (306 Broderick St) · Mexican · $$.</strong> Blue-corn fish tacos, chilaquiles verdes, no reservations. Michelin lists 11:30 am–9 pm, except Wednesday 4:30–9 pm (carried). <a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/nopalito" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/nopalito</a></p>
+<p><strong>Burdell, Oakland (4640 Telegraph Ave) · $$$.</strong> Chef Geoff Davis's take on soul food. Closed Mon and Tue, so Wednesday only in this window (carried). <a href="https://guide.michelin.com/us/en/california/oakland/restaurant/burdell" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/oakland/restaurant/burdell</a></p>
+<hr />
+<h2>Getting around</h2>
+<p><strong>Muni and cable cars (carried from the last brief):</strong> $2.85 single ride with Clipper, MuniMobile or tap-to-pay ($3.00 cash), good 120 minutes. Day pass $5.70. Cable car $9.00. Visitor Passports 1-day $15, 3-day $35, 7-day $47. Youth 18 and under ride Muni free. <a href="https://www.sfmta.com/getting-around/muni/fares" target="_blank" rel="noopener">https://www.sfmta.com/getting-around/muni/fares</a><br />
+<strong>Muni reroutes:</strong> Tue Oct 27, the 48 skips 24th &amp; Sanchez, Church and Dolores 1:30–10 pm for the Noe Valley Night Market. Coming up: Oct 31 Halloween closures and the Golden Gate Half Marathon Sun Nov 1. <a href="https://www.sfmta.com/travel-updates" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates</a></p>
+<p><strong>BART:</strong></p>
+<ul>
+<li><strong>New: Sun–Thu from 9 pm, expect 30-minute delays between Millbrae, SFO and Daly City</strong> for train control work. Leave extra time for late flights. (BART service advisory, posted 10 pm Oct 25.)</li>
+<li>Tue Oct 27 – Fri Oct 30: late-night single tracking on the Yellow Line in Contra Costa County (carried).</li>
+<li>Coming up: reduced BART-to-OAK service the night of Nov 4, and a bus bridge between 24th St Mission and Daly City Nov 14–15 (carried).</li>
+<li>SFO: tap a contactless card or Clipper at the gate.<br />
+Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel="noopener">https://www.bart.gov/schedules/advisories</a> · <a href="https://www.bart.gov/guide/airport" target="_blank" rel="noopener">https://www.bart.gov/guide/airport</a></li>
+</ul>
+<p><strong>Bikes and scooters (from the Oct 23 brief, not re-checked):</strong> Lyft Bike is $1 to unlock plus $0.19/min classic or $0.49/min ebike, or a $15 day pass. Lime and Spin hold SF permits. No sidewalk riding. <a href="https://www.lyft.com/bikes/bay-wheels" target="_blank" rel="noopener">https://www.lyft.com/bikes/bay-wheels</a></p>
+<p><strong>SFO cars and rides (from the Oct 23 brief):</strong> Rental Car Center via AirTrain Blue Line (24 hours). Lyft and Uber pick up on Level 5 of the Domestic Garage. Taxis at the Arrivals center islands. <a href="https://www.flysfo.com/passengers/ground-transportation" target="_blank" rel="noopener">https://www.flysfo.com/passengers/ground-transportation</a></p>
+<h2>Where to stay</h2>
+<p>Per SF Travel, Union Square has most major hotels and the best transit links; Nob Hill is the upscale pick and close to the Masonic; Hayes Valley and Civic Center put you by the opera and Zuni. <a href="https://www.sftravel.com/neighborhoods" target="_blank" rel="noopener">https://www.sftravel.com/neighborhoods</a></p>
+<hr />
+<h2>Assumptions and refresh</h2>
+<ul>
+<li>Public data only, from pages opened Sun Oct 25, 2026, around 10 pm PT (NWS forecast and alerts, Caltrans, BART advisory feed, SFMTA, SF Opera, NHL schedule, venue listings and Michelin re-checked; fares, bikes, SFO and some restaurant hours carried). Nobody was contacted and nothing was signed up for.</li>
+<li>This is a snapshot. BayAreaDailySync refreshes it every 8 hours (6 am, 2 pm, 10 pm PT).</li>
+<li>Times are Pacific. Prices only where a cited page lists them.</li>
+</ul>
+<h2>Not verified</h2>
+<ol>
+<li>Yelp ratings (blocked).</li>
+<li>Ticket prices for Slow Pulp, Huberman, Mo Welch, Cobb's shows and the Sharks.</li>
+<li>BART's planned-work list beyond tonight's advisory feed (the advisories page didn't render); Yellow Line, OAK and bus-bridge items are carried.</li>
+<li>Live Muni alerts; fares, Lyft Bike, Lime and Spin pricing not re-checked this run.</li>
+<li>Kin Khao, Nopalito and Burdell hours carried from earlier runs.</li>
+<li>Monday events at venues not checked (SF Symphony and Chase Center calendars didn't render; SFJAZZ blocked).</li>
+<li>Halloween (Oct 31) events beyond SFMTA's closure list.</li>
+</ol>]]></content:encoded>
+  </item>
+  <item>
+    <title>Urban Concierge Brief: SF Bay Area · Sunday Oct 25 – Tuesday Oct 27, 2026 · Snapshot compiled Sun Oct 25, 2026, 2:10 pm PT (BayAreaDailySync)</title>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-25-1410.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-25-1410.html</guid>
+    <pubDate>Sun, 25 Oct 2026 14:10:00 -0700</pubDate>
+    <description>Sunday Oct 25 – Tuesday Oct 27, 2026 · Snapshot compiled Sun Oct 25, 2026, 2:10 pm PT (BayAreaDailySync)</description>
+    <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
+<p><strong>Sunday Oct 25 – Tuesday Oct 27, 2026</strong> · Snapshot compiled Sun Oct 25, 2026, 2:10 pm PT (BayAreaDailySync)</p>
+<p><strong>What changed since the last brief (Sun 6:03 am):</strong> no major changes. NWS reissued the Coastal Flood Advisory at 9:06 am (same terms, still to Thu 3 pm); Tuesday's high eased to 63 and the Monday-night fog mention was dropped. New: Caltrans daytime two-lane closures on SR-29 in Vallejo start Mon Oct 26. All events still listed on their official pages.</p>
+<hr />
+<h2>Weather and alerts</h2>
+<p><strong>NWS (updated 11:46 am PDT Oct 25):</strong> This afternoon partly sunny, high near 69. Tonight partly cloudy, low around 55. Monday sunny, high near 65, west wind gusting to 22 mph. Monday night mostly clear, low around 52. Tuesday mostly sunny, high near 63, gusts to 21 mph.<br />
+Source: <a href="https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1" target="_blank" rel="noopener">https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1</a></p>
+<p><strong>Coastal Flood Advisory (reissued 9:06 am Oct 25; until Thu Oct 29, 3 pm PDT):</strong> up to 1.9 ft of inundation possible in low-lying shoreline areas around SF Bay, Monterey Bay and Big Sur. NWS gives SF high tides of 7.3 ft at 11:07 am Sun, 7.4 ft at 11:39 am Mon, and 7.6 ft at 12:15 pm Tue, 7.7 ft at 12:56 pm Wed (times vary up to 90 minutes around the Bay). Expect possible flooding on low-lying roads and paths, and keep an eye on waves at the beach.<br />
+Source: <a href="https://api.weather.gov/alerts/active?point=37.7749,-122.4194" target="_blank" rel="noopener">https://api.weather.gov/alerts/active?point=37.7749,-122.4194</a></p>
+<h2>Road closures (Caltrans District 4)</h2>
+<ul>
+<li><strong>WB I-80 Bayshore Freeway, 5th St to 15th St, SF: fully closed until Mon Oct 26, 6 am.</strong> Last exit is 5th St. Caltrans says skip the Bay Bridge into SF and use transit or the San Mateo, Dumbarton or Richmond–San Rafael bridges. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-19-i80-wb-weekend-closure-bayshore" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-19-i80-wb-weekend-closure-bayshore</a></li>
+<li><strong>SR-37, Mare Island (Vallejo) to Sears Point: both directions fully closed until Mon Oct 26, 5 am</strong> (55-hour closure). Eastbound detour uses SR-121 and SR-12. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-21-sr37-closure-update" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-21-sr37-closure-update</a></li>
+<li><strong>SR-92/US-101, San Mateo: nightly ramp closures Sun Oct 25 – Fri Oct 30.</strong> Sunday nights: NB 101 off-ramp to E. Hillsdale closed 8 pm–7 am, and the Fashion Island Blvd on-ramp to SB 101 closed 7 pm–6 am. Mon–Thu the WB 92 to SB 101 loop ramp closes 9 pm–5 am. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures</a></li>
+<li><strong>SR-29 (Sonoma Blvd), Vallejo, Sequoia Ave to the Solano/Napa line: two lanes closed (one always open) for paving, Oct 26 – Nov 6,</strong> Mon–Thu 9 am–6 pm and Fri 9 am–7 pm. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr29-daytime-two-lane-closure" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr29-daytime-two-lane-closure</a></li>
+<li>Also posted: SR-37 Petaluma River Bridge (Marin) lane reductions the week of Oct 26, and nightly US-101 lane and ramp closures in Marin. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news</a></li>
+<li>Live conditions: <a href="https://quickmap.dot.ca.gov" target="_blank" rel="noopener">https://quickmap.dot.ca.gov</a> and 511.org.</li>
+</ul>
+<hr />
+<h2>What's on (each confirmed on an official, venue or ticketing page)</h2>
+<p><strong>1) World of Dumplings: Sun Oct 25, 11 am–5 pm.</strong> Ferry Building. Third year; dumplings from many cultures, brought to you by Asians Are Strong. (Free entry and vendor details were in the Oct 23 brief from other listings; the official page re-checked tonight shows only date, time and place.)<br />
+<a href="https://www.ferrybuildingmarketplace.com/events/world-of-dumplings/" target="_blank" rel="noopener">https://www.ferrybuildingmarketplace.com/events/world-of-dumplings/</a></p>
+<p><strong>2) Vishnu's Cosmic Ocean opening celebration: Sun Oct 25, from 11:30 am.</strong> Asian Art Museum, 200 Larkin St, Bogart Court. Temple water blessing 11:30 am, Khmer dance 12 pm, drop-in art 10 am–4 pm, exhibition tour 2 pm. Free with general admission.<br />
+<a href="https://calendar.asianart.org/event/opening-celebration-vishnus-cosmic-ocean/" target="_blank" rel="noopener">https://calendar.asianart.org/event/opening-celebration-vishnus-cosmic-ocean/</a></p>
+<p><strong>3) Doja Cat, Tour Ma Vie World Tour, with Latto: Sun Oct 25, 7:30 pm.</strong> Chase Center. Moved here from Oct 19; per SF Chronicle and NBC Bay Area, original tickets remain valid. SFMTA says a Chase Center event ticket counts as your Muni fare that day (cable cars excepted). Ticket prices not checked on an official page.<br />
+<a href="https://www.livenation.com/event/G5vYZbS0uA9TW/doja-cat-tour-ma-vie-world-tour" target="_blank" rel="noopener">https://www.livenation.com/event/G5vYZbS0uA9TW/doja-cat-tour-ma-vie-world-tour</a></p>
+<p><strong>4) Noe Valley Night Market: Tue Oct 27, 4:30–8:30 pm.</strong> Noe Valley Town Square and 24th St (Vicksburg–Sanchez). Billed as the "spookiest" market: 40+ food, drink and artist booths, free face painting, balloon art, bounce house and live music. Free. 24th St closes 2–10 pm and the 48 Muni is rerouted 1:30–10 pm.<br />
+<a href="https://noemerchants.com/nightmarket-vendors/" target="_blank" rel="noopener">https://noemerchants.com/nightmarket-vendors/</a> · <a href="https://www.sfmta.com/travel-updates/noe-valley-night-market-tuesday-october-27-2026" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates/noe-valley-night-market-tuesday-october-27-2026</a></p>
+<p><strong>5) SF Opera, Massenet's <em>Manon</em>: Tue Oct 27, 7:30 pm.</strong> War Memorial Opera House, 301 Van Ness. Tickets "starting at $30," 3 hr 25 min with two intermissions, sung in French with English supertitles. The Tuesday show was showing "Buy Tickets" tonight.<br />
+<a href="https://www.sfopera.com/operas/manon/" target="_blank" rel="noopener">https://www.sfopera.com/operas/manon/</a></p>
+<p><strong>6) Sharks vs. Buffalo Sabres: Tue Oct 27, 7:30 pm PDT.</strong> SAP Center, San Jose (on ESPN). Ticket prices not checked.<br />
+<a href="https://www.nhl.com/sharks/schedule" target="_blank" rel="noopener">https://www.nhl.com/sharks/schedule</a></p>
+<p><strong>Watch at home:</strong> 49ers at Falcons, Sun Oct 25, 10 am PT, on FOX (away game in Atlanta). <a href="https://www.49ers.com/schedule/2026/" target="_blank" rel="noopener">https://www.49ers.com/schedule/2026/</a><br />
+<strong>No Warriors home games in this window.</strong> Next home game is Fri Oct 30 vs. Lakers. <a href="https://www.nba.com/warriors/schedule" target="_blank" rel="noopener">https://www.nba.com/warriors/schedule</a></p>
+<hr />
+<h2>Where to eat</h2>
+<p>No Yelp ratings: Yelp still returns HTTP 403 to automated loads, so none are shown. Descriptions are from Michelin and the restaurants' own pages. Price signs are Michelin's.</p>
+<p><strong>Kin Khao, Union Square, SF (55 Cyril Magnin St, in the Parc 55) · Thai/Californian · $$$.</strong> Michelin praises Chef Pim Techamuanvivit's layered, produce-driven Thai cooking, like the hor mok curry mousse and a green curry with local rabbit, and warns some dishes are very spicy. Its own site: lunch daily 11:30 am–2 pm; dinner Sun–Thu 5:30–9 pm. (415) 362-7456. Handy before <em>Manon</em> or for Union Square hotel guests.<br />
+<a href="https://www.kinkhao.com/" target="_blank" rel="noopener">https://www.kinkhao.com/</a> · <a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/kin-khao" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/kin-khao</a></p>
+<p><strong>Nopalito, NoPa, SF (306 Broderick St) · Mexican/Californian · $$.</strong> Michelin: a cheerful, sustainability-minded spot for blue-corn fish tacos, chilaquiles verdes and a must-order pulled-pork taco; save room for the concha. No reservations, so expect a wait. Michelin lists 11:30 am–9 pm daily except Wednesday (4:30–9 pm).<br />
+<a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/nopalito" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/nopalito</a></p>
+<p><strong>Burdell, Temescal, Oakland (4640 Telegraph Ave) · contemporary American/Southern · $$$.</strong> Michelin: Chef Geoff Davis's personal take on soul food, like berbere collards, pickle-brined fried chicken and chicken liver mousse with cornmeal waffle, plus a strong wine list. Michelin lists Sunday brunch 11 am–2 pm and dinner 5–8 pm; closed Mon and Tue.<br />
+<a href="https://guide.michelin.com/us/en/california/oakland/restaurant/burdell" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/oakland/restaurant/burdell</a></p>
+<p><strong>Still good from the last brief:</strong> Anchor Oyster Bar (Castro) and Chez Panisse (Berkeley). Bombera (Oakland) and Tadich Grill are closed Sunday, and Bombera is also closed Tuesday.</p>
+<hr />
+<h2>Getting around</h2>
+<p><strong>Muni and cable cars (re-checked tonight):</strong> $2.85 single ride with Clipper, MuniMobile or tap-to-pay ($3.00 cash), good 120 minutes. Day pass $5.70. Cable car $9.00. Visitor Passports: 1-day $15, 3-day $35, 7-day $47. Youth 18 and under ride Muni free (not cable cars). <a href="https://www.sfmta.com/getting-around/muni/fares" target="_blank" rel="noopener">https://www.sfmta.com/getting-around/muni/fares</a><br />
+<strong>Muni reroutes:</strong> Tue Oct 27, the 48 Quintara/24th St skips 24th &amp; Sanchez, Church and Dolores stops 1:30–10 pm for the Noe Valley Night Market. SFMTA lists no other Sun–Tue event reroutes. Upcoming: Castro Halloween and other Oct 31 closures, and the Golden Gate Half Marathon on Sun Nov 1. <a href="https://www.sfmta.com/travel-updates" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates</a></p>
+<p><strong>BART:</strong></p>
+<ul>
+<li><strong>Sun Oct 25: no Green Line service.</strong> Trains single-track between San Leandro and Bay Fair for vegetation work.</li>
+<li><strong>Tue Oct 27 – Fri Oct 30:</strong> late-night single tracking on the Yellow Line in Contra Costa County.</li>
+<li>Coming up: reduced BART-to-OAK service the night of Nov 4, and a bus bridge between 24th St Mission and Daly City Nov 14–15.</li>
+<li>SFO: Sunday first airport train is 8:08 am, so plan another way for an early Sunday flight. Tap a contactless card or Clipper at the gate. Up to $2.85 off a transfer to another agency within 2 hours.<br />
+Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel="noopener">https://www.bart.gov/schedules/advisories</a> · <a href="https://www.bart.gov/guide/airport" target="_blank" rel="noopener">https://www.bart.gov/guide/airport</a></li>
+</ul>
+<p><strong>Bikes and scooters (from the Oct 23 brief, not re-checked):</strong> Lyft Bike (formerly Bay Wheels) is $1 to unlock plus $0.19/min classic or $0.49/min ebike, or a $15 day pass. Lime and Spin hold SF permits through June 2027. No sidewalk riding and no scooters on the Embarcadero Promenade. <a href="https://www.lyft.com/bikes/bay-wheels" target="_blank" rel="noopener">https://www.lyft.com/bikes/bay-wheels</a></p>
+<p><strong>SFO cars and rides (from the Oct 23 brief):</strong> Rental Car Center at 780 N. McDonnell Rd via AirTrain Blue Line (24 hours). Lyft and Uber pick up on Level 5 of the Domestic Garage. Taxis are at the Arrivals center islands. <a href="https://www.flysfo.com/passengers/ground-transportation" target="_blank" rel="noopener">https://www.flysfo.com/passengers/ground-transportation</a></p>
+<p><strong>Driving:</strong> I-80 into SF and SR-37 reopen early Monday. Until then, use the San Mateo, Dumbarton or Richmond–San Rafael bridges.</p>
+<h2>Where to stay</h2>
+<p>Per SF Travel, Union Square has most major hotels and is the transit hub (BART, Muni, cable cars), and it puts you near Kin Khao and the opera. Nob Hill is the upscale, romantic pick, and SoMa and Dogpatch are flat and walkable toward Chase Center. <a href="https://www.sftravel.com/neighborhoods" target="_blank" rel="noopener">https://www.sftravel.com/neighborhoods</a></p>
+<hr />
+<h2>Assumptions and refresh</h2>
+<ul>
+<li>Public data only, from pages opened Sun Oct 25, 2026, around 2 pm PT (weather, flood advisory, Caltrans, BART and SFMTA re-checked; event pages re-loaded, Sharks game confirmed via NHL schedule data; restaurants, fares, bikes and SFO carried from earlier briefs). Nobody was contacted and nothing was signed up for.</li>
+<li>This is a snapshot. BayAreaDailySync refreshes it every 8 hours (6 am, 2 pm, 10 pm PT), re-checks uncertain items, and drops events it can't confirm on an official page.</li>
+<li>Ratings appear only if read on an opened page and date-stamped. Yelp is still blocked.</li>
+<li>Times are Pacific. Prices are as listed on the cited pages.</li>
+</ul>
+<h2>Not verified</h2>
+<ol>
+<li>Yelp ratings for any restaurant (HTTP 403).</li>
+<li>Nopalito and Burdell hours come from Michelin only, not their own sites.</li>
+<li>Comal (Berkeley) hours: its site still shows none, so it was left out this run.</li>
+<li>Anchor Oyster Bar hours and reservation policy: its site still shows none.</li>
+<li>Doja Cat face-value prices and remaining inventory. Sharks ticket prices.</li>
+<li>World of Dumplings free entry and vendor count: not shown on the official page tonight.</li>
+<li>Chase Center's own event calendar failed to load; Doja Cat is confirmed via Live Nation and Ticketmaster.</li>
+<li>Live Muni service alerts: SFMTA's alert feed still said it was "unable to display alerts" this afternoon.</li>
+<li>Lime and Spin deployment and pricing. Lyft Bike pricing not re-checked.</li>
+<li>Asian Art Museum regular hours (still only from a third-party guide).</li>
+<li>Halloween (Oct 31) events beyond SFMTA's closure list.</li>
+</ol>]]></content:encoded>
+  </item>
+  <item>
+    <title>Urban Concierge Brief: SF Bay Area · Sunday Oct 25 – Tuesday Oct 27, 2026 · Snapshot compiled Sun Oct 25, 2026, 6:03 am PT (BayAreaDailySync)</title>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-25-0603.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-25-0603.html</guid>
+    <pubDate>Sun, 25 Oct 2026 06:03:00 -0700</pubDate>
+    <description>Sunday Oct 25 – Tuesday Oct 27, 2026 · Snapshot compiled Sun Oct 25, 2026, 6:03 am PT (BayAreaDailySync)</description>
+    <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
+<p><strong>Sunday Oct 25 – Tuesday Oct 27, 2026</strong> · Snapshot compiled Sun Oct 25, 2026, 6:03 am PT (BayAreaDailySync)</p>
+<p><strong>What changed since the last brief (Sat 10:06 pm):</strong> no major changes. NWS reissued the Coastal Flood Advisory at 2:49 am (same terms, still to Thu 3 pm) and nudged Sunday's high to 69; adds patchy fog Mon night into Tue morning. No new Caltrans District 4 notices since Oct 23; all events still listed on their official pages.</p>
+<hr />
+<h2>Weather and alerts</h2>
+<p><strong>NWS (updated 5:05 am PDT Oct 25):</strong> Sunday partly sunny, high near 69. Sunday night partly cloudy, low near 54. Monday sunny, high near 65, west wind gusting to 22 mph. Patchy fog late Monday night into early Tuesday; Tuesday mostly sunny, high near 64.<br />
+Source: <a href="https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1" target="_blank" rel="noopener">https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1</a></p>
+<p><strong>Coastal Flood Advisory (reissued 2:49 am Oct 25; until Thu Oct 29, 3 pm PDT):</strong> up to 1.9 ft of inundation possible in low-lying shoreline areas around SF Bay, Monterey Bay and Big Sur. NWS gives SF high tides of 7.3 ft at 11:07 am Sun, 7.4 ft at 11:39 am Mon, and 7.6 ft at 12:15 pm Tue, 7.7 ft at 12:56 pm Wed (times vary up to 90 minutes around the Bay). Expect possible flooding on low-lying roads and paths, and keep an eye on waves at the beach.<br />
+Source: <a href="https://api.weather.gov/alerts/active?point=37.7749,-122.4194" target="_blank" rel="noopener">https://api.weather.gov/alerts/active?point=37.7749,-122.4194</a></p>
+<h2>Road closures (Caltrans District 4)</h2>
+<ul>
+<li><strong>WB I-80 Bayshore Freeway, 5th St to 15th St, SF: fully closed until Mon Oct 26, 6 am.</strong> Last exit is 5th St. Caltrans says skip the Bay Bridge into SF and use transit or the San Mateo, Dumbarton or Richmond–San Rafael bridges. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-19-i80-wb-weekend-closure-bayshore" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-19-i80-wb-weekend-closure-bayshore</a></li>
+<li><strong>SR-37, Mare Island (Vallejo) to Sears Point: both directions fully closed until Mon Oct 26, 5 am</strong> (55-hour closure). Eastbound detour uses SR-121 and SR-12. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-21-sr37-closure-update" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-21-sr37-closure-update</a></li>
+<li><strong>SR-92/US-101, San Mateo: nightly ramp closures Sun Oct 25 – Fri Oct 30.</strong> Sunday nights: NB 101 off-ramp to E. Hillsdale closed 8 pm–7 am, and the Fashion Island Blvd on-ramp to SB 101 closed 7 pm–6 am. Mon–Thu the WB 92 to SB 101 loop ramp closes 9 pm–5 am. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures</a></li>
+<li>Also posted: SR-37 Petaluma River Bridge (Marin) lane reductions the week of Oct 26, and nightly US-101 lane and ramp closures in Marin. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news</a></li>
+<li>Live conditions: <a href="https://quickmap.dot.ca.gov" target="_blank" rel="noopener">https://quickmap.dot.ca.gov</a> and 511.org.</li>
+</ul>
+<hr />
+<h2>What's on (each confirmed on an official, venue or ticketing page)</h2>
+<p><strong>1) World of Dumplings: Sun Oct 25, 11 am–5 pm.</strong> Ferry Building. Third year; dumplings from many cultures, brought to you by Asians Are Strong. (Free entry and vendor details were in the Oct 23 brief from other listings; the official page re-checked tonight shows only date, time and place.)<br />
+<a href="https://www.ferrybuildingmarketplace.com/events/world-of-dumplings/" target="_blank" rel="noopener">https://www.ferrybuildingmarketplace.com/events/world-of-dumplings/</a></p>
+<p><strong>2) Vishnu's Cosmic Ocean opening celebration: Sun Oct 25, from 11:30 am.</strong> Asian Art Museum, 200 Larkin St, Bogart Court. Temple water blessing 11:30 am, Khmer dance 12 pm, drop-in art 10 am–4 pm, exhibition tour 2 pm. Free with general admission.<br />
+<a href="https://calendar.asianart.org/event/opening-celebration-vishnus-cosmic-ocean/" target="_blank" rel="noopener">https://calendar.asianart.org/event/opening-celebration-vishnus-cosmic-ocean/</a></p>
+<p><strong>3) Doja Cat, Tour Ma Vie World Tour, with Latto: Sun Oct 25, 7:30 pm.</strong> Chase Center. Moved here from Oct 19; per SF Chronicle and NBC Bay Area, original tickets remain valid. SFMTA says a Chase Center event ticket counts as your Muni fare that day (cable cars excepted). Ticket prices not checked on an official page.<br />
+<a href="https://www.livenation.com/event/G5vYZbS0uA9TW/doja-cat-tour-ma-vie-world-tour" target="_blank" rel="noopener">https://www.livenation.com/event/G5vYZbS0uA9TW/doja-cat-tour-ma-vie-world-tour</a></p>
+<p><strong>4) Noe Valley Night Market: Tue Oct 27, 4:30–8:30 pm.</strong> Noe Valley Town Square and 24th St (Vicksburg–Sanchez). Billed as the "spookiest" market: 40+ food, drink and artist booths, free face painting, balloon art, bounce house and live music. Free. 24th St closes 2–10 pm and the 48 Muni is rerouted 1:30–10 pm.<br />
+<a href="https://noemerchants.com/nightmarket-vendors/" target="_blank" rel="noopener">https://noemerchants.com/nightmarket-vendors/</a> · <a href="https://www.sfmta.com/travel-updates/noe-valley-night-market-tuesday-october-27-2026" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates/noe-valley-night-market-tuesday-october-27-2026</a></p>
+<p><strong>5) SF Opera, Massenet's <em>Manon</em>: Tue Oct 27, 7:30 pm.</strong> War Memorial Opera House, 301 Van Ness. Tickets "starting at $30," 3 hr 25 min with two intermissions, sung in French with English supertitles. The Tuesday show was showing "Buy Tickets" tonight.<br />
+<a href="https://www.sfopera.com/operas/manon/" target="_blank" rel="noopener">https://www.sfopera.com/operas/manon/</a></p>
+<p><strong>6) Sharks vs. Buffalo Sabres: Tue Oct 27, 7:30 pm PDT.</strong> SAP Center, San Jose (on ESPN). Ticket prices not checked.<br />
+<a href="https://www.nhl.com/sharks/schedule" target="_blank" rel="noopener">https://www.nhl.com/sharks/schedule</a></p>
+<p><strong>Watch at home:</strong> 49ers at Falcons, Sun Oct 25, 10 am PT, on FOX (away game in Atlanta). <a href="https://www.49ers.com/schedule/2026/" target="_blank" rel="noopener">https://www.49ers.com/schedule/2026/</a><br />
+<strong>No Warriors home games in this window.</strong> Next home game is Fri Oct 30 vs. Lakers. <a href="https://www.nba.com/warriors/schedule" target="_blank" rel="noopener">https://www.nba.com/warriors/schedule</a></p>
+<hr />
+<h2>Where to eat</h2>
+<p>No Yelp ratings: Yelp still returns HTTP 403 to automated loads, so none are shown. Descriptions are from Michelin and the restaurants' own pages. Price signs are Michelin's.</p>
+<p><strong>Kin Khao, Union Square, SF (55 Cyril Magnin St, in the Parc 55) · Thai/Californian · $$$.</strong> Michelin praises Chef Pim Techamuanvivit's layered, produce-driven Thai cooking, like the hor mok curry mousse and a green curry with local rabbit, and warns some dishes are very spicy. Its own site: lunch daily 11:30 am–2 pm; dinner Sun–Thu 5:30–9 pm. (415) 362-7456. Handy before <em>Manon</em> or for Union Square hotel guests.<br />
+<a href="https://www.kinkhao.com/" target="_blank" rel="noopener">https://www.kinkhao.com/</a> · <a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/kin-khao" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/kin-khao</a></p>
+<p><strong>Nopalito, NoPa, SF (306 Broderick St) · Mexican/Californian · $$.</strong> Michelin: a cheerful, sustainability-minded spot for blue-corn fish tacos, chilaquiles verdes and a must-order pulled-pork taco; save room for the concha. No reservations, so expect a wait. Michelin lists 11:30 am–9 pm daily except Wednesday (4:30–9 pm).<br />
+<a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/nopalito" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/nopalito</a></p>
+<p><strong>Burdell, Temescal, Oakland (4640 Telegraph Ave) · contemporary American/Southern · $$$.</strong> Michelin: Chef Geoff Davis's personal take on soul food, like berbere collards, pickle-brined fried chicken and chicken liver mousse with cornmeal waffle, plus a strong wine list. Michelin lists Sunday brunch 11 am–2 pm and dinner 5–8 pm; closed Mon and Tue.<br />
+<a href="https://guide.michelin.com/us/en/california/oakland/restaurant/burdell" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/oakland/restaurant/burdell</a></p>
+<p><strong>Still good from the last brief:</strong> Anchor Oyster Bar (Castro) and Chez Panisse (Berkeley). Bombera (Oakland) and Tadich Grill are closed Sunday, and Bombera is also closed Tuesday.</p>
+<hr />
+<h2>Getting around</h2>
+<p><strong>Muni and cable cars (re-checked tonight):</strong> $2.85 single ride with Clipper, MuniMobile or tap-to-pay ($3.00 cash), good 120 minutes. Day pass $5.70. Cable car $9.00. Visitor Passports: 1-day $15, 3-day $35, 7-day $47. Youth 18 and under ride Muni free (not cable cars). <a href="https://www.sfmta.com/getting-around/muni/fares" target="_blank" rel="noopener">https://www.sfmta.com/getting-around/muni/fares</a><br />
+<strong>Muni reroutes:</strong> Tue Oct 27, the 48 Quintara/24th St skips 24th &amp; Sanchez, Church and Dolores stops 1:30–10 pm for the Noe Valley Night Market. SFMTA lists no other Sun–Tue event reroutes. Upcoming: Castro Halloween and other Oct 31 closures. <a href="https://www.sfmta.com/travel-updates" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates</a></p>
+<p><strong>BART:</strong></p>
+<ul>
+<li><strong>Sun Oct 25: no Green Line service.</strong> Trains single-track between San Leandro and Bay Fair for vegetation work.</li>
+<li><strong>Tue Oct 27 – Fri Oct 30:</strong> late-night single tracking on the Yellow Line in Contra Costa County.</li>
+<li>Coming up: reduced BART-to-OAK service the night of Nov 4, and a bus bridge between 24th St Mission and Daly City Nov 14–15.</li>
+<li>SFO: Sunday first airport train is 8:08 am, so plan another way for an early Sunday flight. Tap a contactless card or Clipper at the gate. Up to $2.85 off a transfer to another agency within 2 hours.<br />
+Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel="noopener">https://www.bart.gov/schedules/advisories</a> · <a href="https://www.bart.gov/guide/airport" target="_blank" rel="noopener">https://www.bart.gov/guide/airport</a></li>
+</ul>
+<p><strong>Bikes and scooters (from the Oct 23 brief, not re-checked):</strong> Lyft Bike (formerly Bay Wheels) is $1 to unlock plus $0.19/min classic or $0.49/min ebike, or a $15 day pass. Lime and Spin hold SF permits through June 2027. No sidewalk riding and no scooters on the Embarcadero Promenade. <a href="https://www.lyft.com/bikes/bay-wheels" target="_blank" rel="noopener">https://www.lyft.com/bikes/bay-wheels</a></p>
+<p><strong>SFO cars and rides (from the Oct 23 brief):</strong> Rental Car Center at 780 N. McDonnell Rd via AirTrain Blue Line (24 hours). Lyft and Uber pick up on Level 5 of the Domestic Garage. Taxis are at the Arrivals center islands. <a href="https://www.flysfo.com/passengers/ground-transportation" target="_blank" rel="noopener">https://www.flysfo.com/passengers/ground-transportation</a></p>
+<p><strong>Driving:</strong> I-80 into SF and SR-37 reopen early Monday. Until then, use the San Mateo, Dumbarton or Richmond–San Rafael bridges.</p>
+<h2>Where to stay</h2>
+<p>Per SF Travel, Union Square has most major hotels and is the transit hub (BART, Muni, cable cars), and it puts you near Kin Khao and the opera. Nob Hill is the upscale, romantic pick, and SoMa and Dogpatch are flat and walkable toward Chase Center. <a href="https://www.sftravel.com/neighborhoods" target="_blank" rel="noopener">https://www.sftravel.com/neighborhoods</a></p>
+<hr />
+<h2>Assumptions and refresh</h2>
+<ul>
+<li>Public data only, from pages opened Sun Oct 25, 2026, around 6 am PT (weather, flood advisory, Caltrans, BART and SFMTA re-checked; event pages re-loaded; restaurants, fares, bikes and SFO carried from the 10 pm brief). Nobody was contacted and nothing was signed up for.</li>
+<li>This is a snapshot. BayAreaDailySync refreshes it every 8 hours (6 am, 2 pm, 10 pm PT), re-checks uncertain items, and drops events it can't confirm on an official page.</li>
+<li>Ratings appear only if read on an opened page and date-stamped. Yelp is still blocked.</li>
+<li>Times are Pacific. Prices are as listed on the cited pages.</li>
+</ul>
+<h2>Not verified</h2>
+<ol>
+<li>Yelp ratings for any restaurant (HTTP 403).</li>
+<li>Nopalito and Burdell hours come from Michelin only, not their own sites.</li>
+<li>Comal (Berkeley) hours: its site still shows none, so it was left out this run.</li>
+<li>Anchor Oyster Bar hours and reservation policy: its site still shows none.</li>
+<li>Doja Cat face-value prices and remaining inventory. Sharks ticket prices.</li>
+<li>World of Dumplings free entry and vendor count: not shown on the official page tonight.</li>
+<li>Chase Center's own event calendar failed to load; Doja Cat is confirmed via Live Nation and Ticketmaster.</li>
+<li>Live Muni service alerts: SFMTA's alert feed said it was "unable to display alerts" this morning.</li>
+<li>Lime and Spin deployment and pricing. Lyft Bike pricing not re-checked.</li>
+<li>Asian Art Museum regular hours (still only from a third-party guide).</li>
+<li>Halloween (Oct 31) events beyond SFMTA's closure list.</li>
+</ol>]]></content:encoded>
+  </item>
+  <item>
+    <title>Urban Concierge Brief: SF Bay Area · Sunday Oct 25 – Tuesday Oct 27, 2026 · Snapshot compiled Sat Oct 24, 2026, 10:06 pm PT (BayAreaDailySync)</title>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-24-2206.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-24-2206.html</guid>
+    <pubDate>Sat, 24 Oct 2026 22:06:00 -0700</pubDate>
+    <description>Sunday Oct 25 – Tuesday Oct 27, 2026 · Snapshot compiled Sat Oct 24, 2026, 10:06 pm PT (BayAreaDailySync)</description>
+    <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
+<p><strong>Sunday Oct 25 – Tuesday Oct 27, 2026</strong> · Snapshot compiled Sat Oct 24, 2026, 10:06 pm PT (BayAreaDailySync)</p>
+<p><strong>What changed since the last brief (Oct 23 sample):</strong> the window rolled forward to Sun–Tue; the Coastal Flood Advisory is now confirmed (runs to Thu 3 pm, highest tides late morning/midday); a 55-hour SR-37 full closure and new nightly SR-92/US-101 ramp closures were added; Doja Cat at Chase Center (Sun) is now confirmed on Live Nation; new picks are Noe Valley Night Market (Tue), Manon (Tue) and Sharks vs. Sabres (Tue); three new restaurants; 3- and 7-day Visitor Passport prices now confirmed.</p>
+<hr />
+<h2>Weather and alerts</h2>
+<p><strong>NWS (updated 1:26 pm PDT Oct 24):</strong> Tonight mostly clear, low near 53. Sunday partly sunny, high near 68. Monday mostly sunny, high near 65, breezier (gusts to 21 mph Monday night). Tuesday mostly sunny, high near 64. A slight chance of rain shows up Friday.<br />
+Source: <a href="https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1" target="_blank" rel="noopener">https://forecast.weather.gov/MapClick.php?lat=37.7749&amp;lon=-122.4194&amp;unit=0&amp;lg=english&amp;FcstType=text&amp;TextType=1</a></p>
+<p><strong>Coastal Flood Advisory (until Thu Oct 29, 3 pm PDT):</strong> up to 1.9 ft of inundation possible in low-lying shoreline areas around SF Bay, Monterey Bay and Big Sur. NWS gives SF high tides of 7.3 ft at 11:07 am Sun, 7.4 ft at 11:39 am Mon, and 7.6 ft at 12:15 pm Tue (times vary up to 90 minutes around the Bay). Expect possible flooding on low-lying roads and paths, and keep an eye on waves at the beach.<br />
+Source: <a href="https://api.weather.gov/alerts/active?point=37.7749,-122.4194" target="_blank" rel="noopener">https://api.weather.gov/alerts/active?point=37.7749,-122.4194</a></p>
+<h2>Road closures (Caltrans District 4)</h2>
+<ul>
+<li><strong>WB I-80 Bayshore Freeway, 5th St to 15th St, SF: fully closed until Mon Oct 26, 6 am.</strong> Last exit is 5th St. Caltrans says skip the Bay Bridge into SF and use transit or the San Mateo, Dumbarton or Richmond–San Rafael bridges. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-19-i80-wb-weekend-closure-bayshore" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-19-i80-wb-weekend-closure-bayshore</a></li>
+<li><strong>SR-37, Mare Island (Vallejo) to Sears Point: both directions fully closed until Mon Oct 26, 5 am</strong> (55-hour closure). Eastbound detour uses SR-121 and SR-12. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-21-sr37-closure-update" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-21-sr37-closure-update</a></li>
+<li><strong>SR-92/US-101, San Mateo: nightly ramp closures Sun Oct 25 – Fri Oct 30.</strong> Sunday nights: NB 101 off-ramp to E. Hillsdale closed 8 pm–7 am, and the Fashion Island Blvd on-ramp to SB 101 closed 7 pm–6 am. Mon–Thu the WB 92 to SB 101 loop ramp closes 9 pm–5 am. <a href="https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures" target="_blank" rel="noopener">https://dot.ca.gov/caltrans-near-me/district-4/d4-news/2026-10-23-sr92-us101-nightly-ramp-closures</a></li>
+<li>Live conditions: <a href="https://quickmap.dot.ca.gov" target="_blank" rel="noopener">https://quickmap.dot.ca.gov</a> and 511.org.</li>
+</ul>
+<hr />
+<h2>What's on (each confirmed on an official, venue or ticketing page)</h2>
+<p><strong>1) World of Dumplings: Sun Oct 25, 11 am–5 pm.</strong> Ferry Building. Third year; dumplings from many cultures, brought to you by Asians Are Strong. (Free entry and vendor details were in the Oct 23 brief from other listings; the official page re-checked tonight shows only date, time and place.)<br />
+<a href="https://www.ferrybuildingmarketplace.com/events/world-of-dumplings/" target="_blank" rel="noopener">https://www.ferrybuildingmarketplace.com/events/world-of-dumplings/</a></p>
+<p><strong>2) Vishnu's Cosmic Ocean opening celebration: Sun Oct 25, from 11:30 am.</strong> Asian Art Museum, 200 Larkin St, Bogart Court. Temple water blessing 11:30 am, Khmer dance 12 pm, drop-in art 10 am–4 pm, exhibition tour 2 pm. Free with general admission.<br />
+<a href="https://calendar.asianart.org/event/opening-celebration-vishnus-cosmic-ocean/" target="_blank" rel="noopener">https://calendar.asianart.org/event/opening-celebration-vishnus-cosmic-ocean/</a></p>
+<p><strong>3) Doja Cat, Tour Ma Vie World Tour, with Latto: Sun Oct 25, 7:30 pm.</strong> Chase Center. Moved here from Oct 19; per SF Chronicle and NBC Bay Area, original tickets remain valid. SFMTA says a Chase Center event ticket counts as your Muni fare that day (cable cars excepted). Ticket prices not checked on an official page.<br />
+<a href="https://www.livenation.com/event/G5vYZbS0uA9TW/doja-cat-tour-ma-vie-world-tour" target="_blank" rel="noopener">https://www.livenation.com/event/G5vYZbS0uA9TW/doja-cat-tour-ma-vie-world-tour</a></p>
+<p><strong>4) Noe Valley Night Market: Tue Oct 27, 4:30–8:30 pm.</strong> Noe Valley Town Square and 24th St (Vicksburg–Sanchez). Billed as the "spookiest" market: 40+ food, drink and artist booths, free face painting, balloon art, bounce house and live music. Free. 24th St closes 2–10 pm and the 48 Muni is rerouted 1:30–10 pm.<br />
+<a href="https://noemerchants.com/nightmarket-vendors/" target="_blank" rel="noopener">https://noemerchants.com/nightmarket-vendors/</a> · <a href="https://www.sfmta.com/travel-updates/noe-valley-night-market-tuesday-october-27-2026" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates/noe-valley-night-market-tuesday-october-27-2026</a></p>
+<p><strong>5) SF Opera, Massenet's <em>Manon</em>: Tue Oct 27, 7:30 pm.</strong> War Memorial Opera House, 301 Van Ness. Tickets "starting at $30," 3 hr 25 min with two intermissions, sung in French with English supertitles. The Tuesday show was showing "Buy Tickets" tonight.<br />
+<a href="https://www.sfopera.com/operas/manon/" target="_blank" rel="noopener">https://www.sfopera.com/operas/manon/</a></p>
+<p><strong>6) Sharks vs. Buffalo Sabres: Tue Oct 27, 7:30 pm PDT.</strong> SAP Center, San Jose (on ESPN). Ticket prices not checked.<br />
+<a href="https://www.nhl.com/sharks/schedule" target="_blank" rel="noopener">https://www.nhl.com/sharks/schedule</a></p>
+<p><strong>Watch at home:</strong> 49ers at Falcons, Sun Oct 25, 10 am PT, on FOX (away game in Atlanta). <a href="https://www.49ers.com/schedule/2026/" target="_blank" rel="noopener">https://www.49ers.com/schedule/2026/</a><br />
+<strong>No Warriors home games in this window.</strong> Next home game is Fri Oct 30 vs. Lakers. <a href="https://www.nba.com/warriors/schedule" target="_blank" rel="noopener">https://www.nba.com/warriors/schedule</a></p>
+<hr />
+<h2>Where to eat</h2>
+<p>No Yelp ratings: Yelp still returns HTTP 403 to automated loads, so none are shown. Descriptions are from Michelin and the restaurants' own pages. Price signs are Michelin's.</p>
+<p><strong>Kin Khao, Union Square, SF (55 Cyril Magnin St, in the Parc 55) · Thai/Californian · $$$.</strong> Michelin praises Chef Pim Techamuanvivit's layered, produce-driven Thai cooking, like the hor mok curry mousse and a green curry with local rabbit, and warns some dishes are very spicy. Its own site: lunch daily 11:30 am–2 pm; dinner Sun–Thu 5:30–9 pm. (415) 362-7456. Handy before <em>Manon</em> or for Union Square hotel guests.<br />
+<a href="https://www.kinkhao.com/" target="_blank" rel="noopener">https://www.kinkhao.com/</a> · <a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/kin-khao" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/kin-khao</a></p>
+<p><strong>Nopalito, NoPa, SF (306 Broderick St) · Mexican/Californian · $$.</strong> Michelin: a cheerful, sustainability-minded spot for blue-corn fish tacos, chilaquiles verdes and a must-order pulled-pork taco; save room for the concha. No reservations, so expect a wait. Michelin lists 11:30 am–9 pm daily except Wednesday (4:30–9 pm).<br />
+<a href="https://guide.michelin.com/us/en/california/san-francisco/restaurant/nopalito" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/san-francisco/restaurant/nopalito</a></p>
+<p><strong>Burdell, Temescal, Oakland (4640 Telegraph Ave) · contemporary American/Southern · $$$.</strong> Michelin: Chef Geoff Davis's personal take on soul food, like berbere collards, pickle-brined fried chicken and chicken liver mousse with cornmeal waffle, plus a strong wine list. Michelin lists Sunday brunch 11 am–2 pm and dinner 5–8 pm; closed Mon and Tue.<br />
+<a href="https://guide.michelin.com/us/en/california/oakland/restaurant/burdell" target="_blank" rel="noopener">https://guide.michelin.com/us/en/california/oakland/restaurant/burdell</a></p>
+<p><strong>Still good from the last brief:</strong> Anchor Oyster Bar (Castro) and Chez Panisse (Berkeley). Bombera (Oakland) and Tadich Grill are closed Sunday, and Bombera is also closed Tuesday.</p>
+<hr />
+<h2>Getting around</h2>
+<p><strong>Muni and cable cars (re-checked tonight):</strong> $2.85 single ride with Clipper, MuniMobile or tap-to-pay ($3.00 cash), good 120 minutes. Day pass $5.70. Cable car $9.00. Visitor Passports: 1-day $15, 3-day $35, 7-day $47. Youth 18 and under ride Muni free (not cable cars). <a href="https://www.sfmta.com/getting-around/muni/fares" target="_blank" rel="noopener">https://www.sfmta.com/getting-around/muni/fares</a><br />
+<strong>Muni reroutes:</strong> Tue Oct 27, the 48 Quintara/24th St skips 24th &amp; Sanchez, Church and Dolores stops 1:30–10 pm for the Noe Valley Night Market. SFMTA lists no other Sun–Tue event reroutes. Upcoming: Castro Halloween and other Oct 31 closures. <a href="https://www.sfmta.com/travel-updates" target="_blank" rel="noopener">https://www.sfmta.com/travel-updates</a></p>
+<p><strong>BART:</strong></p>
+<ul>
+<li><strong>Sun Oct 25: no Green Line service.</strong> Trains single-track between San Leandro and Bay Fair for vegetation work.</li>
+<li><strong>Tue Oct 27 – Fri Oct 30:</strong> late-night single tracking on the Yellow Line in Contra Costa County.</li>
+<li>Coming up: reduced BART-to-OAK service the night of Nov 4, and a bus bridge between 24th St Mission and Daly City Nov 14–15.</li>
+<li>SFO: Sunday first airport train is 8:08 am, so plan another way for an early Sunday flight. Tap a contactless card or Clipper at the gate. Up to $2.85 off a transfer to another agency within 2 hours.<br />
+Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel="noopener">https://www.bart.gov/schedules/advisories</a> · <a href="https://www.bart.gov/guide/airport" target="_blank" rel="noopener">https://www.bart.gov/guide/airport</a></li>
+</ul>
+<p><strong>Bikes and scooters (from the Oct 23 brief, not re-checked):</strong> Lyft Bike (formerly Bay Wheels) is $1 to unlock plus $0.19/min classic or $0.49/min ebike, or a $15 day pass. Lime and Spin hold SF permits through June 2027. No sidewalk riding and no scooters on the Embarcadero Promenade. <a href="https://www.lyft.com/bikes/bay-wheels" target="_blank" rel="noopener">https://www.lyft.com/bikes/bay-wheels</a></p>
+<p><strong>SFO cars and rides (from the Oct 23 brief):</strong> Rental Car Center at 780 N. McDonnell Rd via AirTrain Blue Line (24 hours). Lyft and Uber pick up on Level 5 of the Domestic Garage. Taxis are at the Arrivals center islands. <a href="https://www.flysfo.com/passengers/ground-transportation" target="_blank" rel="noopener">https://www.flysfo.com/passengers/ground-transportation</a></p>
+<p><strong>Driving:</strong> I-80 into SF and SR-37 reopen early Monday. Until then, use the San Mateo, Dumbarton or Richmond–San Rafael bridges.</p>
+<h2>Where to stay</h2>
+<p>Per SF Travel, Union Square has most major hotels and is the transit hub (BART, Muni, cable cars), and it puts you near Kin Khao and the opera. Nob Hill is the upscale, romantic pick, and SoMa and Dogpatch are flat and walkable toward Chase Center. <a href="https://www.sftravel.com/neighborhoods" target="_blank" rel="noopener">https://www.sftravel.com/neighborhoods</a></p>
+<hr />
+<h2>Assumptions and refresh</h2>
+<ul>
+<li>Public data only, from pages opened Sat Oct 24, 2026, around 10 pm PT. Nobody was contacted and nothing was signed up for.</li>
+<li>This is a snapshot. BayAreaDailySync refreshes it every 8 hours (6 am, 2 pm, 10 pm PT), re-checks uncertain items, and drops events it can't confirm on an official page.</li>
+<li>Ratings appear only if read on an opened page and date-stamped. Yelp is still blocked.</li>
+<li>Times are Pacific. Prices are as listed on the cited pages.</li>
+</ul>
+<h2>Not verified</h2>
+<ol>
+<li>Yelp ratings for any restaurant (HTTP 403).</li>
+<li>Nopalito and Burdell hours come from Michelin only, not their own sites.</li>
+<li>Comal (Berkeley) hours: its site still shows none, so it was left out this run.</li>
+<li>Anchor Oyster Bar hours and reservation policy: its site still shows none.</li>
+<li>Doja Cat face-value prices and remaining inventory. Sharks ticket prices.</li>
+<li>World of Dumplings free entry and vendor count: not shown on the official page tonight.</li>
+<li>Chase Center's own event calendar failed to load; Doja Cat is confirmed via Live Nation and Ticketmaster.</li>
+<li>Live Muni service alerts (outside planned event reroutes) and real-time delays.</li>
+<li>Lime and Spin deployment and pricing. Lyft Bike pricing not re-checked.</li>
+<li>Asian Art Museum regular hours (still only from a third-party guide).</li>
+<li>Halloween (Oct 31) events beyond SFMTA's closure list.</li>
+</ol>]]></content:encoded>
+  </item>
+</channel>
+</rss>

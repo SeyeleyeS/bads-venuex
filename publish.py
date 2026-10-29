@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Publish a BayAreaDailySync brief to the BADS static site (bamedia.agency).
+"""Publish a BayAreaDailySync brief to the BADS static site (https://bamedia.agency/bads/).
 
 Usage:
   python3 publish.py <brief.md> [<brief.md> ...] [--archive-only] [--no-push]
@@ -10,10 +10,13 @@ the PWA manifest, service worker (assets/app.js) and the install hint.
 Email signup: set "signup.form_action" in site.json to the provider's form URL
 (Buttondown / follow.it / MailerLite / Kit). While it is empty the form is not shown.
 
-For each brief: copies the source to briefs/<basename>.md and renders
-archive/<basename>.html. Then (unless --archive-only) rewrites index.html with
-the LAST brief given, regenerates archive/index.html (newest first), and runs
-git add / commit / push to main (unless --no-push).
+Layout: the repo root is the BAMedia company site (/ and /law/, static, not touched
+here). BADS lives in the "out_dir" from site.json (default "bads", served at /bads/).
+For each brief: copies the source to briefs/<basename>.md (repo root) and renders
+bads/archive/<basename>.html. Then (unless --archive-only) rewrites bads/index.html
+with the LAST brief given, regenerates bads/archive/index.html (newest first),
+bads/feed.xml (+ a copy at /feed.xml for old subscribers), redirect stubs at the old
+root URLs (/archive/...), and runs git add / commit / push to main (unless --no-push).
 """
 import argparse, html, json, os, re, shutil, subprocess, sys
 from datetime import datetime, timezone
@@ -30,7 +33,9 @@ SITE_TITLE = "BADS: Bay Area Daily Sync"
 TAGLINE = "Your SF Bay Area brief, refreshed every 8 hours."
 FOOTER = "Built from public sources. Snapshot, not real-time; check official links before you go."
 CONFIG = json.load(open(os.path.join(ROOT, "site.json"), encoding="utf-8"))
-SITE_URL = CONFIG.get("site_url", "https://bamedia.agency/").rstrip("/") + "/"
+SITE_URL = CONFIG.get("site_url", "https://bamedia.agency/bads/").rstrip("/") + "/"
+OUT = os.path.join(ROOT, CONFIG.get("out_dir", "bads"))  # where BADS pages/feed are written
+BRIEFS = os.path.join(ROOT, "briefs")                     # markdown sources stay at repo root
 FEED_ITEMS = 20
 TZ = ZoneInfo("America/Los_Angeles")
 
@@ -139,41 +144,41 @@ def page(title, body, prefix, active):
 {body}
 {signup_html(prefix)}
 </main>
-<footer class="site"><div class="wrap"><p>{html.escape(FOOTER)}</p></div></footer>
+<footer class="site"><div class="wrap"><p>{html.escape(FOOTER)}</p><p class="fine">BADS is a brand of <a href="{prefix}../">Bay Area Media</a>.</p></div></footer>
 </body>
 </html>
 """
 
 def build_brief(src):
     base = os.path.splitext(os.path.basename(src))[0]
-    dst_md = os.path.join(ROOT, "briefs", base + ".md")
+    dst_md = os.path.join(BRIEFS, base + ".md")
     if os.path.abspath(src) != os.path.abspath(dst_md):
         shutil.copyfile(src, dst_md)
     text = open(dst_md, encoding="utf-8").read()
     title, sub = meta(text, base)
     body = '<article class="brief">' + render_md(text) + "</article>"
     archive_body = body + '<p class="back"><a href="index.html">&larr; All briefs</a></p>'
-    with open(os.path.join(ROOT, "archive", base + ".html"), "w", encoding="utf-8") as f:
+    with open(os.path.join(OUT, "archive", base + ".html"), "w", encoding="utf-8") as f:
         f.write(page(f"{title} · {sub[:60]} · BADS", archive_body, "../", "archive"))
     return base, title, sub, body
 
 def write_index(base, title, sub, body):
     note = f'<p class="stamp">Latest brief · <a href="archive/{base}.html">permalink</a> · <a href="archive/index.html">past briefs</a></p>'
-    with open(os.path.join(ROOT, "index.html"), "w", encoding="utf-8") as f:
+    with open(os.path.join(OUT, "index.html"), "w", encoding="utf-8") as f:
         f.write(page(SITE_TITLE, note + body, "", "home"))
 
 def write_archive_index():
     items = []
-    for fn in sorted(os.listdir(os.path.join(ROOT, "briefs")), reverse=True):
+    for fn in sorted(os.listdir(BRIEFS), reverse=True):
         if not fn.endswith(".md"):
             continue
         base = fn[:-3]
-        if not os.path.exists(os.path.join(ROOT, "archive", base + ".html")):
+        if not os.path.exists(os.path.join(OUT, "archive", base + ".html")):
             continue
-        title, sub = meta(open(os.path.join(ROOT, "briefs", fn), encoding="utf-8").read(), base)
+        title, sub = meta(open(os.path.join(BRIEFS, fn), encoding="utf-8").read(), base)
         items.append(f'<li><a href="{base}.html">{html.escape(sub or title)}</a><span class="fn">{html.escape(base)}</span></li>')
     body = "<h1>Archive</h1><p>Every published brief, newest first.</p><ul class=\"archive\">" + "\n".join(items) + "</ul>"
-    with open(os.path.join(ROOT, "archive", "index.html"), "w", encoding="utf-8") as f:
+    with open(os.path.join(OUT, "archive", "index.html"), "w", encoding="utf-8") as f:
         f.write(page("Archive · BADS", body, "../", "archive"))
 
 def brief_time(base):
@@ -181,17 +186,17 @@ def brief_time(base):
     if m:
         y, mo, d, h, mi = map(int, m.groups())
         return datetime(y, mo, d, h, mi, tzinfo=TZ)
-    return datetime.fromtimestamp(os.path.getmtime(os.path.join(ROOT, "briefs", base + ".md")), timezone.utc)
+    return datetime.fromtimestamp(os.path.getmtime(os.path.join(BRIEFS, base + ".md")), timezone.utc)
 
 def cdata(s):
     return "<![CDATA[" + s.replace("]]>", "]]]]><![CDATA[>") + "]]>"
 
 def write_feed():
-    bases = sorted((fn[:-3] for fn in os.listdir(os.path.join(ROOT, "briefs")) if fn.endswith(".md")), reverse=True)
-    bases = [b for b in bases if os.path.exists(os.path.join(ROOT, "archive", b + ".html"))][:FEED_ITEMS]
+    bases = sorted((fn[:-3] for fn in os.listdir(BRIEFS) if fn.endswith(".md")), reverse=True)
+    bases = [b for b in bases if os.path.exists(os.path.join(OUT, "archive", b + ".html"))][:FEED_ITEMS]
     items = []
     for b in bases:
-        text = open(os.path.join(ROOT, "briefs", b + ".md"), encoding="utf-8").read()
+        text = open(os.path.join(BRIEFS, b + ".md"), encoding="utf-8").read()
         title, sub = meta(text, b)
         link = f"{SITE_URL}archive/{b}.html"
         body = render_md(text)
@@ -220,14 +225,42 @@ def write_feed():
 </channel>
 </rss>
 """
-    with open(os.path.join(ROOT, "feed.xml"), "w", encoding="utf-8") as f:
+    with open(os.path.join(OUT, "feed.xml"), "w", encoding="utf-8") as f:
         f.write(xml)
     print(f"feed.xml -> {len(items)} items")
 
 def write_offline():
     body = '<h1>You are offline</h1><p>This page has not been saved on this device yet. Briefs you have opened before still work offline. Try the <a href="index.html">latest brief</a> or the <a href="archive/index.html">archive</a>.</p>'
-    with open(os.path.join(ROOT, "offline.html"), "w", encoding="utf-8") as f:
+    with open(os.path.join(OUT, "offline.html"), "w", encoding="utf-8") as f:
         f.write(page("Offline · BADS", body, "", "home"))
+
+LEGACY_STUB = """<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<title>Moved · BADS</title>
+<meta name="robots" content="noindex">
+<link rel="canonical" href="{url}">
+<meta http-equiv="refresh" content="0; url={url}">
+<script>location.replace("{url}" + location.hash);</script>
+</head><body><p>BADS has moved to <a href="{url}">{url}</a>.</p></body></html>
+"""
+
+def write_legacy():
+    """BADS used to live at the site root. Keep old URLs working: redirect stubs for
+    /archive/*.html and /offline.html, and a copy of the feed at /feed.xml."""
+    if os.path.abspath(OUT) == os.path.abspath(ROOT):
+        return
+    rel = os.path.relpath(OUT, ROOT).replace(os.sep, "/") + "/"
+    legacy_arch = os.path.join(ROOT, "archive")
+    os.makedirs(legacy_arch, exist_ok=True)
+    for fn in os.listdir(os.path.join(OUT, "archive")):
+        if fn.endswith(".html"):
+            target = SITE_URL + "archive/" + fn
+            with open(os.path.join(legacy_arch, fn), "w", encoding="utf-8") as f:
+                f.write(LEGACY_STUB.format(url=target))
+    with open(os.path.join(ROOT, "offline.html"), "w", encoding="utf-8") as f:
+        f.write(LEGACY_STUB.format(url=SITE_URL + "offline.html"))
+    shutil.copyfile(os.path.join(OUT, "feed.xml"), os.path.join(ROOT, "feed.xml"))
+    print(f"legacy redirects -> /archive/*.html, /offline.html, /feed.xml copy (BADS at /{rel})")
 
 def git(*args):
     print("+ git", " ".join(args))
@@ -241,7 +274,7 @@ def main():
     ap.add_argument("--no-push", action="store_true")
     a = ap.parse_args()
     if a.rebuild:
-        a.briefs = [os.path.join(ROOT, "briefs", fn) for fn in sorted(os.listdir(os.path.join(ROOT, "briefs"))) if fn.endswith(".md")]
+        a.briefs = [os.path.join(BRIEFS, fn) for fn in sorted(os.listdir(BRIEFS)) if fn.endswith(".md")]
     if not a.briefs:
         ap.error("give at least one brief, or --rebuild")
     built = None
@@ -256,6 +289,7 @@ def main():
     write_archive_index()
     write_feed()
     write_offline()
+    write_legacy()
     if a.no_push:
         return
     git("add", "-A")

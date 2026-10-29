@@ -1,20 +1,26 @@
-# BADS: Bay Area Daily Sync
+# bamedia.agency: Bay Area Media (BAMedia)
 
-Static site for **bamedia.agency**: the SF Bay Area Urban Concierge brief, refreshed every 8 hours.
-Plain HTML/CSS, no build step, served by GitHub Pages from `main` at `/`.
+Static site served by GitHub Pages from `main` at `/` (custom domain in `CNAME`).
 
-Publish a new brief (renders it, updates `index.html` and `archive/`, commits and pushes):
+| Path | What | Built by |
+|---|---|---|
+| `/` (`index.html`, `assets/brand.css`) | Bay Area Media company homepage linking to its brands | hand-edited |
+| `/law/` (`law/index.html`) | Law-Firm Client Concierge | hand-edited |
+| `/bads/` (`bads/`) | BADS: Bay Area Daily Sync briefs, archive, RSS, PWA | `publish.py` |
+| `/archive/*.html`, `/offline.html`, `/feed.xml`, `/sw.js` | legacy (BADS used to live at the root): redirect stubs, feed copy, retired service worker | `publish.py` / static |
+
+Brand images: `python3 tools/make_brand_images.py`.
+
+## BADS publishing
 
     python3 publish.py /path/to/bayareadailysync-YYYY-MM-DD-HHMM.md
 
-Requires `python-markdown` (`pip install --user markdown`). Sources are kept in `briefs/`.
+Copies the source to `briefs/` (repo root), renders `bads/archive/<name>.html`, updates `bads/index.html`,
+`bads/archive/index.html`, `bads/feed.xml` (+ copy at `/feed.xml`), the legacy redirect stubs, then commits
+and pushes to main. `site.json`: `site_url` = `https://bamedia.agency/bads/`, `out_dir` = `bads`.
+`python3 publish.py --rebuild` re-renders everything. Requires `python-markdown`.
+
+- `bads/manifest.webmanifest`, `bads/sw.js`, `bads/assets/app.js`: installable app scoped to `/bads/`. Network-first
+  for pages, cached shell for offline.
+- Email signup: set `signup.form_action` in `site.json`, then `python3 publish.py --rebuild`.
 Built from public sources. Snapshot, not real-time; check official links before you go.
-
-## App (PWA), feed and email updates
-
-- `manifest.webmanifest`, `sw.js`, `assets/app.js`, `assets/icons/`: installable app. The service worker is
-  network-first for pages (new briefs show immediately) and keeps the shell + briefs you've opened for offline reading.
-- `feed.xml`: RSS 2.0, last 20 briefs with full HTML in `content:encoded`. Rebuilt on every publish.
-- Email signup: set `signup.form_action` in `site.json` to the provider's embed form URL (and `email_field` if the
-  provider doesn't use `email`), then run `python3 publish.py --rebuild`. While it is empty, no form is shown.
-- `python3 publish.py --rebuild` re-renders every page from `briefs/`.

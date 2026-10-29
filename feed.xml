@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>BADS: Bay Area Daily Sync</title>
-  <link>https://bamedia.agency/</link>
-  <atom:link href="https://bamedia.agency/feed.xml" rel="self" type="application/rss+xml"/>
+  <link>https://bamedia.agency/bads/</link>
+  <atom:link href="https://bamedia.agency/bads/feed.xml" rel="self" type="application/rss+xml"/>
   <description>Your SF Bay Area brief, refreshed every 8 hours.</description>
   <language>en-us</language>
   <lastBuildDate>Thu, 29 Oct 2026 06:08:00 -0700</lastBuildDate>
   <ttl>60</ttl>
-  <image><url>https://bamedia.agency/assets/icons/icon-192.png</url><title>BADS: Bay Area Daily Sync</title><link>https://bamedia.agency/</link></image>
+  <image><url>https://bamedia.agency/bads/assets/icons/icon-192.png</url><title>BADS: Bay Area Daily Sync</title><link>https://bamedia.agency/bads/</link></image>
   <item>
     <title>Urban Concierge Brief: SF Bay Area · Thursday Oct 29 – Saturday Oct 31, 2026 · Snapshot compiled Thu Oct 29, 2026, 6:08 am PT (BayAreaDailySync)</title>
-    <link>https://bamedia.agency/archive/bayareadailysync-2026-10-29-0608.html</link>
-    <guid isPermaLink="true">https://bamedia.agency/archive/bayareadailysync-2026-10-29-0608.html</guid>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-29-0608.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-29-0608.html</guid>
     <pubDate>Thu, 29 Oct 2026 06:08:00 -0700</pubDate>
     <description>Thursday Oct 29 – Saturday Oct 31, 2026 · Snapshot compiled Thu Oct 29, 2026, 6:08 am PT (BayAreaDailySync)</description>
     <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
@@ -95,8 +95,8 @@ Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel
   </item>
   <item>
     <title>Urban Concierge Brief: SF Bay Area · Thursday Oct 29 – Saturday Oct 31, 2026 · Snapshot compiled Wed Oct 28, 2026, 10:09 pm PT (BayAreaDailySync)</title>
-    <link>https://bamedia.agency/archive/bayareadailysync-2026-10-28-2209.html</link>
-    <guid isPermaLink="true">https://bamedia.agency/archive/bayareadailysync-2026-10-28-2209.html</guid>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-28-2209.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-28-2209.html</guid>
     <pubDate>Wed, 28 Oct 2026 22:09:00 -0700</pubDate>
     <description>Thursday Oct 29 – Saturday Oct 31, 2026 · Snapshot compiled Wed Oct 28, 2026, 10:09 pm PT (BayAreaDailySync)</description>
     <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
@@ -178,8 +178,8 @@ Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel
   </item>
   <item>
     <title>Urban Concierge Brief: SF Bay Area · Wednesday Oct 28 – Friday Oct 30, 2026 · Snapshot compiled Wed Oct 28, 2026, 6:00 am PT (BayAreaDailySync)</title>
-    <link>https://bamedia.agency/archive/bayareadailysync-2026-10-28-0600.html</link>
-    <guid isPermaLink="true">https://bamedia.agency/archive/bayareadailysync-2026-10-28-0600.html</guid>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-28-0600.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-28-0600.html</guid>
     <pubDate>Wed, 28 Oct 2026 06:00:00 -0700</pubDate>
     <description>Wednesday Oct 28 – Friday Oct 30, 2026 · Snapshot compiled Wed Oct 28, 2026, 6:00 am PT (BayAreaDailySync)</description>
     <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
@@ -265,8 +265,8 @@ Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel
   </item>
   <item>
     <title>Urban Concierge Brief: SF Bay Area · Wednesday Oct 28 – Friday Oct 30, 2026 · Snapshot compiled Tue Oct 27, 2026, 10:03 pm PT (BayAreaDailySync)</title>
-    <link>https://bamedia.agency/archive/bayareadailysync-2026-10-27-2203.html</link>
-    <guid isPermaLink="true">https://bamedia.agency/archive/bayareadailysync-2026-10-27-2203.html</guid>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-27-2203.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-27-2203.html</guid>
     <pubDate>Tue, 27 Oct 2026 22:03:00 -0700</pubDate>
     <description>Wednesday Oct 28 – Friday Oct 30, 2026 · Snapshot compiled Tue Oct 27, 2026, 10:03 pm PT (BayAreaDailySync)</description>
     <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
@@ -352,8 +352,8 @@ Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel
   </item>
   <item>
     <title>Urban Concierge Brief: SF Bay Area · Tuesday Oct 27 – Thursday Oct 29, 2026 · Snapshot compiled Tue Oct 27, 2026, 2:05 pm PT (BayAreaDailySync)</title>
-    <link>https://bamedia.agency/archive/bayareadailysync-2026-10-27-1405.html</link>
-    <guid isPermaLink="true">https://bamedia.agency/archive/bayareadailysync-2026-10-27-1405.html</guid>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-27-1405.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-27-1405.html</guid>
     <pubDate>Tue, 27 Oct 2026 14:05:00 -0700</pubDate>
     <description>Tuesday Oct 27 – Thursday Oct 29, 2026 · Snapshot compiled Tue Oct 27, 2026, 2:05 pm PT (BayAreaDailySync)</description>
     <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
@@ -442,8 +442,8 @@ Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel
   </item>
   <item>
     <title>Urban Concierge Brief: SF Bay Area · Tuesday Oct 27 – Thursday Oct 29, 2026 · Snapshot compiled Tue Oct 27, 2026, 6:07 am PT (BayAreaDailySync)</title>
-    <link>https://bamedia.agency/archive/bayareadailysync-2026-10-27-0607.html</link>
-    <guid isPermaLink="true">https://bamedia.agency/archive/bayareadailysync-2026-10-27-0607.html</guid>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-27-0607.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-27-0607.html</guid>
     <pubDate>Tue, 27 Oct 2026 06:07:00 -0700</pubDate>
     <description>Tuesday Oct 27 – Thursday Oct 29, 2026 · Snapshot compiled Tue Oct 27, 2026, 6:07 am PT (BayAreaDailySync)</description>
     <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
@@ -531,8 +531,8 @@ Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel
   </item>
   <item>
     <title>Urban Concierge Brief: SF Bay Area · Tuesday Oct 27 – Thursday Oct 29, 2026 · Snapshot compiled Mon Oct 26, 2026, 10:01 pm PT (BayAreaDailySync)</title>
-    <link>https://bamedia.agency/archive/bayareadailysync-2026-10-26-2201.html</link>
-    <guid isPermaLink="true">https://bamedia.agency/archive/bayareadailysync-2026-10-26-2201.html</guid>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-26-2201.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-26-2201.html</guid>
     <pubDate>Mon, 26 Oct 2026 22:01:00 -0700</pubDate>
     <description>Tuesday Oct 27 – Thursday Oct 29, 2026 · Snapshot compiled Mon Oct 26, 2026, 10:01 pm PT (BayAreaDailySync)</description>
     <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
@@ -620,8 +620,8 @@ Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel
   </item>
   <item>
     <title>Urban Concierge Brief: SF Bay Area · Monday Oct 26 – Wednesday Oct 28, 2026 · Snapshot compiled Mon Oct 26, 2026, 2:04 pm PT (BayAreaDailySync)</title>
-    <link>https://bamedia.agency/archive/bayareadailysync-2026-10-26-1404.html</link>
-    <guid isPermaLink="true">https://bamedia.agency/archive/bayareadailysync-2026-10-26-1404.html</guid>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-26-1404.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-26-1404.html</guid>
     <pubDate>Mon, 26 Oct 2026 14:04:00 -0700</pubDate>
     <description>Monday Oct 26 – Wednesday Oct 28, 2026 · Snapshot compiled Mon Oct 26, 2026, 2:04 pm PT (BayAreaDailySync)</description>
     <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
@@ -707,8 +707,8 @@ Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel
   </item>
   <item>
     <title>Urban Concierge Brief: SF Bay Area · Monday Oct 26 – Wednesday Oct 28, 2026 · Snapshot compiled Mon Oct 26, 2026, 6:10 am PT (BayAreaDailySync)</title>
-    <link>https://bamedia.agency/archive/bayareadailysync-2026-10-26-0610.html</link>
-    <guid isPermaLink="true">https://bamedia.agency/archive/bayareadailysync-2026-10-26-0610.html</guid>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-26-0610.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-26-0610.html</guid>
     <pubDate>Mon, 26 Oct 2026 06:10:00 -0700</pubDate>
     <description>Monday Oct 26 – Wednesday Oct 28, 2026 · Snapshot compiled Mon Oct 26, 2026, 6:10 am PT (BayAreaDailySync)</description>
     <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
@@ -793,8 +793,8 @@ Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel
   </item>
   <item>
     <title>Urban Concierge Brief: SF Bay Area · Monday Oct 26 – Wednesday Oct 28, 2026 · Snapshot compiled Sun Oct 25, 2026, 10:01 pm PT (BayAreaDailySync)</title>
-    <link>https://bamedia.agency/archive/bayareadailysync-2026-10-25-2201.html</link>
-    <guid isPermaLink="true">https://bamedia.agency/archive/bayareadailysync-2026-10-25-2201.html</guid>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-25-2201.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-25-2201.html</guid>
     <pubDate>Sun, 25 Oct 2026 22:01:00 -0700</pubDate>
     <description>Monday Oct 26 – Wednesday Oct 28, 2026 · Snapshot compiled Sun Oct 25, 2026, 10:01 pm PT (BayAreaDailySync)</description>
     <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
@@ -878,8 +878,8 @@ Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel
   </item>
   <item>
     <title>Urban Concierge Brief: SF Bay Area · Sunday Oct 25 – Tuesday Oct 27, 2026 · Snapshot compiled Sun Oct 25, 2026, 2:10 pm PT (BayAreaDailySync)</title>
-    <link>https://bamedia.agency/archive/bayareadailysync-2026-10-25-1410.html</link>
-    <guid isPermaLink="true">https://bamedia.agency/archive/bayareadailysync-2026-10-25-1410.html</guid>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-25-1410.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-25-1410.html</guid>
     <pubDate>Sun, 25 Oct 2026 14:10:00 -0700</pubDate>
     <description>Sunday Oct 25 – Tuesday Oct 27, 2026 · Snapshot compiled Sun Oct 25, 2026, 2:10 pm PT (BayAreaDailySync)</description>
     <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
@@ -968,8 +968,8 @@ Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel
   </item>
   <item>
     <title>Urban Concierge Brief: SF Bay Area · Sunday Oct 25 – Tuesday Oct 27, 2026 · Snapshot compiled Sun Oct 25, 2026, 6:03 am PT (BayAreaDailySync)</title>
-    <link>https://bamedia.agency/archive/bayareadailysync-2026-10-25-0603.html</link>
-    <guid isPermaLink="true">https://bamedia.agency/archive/bayareadailysync-2026-10-25-0603.html</guid>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-25-0603.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-25-0603.html</guid>
     <pubDate>Sun, 25 Oct 2026 06:03:00 -0700</pubDate>
     <description>Sunday Oct 25 – Tuesday Oct 27, 2026 · Snapshot compiled Sun Oct 25, 2026, 6:03 am PT (BayAreaDailySync)</description>
     <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>
@@ -1057,8 +1057,8 @@ Sources: <a href="https://www.bart.gov/schedules/advisories" target="_blank" rel
   </item>
   <item>
     <title>Urban Concierge Brief: SF Bay Area · Sunday Oct 25 – Tuesday Oct 27, 2026 · Snapshot compiled Sat Oct 24, 2026, 10:06 pm PT (BayAreaDailySync)</title>
-    <link>https://bamedia.agency/archive/bayareadailysync-2026-10-24-2206.html</link>
-    <guid isPermaLink="true">https://bamedia.agency/archive/bayareadailysync-2026-10-24-2206.html</guid>
+    <link>https://bamedia.agency/bads/archive/bayareadailysync-2026-10-24-2206.html</link>
+    <guid isPermaLink="true">https://bamedia.agency/bads/archive/bayareadailysync-2026-10-24-2206.html</guid>
     <pubDate>Sat, 24 Oct 2026 22:06:00 -0700</pubDate>
     <description>Sunday Oct 25 – Tuesday Oct 27, 2026 · Snapshot compiled Sat Oct 24, 2026, 10:06 pm PT (BayAreaDailySync)</description>
     <content:encoded><![CDATA[<h1>Urban Concierge Brief: SF Bay Area</h1>

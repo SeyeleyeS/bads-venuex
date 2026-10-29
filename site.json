@@ -1,5 +1,6 @@
 {
-  "site_url": "https://bamedia.agency/",
+  "site_url": "https://bamedia.agency/bads/",
+  "out_dir": "bads",
   "signup": {
     "form_action": "",
     "provider_name": "",
