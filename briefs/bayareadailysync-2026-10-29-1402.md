@@ -66,7 +66,7 @@ No Yelp ratings (Yelp blocks automated loads). Michelin's site blocked scripted 
 ## Getting around
 
 **Muni and cable cars (carried):** $2.85 single ride with Clipper, MuniMobile or tap-to-pay ($3.00 cash), good 120 minutes. Day pass $5.70. Cable car $9.00. Visitor Passports 1-day $15, 3-day $35, 7-day $47. Youth 18 and under ride Muni free. https://www.sfmta.com/getting-around/muni/fares
-**Muni reroutes:** Sat Oct 31 from 11 am, the 33 Ashbury/18th St reroutes around the Castro event, and the 24 and 35 may run late (confirmed this run). Other Halloween closures (Cortland, River of Life, Further Send Off), the Golden Gate Half Marathon Sun Nov 1 and Día de los Muertos Mon Nov 2 are carried. https://www.sfmta.com/travel-updates
+**Muni reroutes:** Sat Oct 31 from 11 am, the 33 Ashbury/18th St reroutes around the Castro event, and the 24 and 35 may run late (from the SFMTA Castro page). Other Halloween closures (Cortland, River of Life, Further Send Off), the Golden Gate Half Marathon Sun Nov 1 and Día de los Muertos Mon Nov 2 are carried. https://www.sfmta.com/travel-updates
 
 **BART:**
 - This morning's 20-minute systemwide delay has cleared; the only live advisory at 2 pm is the one below.
@@ -80,7 +80,7 @@ Sources: https://www.bart.gov/schedules/advisories · https://www.bart.gov/guide
 **SFO cars and rides (from the Oct 23 brief):** Rental Car Center via AirTrain Blue Line (24 hours). Lyft and Uber pick up on Level 5 of the Domestic Garage. Taxis at the Arrivals center islands. https://www.flysfo.com/passengers/ground-transportation
 
 ## Where to stay
-Per SF Travel, Union Square has most major hotels and the best transit links, and is a short walk to SFMOMA and Yerba Buena Gardens for Saturday; Hayes Valley and Civic Center put you by the opera and Zuni; Mission Bay is closest to Chase Center for Friday's Warriors game; Union Square also puts you a block from Kin Khao. https://www.sftravel.com/neighborhoods
+Per SF Travel, Union Square has most major hotels and the best transit links, and is a short walk to SFMOMA and Yerba Buena Gardens for Saturday; Hayes Valley and Civic Center put you by the opera; Mission Bay is closest to Chase Center for Friday's Warriors game; Union Square also puts you a block from Kin Khao. https://www.sftravel.com/neighborhoods
 
 ---
 
