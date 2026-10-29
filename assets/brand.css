@@ -98,6 +98,7 @@ details p{color:var(--slate);margin:.7em 0 0}
 /* BAMedia company homepage */
 .biz{display:grid;gap:20px;margin-top:28px}
 @media(min-width:820px){.biz{grid-template-columns:1fr 1fr}}
+@media(min-width:1040px){.biz{grid-template-columns:repeat(3,1fr)}}
 .biz .card{display:flex;flex-direction:column;padding:28px}
 .biz .card h3{font-size:1.3rem;font-family:Georgia,"Times New Roman",serif}
 .biz .card p{margin-bottom:1em}
