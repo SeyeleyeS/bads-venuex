@@ -41,6 +41,8 @@ nav a:not(.btn){display:none}
 .hero-grid{display:grid;gap:40px;align-items:center}
 @media(min-width:900px){.hero-grid{grid-template-columns:1.25fr .9fr}.hero{padding:88px 0 96px}}
 .hero-card{background:#fff;border:1px solid var(--line);border-radius:18px;padding:22px;box-shadow:0 20px 50px -24px rgba(15,31,58,.35)}
+.hero-photo{margin:0;overflow:hidden;border-radius:18px;border:1px solid var(--line);box-shadow:0 20px 50px -24px rgba(15,31,58,.35);background:var(--navy)}
+.hero-photo img{display:block;width:100%;height:auto}
 .card-label{font-size:.8rem;font-weight:600;color:var(--slate2);margin-bottom:14px}
 .bubble{padding:12px 15px;border-radius:14px;margin-bottom:12px;font-size:.95rem;max-width:92%}
 .bubble.in{background:var(--bg);border:1px solid var(--line);color:var(--ink)}
