@@ -82,6 +82,12 @@ function foldBrief(root) {
     else intro.appendChild(node);
   });
 
+  var ORDER = ["What's on", "Eat", "Weather", "Traffic", "Getting around", "Stay", "Notes", "Unchecked"];
+  function rank(sec) { var k = ORDER.indexOf(pillLabel(sec.title)); return k < 0 ? ORDER.length : k; }
+  sections = sections.map(function (sec, i) { return { sec: sec, i: i }; })
+    .sort(function (a, b) { return rank(a.sec) - rank(b.sec) || a.i - b.i; })
+    .map(function (x) { return x.sec; });
+
   article.textContent = "";
   article.appendChild(intro);
 
