@@ -1,6 +1,7 @@
-/* BADS app helpers: service worker registration + "Add to Home Screen" hint. */
+/* BADS app helpers: fold the latest brief, service worker, install hint. */
 (function () {
   var root = document.documentElement.getAttribute("data-root") || "./";
+  foldBrief(root);
   if ("serviceWorker" in navigator) {
     window.addEventListener("load", function () {
       navigator.serviceWorker.register(root + "sw.js", { scope: root }).catch(function () {});
@@ -46,3 +47,93 @@
   });
   window.addEventListener("appinstalled", function () { box.hidden = true; });
 })();
+
+function foldBrief(root) {
+  if (root.indexOf("..") === 0) return;
+  var article = document.querySelector("main article.brief");
+  if (!article || article.getAttribute("data-folded") === "1") return;
+  article.setAttribute("data-folded", "1");
+
+  var hero = document.createElement("figure");
+  hero.className = "hero-photo";
+  var img = document.createElement("img");
+  img.src = "/assets/bay.jpg";
+  img.alt = "San Francisco Bay at dusk, from above the Bay Bridge looking toward the Golden Gate";
+  img.width = 1792;
+  img.height = 1008;
+  img.addEventListener("error", function () { hero.remove(); });
+  hero.appendChild(img);
+  article.parentNode.insertBefore(hero, article);
+
+  var nodes = Array.prototype.slice.call(article.childNodes);
+  var intro = document.createElement("div");
+  intro.className = "brief-intro";
+  var sections = [];
+  var current = null;
+  nodes.forEach(function (node) {
+    var isH2 = node.nodeType === 1 && node.tagName === "H2";
+    if (isH2) {
+      current = { title: node.textContent.replace(/\s+/g, " ").trim(), nodes: [node] };
+      sections.push(current);
+      return;
+    }
+    if (!current && node.nodeType === 1 && node.tagName === "HR") return;
+    if (current) current.nodes.push(node);
+    else intro.appendChild(node);
+  });
+
+  article.textContent = "";
+  article.appendChild(intro);
+
+  var nav = document.createElement("div");
+  nav.className = "pills";
+  nav.setAttribute("role", "tablist");
+  nav.setAttribute("aria-label", "Brief sections");
+  var panels = sections.map(function (sec, i) {
+    var panel = document.createElement("section");
+    panel.className = "pill-panel";
+    panel.hidden = true;
+    panel.id = "pill-panel-" + i;
+    sec.nodes.forEach(function (node) { panel.appendChild(node); });
+    article.appendChild(panel);
+    return panel;
+  });
+
+  var open = -1;
+  sections.forEach(function (sec, i) {
+    var button = document.createElement("button");
+    button.type = "button";
+    button.className = "pill";
+    button.textContent = pillLabel(sec.title);
+    button.setAttribute("role", "tab");
+    button.setAttribute("aria-selected", "false");
+    button.setAttribute("aria-controls", panels[i].id);
+    button.addEventListener("click", function () {
+      open = open === i ? -1 : i;
+      panels.forEach(function (panel, j) {
+        var on = j === open;
+        panel.hidden = !on;
+        nav.children[j].classList.toggle("on", on);
+        nav.children[j].setAttribute("aria-selected", on ? "true" : "false");
+      });
+      if (open < 0) return;
+      var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+      panels[open].scrollIntoView({ behavior: reduce ? "auto" : "smooth", block: "nearest" });
+    });
+    nav.appendChild(button);
+  });
+  intro.after(nav);
+}
+
+function pillLabel(title) {
+  var t = title.toLowerCase();
+  if (t.indexOf("weather") >= 0) return "Weather";
+  if (t.indexOf("road") >= 0 || t.indexOf("traffic") >= 0) return "Traffic";
+  if (t.indexOf("what") >= 0) return "What's on";
+  if (t.indexOf("eat") >= 0) return "Eat";
+  if (t.indexOf("getting") >= 0) return "Getting around";
+  if (t.indexOf("stay") >= 0) return "Stay";
+  if (t.indexOf("assumption") >= 0) return "Notes";
+  if (t.indexOf("verified") >= 0) return "Unchecked";
+  return title.length > 18 ? title.slice(0, 16) + "…" : title;
+}
